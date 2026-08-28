@@ -1,0 +1,1361 @@
+CustomerID,FirstName,LastName,PhoneNumber,Email,Age,Town,County,Region,SignupDate,CustomerSegment,MarketingOptIn
+C00001,Joseph,Ali,+254733778884,joseph.ali1@gmail.com,21.0,Nakuru,Nakuru,Rift Valley,2025-01-03,Loyal,Y 
+C00002,Cherono,Nyaga,0768 450 818,cherono.nyaga2@gmail.com,18.0,Migori,Migori,Nyanza,2024-07-06,Loyal,Yes
+C00003,Habiba,Odhiambo,254790441258,habiba.odhiambo3@outlook.com,37.0,Murang'a,Murang'a,Central,2024-05-14,Regular,y
+C00004,John,Nyambura,0701363377 ,john.nyambura4@gmail.com,37.0,Kericho,Kericho,Rift Valley,2023-03-23,Regular,No
+C00005,Collins,Otieno,0733321875,collins.otieno5@gmail.com,18.0,Kakamega,Kakamega,Western,2023-04-04,Regular, No
+C00006,Cherono,Kiptoo,+254790900164,cherono.kiptoo6@outlook.com,34.0,Bungoma,Bungoma,Western,2023-01-01,Regular, No
+C00007,George,Onyango,0759 301 164,george.onyango7@gmail.com,18.0,Ukunda,Kwale,Coast,2023-10-04,Regular,Yes
+C00008,Achieng,Auma,254701545073,achieng.auma8@gmail.com,41.0,Ol Kalou,Nyandarua,Central,2023-12-04,New,No
+C00009,Moraa,Njoroge,0710709168 ,moraa.njoroge9@outlook.com,29.0,Narok,Narok,Rift Valley,2024-12-11,Regular,yes
+C00010,Amina,Ali,0733591299,amina.ali10@gmail.com,44.0,Kericho,Kericho,Rift Valley,2024-05-07,New,No
+C00011,Wairimu,Kariuki,+254110635684,wairimu.kariuki11@gmail.com,22.0,Murang'a,Murang'a,Central,2024-09-28,New,Yes
+C00012,Abdi,Mohamed,0733 156 208,abdi.mohamed12@outlook.com,18.0,Murang'a,Murang'a,Central,2022-11-15,Regular,No
+C00013,Faith,Muriithi,254722362118,faith.muriithi13@gmail.com,31.0,Nakuru,Nakuru,Rift Valley,2023-05-05,Regular,Yes
+C00014,Naliaka,Abdullahi,0759667911 ,naliaka.abdullahi14@gmail.com,53.0,Narok,Narok,Rift Valley,2025-02-24,New,Yes
+C00015,Faith,Mutua,0700676913,faith.mutua15@outlook.com,26.0,Ol Kalou,Nyandarua,Central,2023-02-02,New,No
+C00016,Naliaka,Rono,+254759738609,naliaka.rono16@gmail.com,31.0,Kericho,Kericho,Rift Valley,2023-05-15,New,Yes
+C00017,Nyokabi,Chebet,0759 353 360,nyokabi.chebet17@gmail.com,22.0,Murang'a,Murang'a,Central,2024-09-25,Regular,no
+C00018,Michael,Sang,254745790921,michael.sang18@outlook.com,18.0,Kisumu,Kisumu,Nyanza,2024-11-09,Loyal,Yes
+C00019,Faith,Barasa,0700445142 ,faith.barasa19@gmail.com,,Machakos,Machakos,Eastern,2023-07-23,Regular,No
+C00020,Daniel,Barasa,0759222142,daniel.barasa20@gmail.com,28.0,Kericho,Kericho,Rift Valley,2023-10-08,New,Yes
+C00021,Faith,Kimani,+254700460483,faith.kimani21@outlook.com,26.0,Ol Kalou,Nyandarua,Central,2025-06-04,New,yes
+C00022,Amina,Gitau,0733 113 565,amina.gitau22@gmail.com,37.0,Thika,Kiambu,Nairobi Metro,2025-01-07,Regular,Yes
+C00023,Wairimu,Kiptoo,254759232429,wairimu.kiptoo23@gmail.com,18.0,Nyeri,Nyeri,Central,2024-10-27,New,Yes
+C00024,Stephen,Kiptoo,0745835160 ,stephen.kiptoo24@outlook.com,25.0,Nakuru,Nakuru,Rift Valley,2023-09-04,New,No
+C00025,Muthoni,Onyango,0700984533,muthoni.onyango25@gmail.com,35.0,Busia,Busia,Western,2024-05-18,New,n
+C00026,Akinyi,Achieng,+254700292448,akinyi.achieng26@gmail.com,,Busia,Busia,Western,2025-05-14,VIP,Yes
+C00027,Hassan,Gitau,0710 712 203,hassan.gitau27@outlook.com,18.0,Kilifi,Kilifi,Coast,2023-02-14,New,no
+C00028,Wambui,Onyango,254759650731,wambui.onyango28@gmail.com,46.0,Machakos,Machakos,Eastern,2023-05-04,Regular,Yes
+C00029,Victor,Mwenda,0722443411 ,victor.mwenda29@gmail.com,50.0,Ruiru,Kiambu,Nairobi Metro,2025-05-23,Regular,Yes
+C00030,Habiba,Muriithi,0759751712,habiba.muriithi30@outlook.com,37.0,Kakamega,Kakamega,Western,2023-05-30,Regular,n
+C00031,Faith,Kones,+254790476397,faith.kones31@gmail.com,24.0,Meru,Meru,Eastern,2024-09-09,Regular,Yes
+C00032,Kerubo,Auma,0701 373 525,kerubo.auma32@gmail.com,37.0,Thika,Kiambu,Nairobi Metro,2022-12-19,Regular,Yes
+C00033,Mercy,Maina,254768267439,mercy.maina33@outlook.com,18.0,Kericho,Kericho,Rift Valley,2025-03-14,Regular,Yes
+C00034,Wanjiku,Kariuki,0733808269 ,wanjiku.kariuki34@gmail.com,28.0,Nakuru,Nakuru,Rift Valley,2022-04-29,New, No
+C00035,Naliaka,Wanjiru,0790783264,naliaka.wanjiru35@gmail.com,29.0,Westlands,Nairobi,Nairobi Metro,2024-06-11,New,Yes
+C00036,Peter,Mutua,+254768732164,peter.mutua36@outlook.com,41.0,Meru,Meru,Eastern,2024-07-20,New,Yes
+C00037,Paul,Barasa,0733 235 962,paul.barasa37@gmail.com,40.0,Machakos,Machakos,Eastern,2023-11-02,New,Yes
+C00038,Nyokabi  ,Cherono,254733346830,nyokabi.cherono38@gmail.com,41.0,Ol Kalou,Nyandarua,Central,2022-09-11,Loyal,Yes
+C00039,Adhiambo,Njuguna,0733929623 ,adhiambo.njuguna39@outlook.com,54.0,Bungoma,Bungoma,Western,2024-03-28,Regular,No
+C00040,Collins,Kones,0701672106,collins.kones40@gmail.com,32.0,Ukunda,Kwale,Coast,2025-05-03,Loyal,No
+C00041,James,Mutua,+254701393199,james.mutua41@gmail.com,30.0,Ruiru,Kiambu,Nairobi Metro,2024-06-26,Regular,No
+C00042,Achieng  ,Mohamed,0768 284 264,achieng.mohamed42@outlook.com,36.0,Embu,embu,Eastern,2022-10-25,Loyal,Yes
+C00043,Kerubo,Wekesa,254768640785,kerubo.wekesa43@gmail.com,38.0,Westlands,Nairobi,Nairobi Metro,2025-01-22,Regular,Yes
+C00044,Chebet,Rono,0759297554 ,chebet.rono44@gmail.com,45.0,Ukunda,Kwale,Coast,2024-12-19,New,Yes
+C00045,Peter,Kimani,0722901538,peter.kimani45@outlook.com,25.0,Murang'a,Murang'a,Central,2023-08-29,New,YES
+C00046,Grace,Wafula,+254745615022,grace.wafula46@gmail.com,29.0,Meru,Meru,Eastern,2022-04-11,Regular,Yes
+C00047,Kerubo,Njoroge,0745 413 481,kerubo.njoroge47@gmail.com,26.0,Ol Kalou,Nyandarua,Central,2025-02-24,Regular,y
+C00048,Wambui,Muriithi,254733878779,wambui.muriithi48@outlook.com,33.0,Westlands,Nairobi,Nairobi Metro,2023-08-07,Loyal,Yes
+C00049,Felix,Kimani,0700444750 ,felix.kimani49@gmail.com,22.0,Mombasa,Mombasa,Coast,2023-04-25,Loyal,No
+C00050,Amina,Maina,0759522600,amina.maina50@gmail.com,18.0,Kilifi,Kilifi,Coast,2023-07-12,Regular,Yes
+C00051,Paul,Ali,+254722260006,,35.0,Nakuru,Nakuru,Rift Valley,2022-02-24,Regular,yes
+C00052,Stephen,Onyango,0745 958 217,stephen.onyango52@gmail.com,29.0,Westlands,Nairobi,Nairobi Metro,2022-11-01,Regular,Yes
+C00053,Ibrahim,Wanjiru,254768164183,ibrahim.wanjiru53@gmail.com,24.0,Busia,Busia,Western,2024-01-13,Loyal,Yes
+C00054,Akinyi,Muriithi,0710278329 ,akinyi.muriithi54@outlook.com,21.0,Murang'a,Murang'a,Central,2023-07-26,Regular,Yes
+C00055,Halima,Mohamed,0790843197,halima.mohamed55@gmail.com,31.0,Kakamega,Kakamega,Western,2024-03-15,Loyal,No
+C00056,Abdi  ,Auma,+254701462715,abdi.auma56@gmail.com,46.0,Bungoma,Bungoma,Western,2023-02-16,New,yes
+C00057,Akinyi,Njuguna,0759 846 699,akinyi.njuguna57@outlook.com,54.0,Nakuru,Nakuru,Rift Valley,2024-06-11,Regular,No
+C00058,Adhiambo,Rono,254759191163,adhiambo.rono58@gmail.com,25.0,Murang'a,Murang'a,Central,2024-02-28,New,No
+C00059,Nyokabi,Otieno,0710729271 ,nyokabi.otieno59@gmail.com,40.0,Ruiru,Kiambu,Nairobi Metro,2025-03-29,New,yes
+C00060,Kevin,Adhiambo,0768929430,kevin.adhiambo60@outlook.com,29.0,Ruiru,Kiambu,Nairobi Metro,2023-10-10,New,Yes
+C00061,Moraa,Abdullahi,+254700726816,moraa.abdullahi61@gmail.com,46.0,Embu,Embu,Eastern,2023-11-13,Loyal,Yes
+C00062,Dennis,Kones,0790 983 882,dennis.kones62@gmail.com,18.0,Thika,Kiambu,Nairobi Metro,2024-02-05,Loyal,No
+C00063,Cherono,Rono,254722534552,cherono.rono63@outlook.com,33.0,Kilifi,Kilifi,Coast,2023-02-09,Loyal,Yes
+C00064,Kelvin,Wekesa,0710510175 ,,31.0,Ol Kalou,Nyandarua,Central,2023-09-20,Regular,Yes
+C00065,Njeri,Ali,0701871796,njeri.ali65@gmail.com,26.0,Narok,Narok,Rift Valley,2022-06-30,Regular,yes
+C00066,Yusuf,Nyaga,+254701518316,yusuf.nyaga66@outlook.com,47.0,Mombasa,Mombasa,Coast,2024-03-04,Regular,Yes
+C00067,Kerubo,Kamau,0700 795 014,kerubo.kamau67@gmail.com,32.0,Nakuru,Nakuru,Rift Valley,2022-02-14,Regular,Yes
+C00068,Peter,Wekesa,254110779476,peter.wekesa68@gmail.com,32.0,Kilifi,Kilifi,Coast,2023-07-10,Regular,No
+C00069,Kevin,Nyambura,0710502041 ,kevin.nyambura69@outlook.com,32.0,Nakuru,Nakuru,Rift Valley,2023-02-08,Loyal,Yes
+C00070,Abdi,Cherono,0790642224,abdi.cherono70@gmail.com,30.0,Thika,Kiambu,Nairobi Metro,2023-01-26,VIP,No
+C00071,Abdi,Adhiambo,+254701276829,abdi.adhiambo71@gmail.com,50.0,Murang'a,Murang'a,Central,2023-09-11,New,Yes
+C00072,Kelvin,Kiptoo,0733 915 178,kelvin.kiptoo72@outlook.com,18.0,Kisii,Kisii,Nyanza,2022-07-27,New,Yes
+C00073,Nafula,Kimani,254759415448,nafula.kimani73@gmail.com,39.0,Westlands,Nairobi,Nairobi Metro,2025-05-04,New,Y 
+C00074,David,Wekesa,0110611731 ,david.wekesa74@gmail.com,25.0,Busia,Busia,Western,2023-10-02,Regular,No
+C00075,Brian,Mwangi,0790927436,brian.mwangi75@outlook.com,28.0,Ol Kalou,Nyandarua,Central,2024-06-01,VIP,Yes
+C00076,Nyokabi,Nyaga,+254733804975,nyokabi.nyaga76@gmail.com,50.0,Murang'a,Murang'a,Central,2024-05-14,Loyal,Yes
+C00077,Daniel,Njuguna,0768 705 633,daniel.njuguna77@gmail.com,22.0,Mombasa,Mombasa,Coast,2023-08-12,VIP,No
+C00078,Nafula,Njuguna,,nafula.njuguna78@outlook.com,32.0,Eldoret,Uasin Gishu,Rift Valley,2024-05-05,Regular,Yes
+C00079,Wambui,Otieno,0759762960 ,wambui.otieno79@gmail.com,36.0,Nakuru,Nakuru,Rift Valley,2023-08-06,Regular,Yes
+C00080,Zainab,Nyambura,0700778593,zainab.nyambura80@gmail.com,37.0,Thika,Kiambu,Nairobi Metro,2024-12-17,Regular,No
+C00081,Faith,Kimani,+254768489950,faith.kimani81@outlook.com,31.0,Kakamega,Kakamega,Western,2022-10-27,New,No
+C00082,Halima,Maina,0701 436 763,halima.maina82@gmail.com,34.0,Ukunda,Kwale,Coast,2024-06-13,Regular,y
+C00083,David,Wekesa,254759375346,david.wekesa83@gmail.com,32.0,Kilifi,Kilifi,Coast,2022-05-19,Regular,No
+C00084,Wairimu,Wekesa,0768130668 ,wairimu.wekesa84@outlook.com,25.0,Ukunda,Kwale,Coast,2024-05-06,Regular,Yes
+C00085,Kevin  ,Barasa,0759787271,kevin.barasa85@gmail.com,21.0,Kisumu,Kisumu,Nyanza,2023-03-29,Regular,No
+C00086,Wairimu,Kones,+254722172026,wairimu.kones86@gmail.com,,Thika,Kiambu,Nairobi Metro,2022-08-28,VIP,Yes
+C00087,Brian,Gitau,0790 505 831,brian.gitau87@outlook.com,27.0,Nyeri,Nyeri,Central,2022-09-18,VIP,No
+C00088,Dennis,Auma,254768955060,dennis.auma88@gmail.com,30.0,Busia,Busia,Western,2023-09-15,New,No
+C00089,John,Nyambura,0722941099 ,john.nyambura89@gmail.com,39.0,Kilifi,Kilifi,Coast,2024-07-02,Regular,Yes
+C00090,Samuel,Nyaga,0722595050,samuel.nyaga90@outlook.com,20.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-07-24,New,Yes
+C00091,David,Gitau,+254701979710,david.gitau91@gmail.com,45.0,Bungoma,Bungoma,Western,2022-04-02,New,Yes
+C00092,Wanjiku,Abdullahi,0110 737 605,wanjiku.abdullahi92@gmail.com,60.0,Kericho,Kericho,Rift Valley,2024-02-03,New,No
+C00093,Wanjiru,Wekesa,254768885904,wanjiru.wekesa93@outlook.com,36.0,Kisumu,Kisumu,Nyanza,2025-03-12,Regular,Yes
+C00094,Paul,Wanjiru,0110297271 ,paul.wanjiru94@gmail.com,33.0,Ukunda,Kwale,Coast,2024-12-25,New,No
+C00095,Njeri,Kones,0700485545,njeri.kones95@gmail.com,41.0,Ruiru,Kiambu,Nairobi Metro,2022-05-11,New,Y 
+C00096,Achieng,Otieno,+254110177885,achieng.otieno96@outlook.com,35.0,Eldoret,Uasin Gishu,Rift Valley,2022-08-24,Loyal,yes
+C00097,Njeri,Maina,0700 308 384,njeri.maina0@gmail.com,31.0,Kisii,Kisii,Nyanza,2024-03-14,New,No
+C00098,Zainab,Wanjiru,254710835417,zainab.wanjiru1@gmail.com,29.0,BUSIA,Busia,Western,2024-08-24,Regular,Yes
+C00099,Adhiambo,Rono,0745437505 ,adhiambo.rono2@outlook.com,32.0,Karen,Nairobi,Nairobi Metro,2025-03-03,New,no
+C00100,Yusuf,Odhiambo,0701807894,yusuf.odhiambo3@gmail.com,21.0,Kisii,Kisii,Nyanza,2025-05-31,Regular,Yes
+C00101,James,Barasa,+254722928651,james.barasa4@gmail.com,58.0,Mombasa,Mombasa,Coast,2025-01-11,VIP,yes
+C00102,Wanjiru,Ali,0768 380 209,wanjiru.ali5@outlook.com,34.0,Ol Kalou,Nyandarua,Central,2025-03-25,Regular,Yes
+C00103,Kevin,Nyambura,254759641685,kevin.nyambura6@gmail.com,32.0,Murang'a,Murang'a,Central,2022-09-17,Loyal,No
+C00104,Wairimu,Barasa,0768385082 ,wairimu.barasa7@gmail.com,,Ol Kalou,nyandarua,Central,2025-07-14,Regular,Yes
+C00105,James,Achieng,0700736368,james.achieng8@outlook.com,18.0,Karen,Nairobi,Nairobi Metro,2022-05-06,New,Yes
+C00106,Grace,Onyango,+254701560129,grace.onyango9@gmail.com,-3.0,Bungoma,Bungoma,Western,2024-05-02,Regular,No
+C00107,Michael  ,Maina,0701 387 832,michael.maina10@gmail.com,36.0,Eldoret,Uasin Gishu,Rift Valley,2025-05-18,New,No
+C00108,Kerubo,Auma,254759661376,kerubo.auma11@outlook.com,25.0,Nakuru,Nakuru,Rift Valley,2025-03-06,Loyal,yes
+C00109,Michael,Nyambura,0759991400 ,michael.nyambura12@gmail.com,18.0,Nakuru,Nakuru,Rift Valley,2024-11-29,New,yes
+C00110,Grace,Wanjiru,0768977618,grace.wanjiru13@gmail.com,37.0,Ruiru,Kiambu,Nairobi Metro,2023-09-28,Regular,Y 
+C00111,John,Muriithi,+254790754896,john.muriithi14@outlook.com,32.0,Ruiru,Kiambu,Nairobi Metro,2024-05-08,New,yes
+C00112,George,Kimani,0745 443 329,george.kimani15@gmail.com,26.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-08-07,Regular,No
+C00113,Wairimu,Hassan,254700970580,wairimu.hassan16@gmail.com,42.0,Meru,Meru,Eastern,2022-08-14,Loyal,y
+C00114,Abdi,Maina,0722873654 ,abdi.maina17@outlook.com,41.0,Narok,Narok,Rift Valley,2024-05-04,Regular,yes
+C00115,Abdi,Kones,0700292414,abdi.kones18@gmail.com,18.0,Nyeri,Nyeri,Central,2024-07-24,Regular,Yes
+C00116,Stephen  ,Kamau,+254768826528,stephen.kamau19@gmail.com,32.0,Meru,Meru,Eastern,2022-12-18,Regular,Yes
+C00117,Dennis,Wanjiru,0733 160 662,,44.0,Murang'a,Murang'a,Central,2022-04-01,New, No
+C00118,John,Kiptoo,254110966027,john.kiptoo21@gmail.com,30.0,Karen,Nairobi,Nairobi Metro,2022-03-22,VIP,No
+C00119,Chebet,Muriithi,0733667808 ,chebet.muriithi22@gmail.com,22.0,Murang'a,Murang'a,Central,2022-08-20,VIP,No
+C00120,Chebet,Kamau,,chebet.kamau23@outlook.com,44.0,Ol Kalou,Nyandarua,Central,2022-03-25,Regular,Yes
+C00121,Amina,Mwenda,+254733201231,amina.mwenda24@gmail.com,31.0,Meru,Meru,Eastern,2023-01-13,New,No
+C00122,Nyokabi,Mwangi,0110 227 681,nyokabi.mwangi25@gmail.com,31.0,Murang'a,Murang'a,Central,2024-08-06,New,YES
+C00123,Abdi,Kiptoo,254700203277,abdi.kiptoo26@outlook.com,28.0,Embu,Embu,Eastern,2022-09-03,Regular,Y 
+C00124,Samuel,Achieng,0768698129 ,samuel.achieng27@gmail.com,28.0,Kericho,Kericho,Rift Valley,2025-06-04,Regular,Yes
+C00125,Zainab,Nyaga,0759469499,zainab.nyaga28@gmail.com,43.0,Kisii,Kisii,Nyanza,2025-03-21,New, No
+C00126,David,Adhiambo,+254768454671,david.adhiambo29@outlook.com,33.0,Ukunda,Kwale,Coast,2023-08-28,Regular,No
+C00127,Peter,Abdullahi,0710 350 523,peter.abdullahi30@gmail.com,18.0,Murang'a,Murang'a,Central,2022-05-03,New,y
+C00128,Brian  ,Nyambura,254710963003,brian.nyambura31@gmail.com,35.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-06-27,New,Yes
+C00129,Anthony,Njuguna,0745192323 ,anthony.njuguna32@outlook.com,18.0,Machakos,Machakos,Eastern,2022-04-23,Regular,Yes
+C00130,Daniel,Nyaga,0745829859,,18.0,Ukunda,Kwale,Coast,2024-11-19,Loyal,Yes
+C00131,Anthony,Njoroge,+254790907676,anthony.njoroge34@gmail.com,39.0,Ruiru,Kiambu,Nairobi Metro,2023-12-06,Regular,Yes
+C00132,John,Kones,0710 559 797,john.kones35@outlook.com,39.0,Ol Kalou,Nyandarua,Central,2024-11-22,New,No
+C00133,Wambui,Maina,254701565409,wambui.maina36@gmail.com,52.0,Kakamega,Kakamega,Western,2024-08-08,New,Yes
+C00134,Fatuma,Kamau,0768473417 ,fatuma.kamau37@gmail.com,24.0,Migori,Migori,Nyanza,2024-11-12,Loyal,n
+C00135,Kerubo,Hussein,0745684340,kerubo.hussein38@outlook.com,59.0,Bungoma,Bungoma,Western,2024-07-23,Regular,Yes
+C00136,James,Adhiambo,+254701356211,james.adhiambo39@gmail.com,44.0,Narok,Narok,Rift Valley,2025-05-02,Loyal,No
+C00137,Dennis,Cherono,0110 191 388,dennis.cherono40@gmail.com,42.0,Machakos,Machakos,Eastern,2023-06-17,VIP,No
+C00138,Grace,Auma,254701644441,grace.auma41@outlook.com,18.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-06-26,New,Yes
+C00139,Paul,Abdullahi,0768688103 ,paul.abdullahi42@gmail.com,53.0,Karen,Nairobi,Nairobi Metro,2023-12-15,New,NO
+C00140,Wanjiru,Wekesa,0710840124,wanjiru.wekesa43@gmail.com,24.0,Ukunda,Kwale,Coast,2022-08-17,VIP,Yes
+C00141,Paul,Nyaga,+254110460419,paul.nyaga44@outlook.com,49.0,Kericho,Kericho,Rift Valley,2022-01-08,Regular,No
+C00142,Halima,Njuguna,0790 687 254,halima.njuguna45@gmail.com,34.0,Karen,Nairobi,Nairobi Metro,2024-09-01,Regular,Yes
+C00143,Habiba,Odhiambo,254733422465,habiba.odhiambo46@gmail.com,18.0,Ukunda,Kwale,Coast,2025-03-09,New,Yes
+C00144,Joseph  ,Onyango,0110232716 ,joseph.onyango47@outlook.com,22.0,Nyeri,Nyeri,Central,2022-09-27,Regular,Yes
+C00145,Akinyi,Muriithi,0733960914,akinyi.muriithi48@gmail.com,25.0,Migori,Migori,Nyanza,2024-08-24,Loyal,No
+C00146,Amina,Cherono,+254722513817,amina.cherono49@gmail.com,60.0,Busia,Busia,Western,2022-02-13,Loyal,No
+C00147,George,Njuguna,0710 180 800,george.njuguna50@outlook.com,30.0,Kilifi,kilifi,Coast,2024-01-27,Loyal,Yes
+C00148,Wambui,Njuguna,254710743970,wambui.njuguna51@gmail.com,28.0,Ol Kalou,Nyandarua,Central,2022-05-05,New,Y 
+C00149,Joseph,Kimani,0745924215 ,joseph.kimani52@gmail.com,23.0,Kisumu,Kisumu,Nyanza,2024-02-08,Regular,Yes
+C00150,Dennis,Kones,0733425801,dennis.kones53@outlook.com,36.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-08-07,Loyal,Yes
+C00151,Wambui,Mohamed,+254790766193,wambui.mohamed54@gmail.com,41.0,Machakos,Machakos,Eastern,2024-09-15,Regular,Yes
+C00152,Samuel,Achieng,0768 892 148,samuel.achieng55@gmail.com,27.0,Karen,Nairobi,Nairobi Metro,2023-06-21,Regular,Yes
+C00153,Kevin,Achieng,254700196745,kevin.achieng56@outlook.com,45.0,Kericho,Kericho,Rift Valley,2023-05-15,Regular,Yes
+C00154,Collins,Wekesa,0768467285 ,collins.wekesa57@gmail.com,32.0,Meru,Meru,Eastern,2023-07-31,Regular,No
+C00155,Wairimu,Kamau,0733128436,wairimu.kamau58@gmail.com,24.0,Nyeri,Nyeri,Central,2023-09-05,Loyal,Yes
+C00156,Samuel,Odhiambo,+254700214652,samuel.odhiambo59@outlook.com,44.0,Embu,Embu,Eastern,2022-03-24,Loyal,No
+C00157,John,Kimani,0701 356 251,john.kimani60@gmail.com,36.0,Karen,Nairobi,Nairobi Metro,2024-03-03,Regular,Yes
+C00158,Wairimu,Mohamed,254710968635,wairimu.mohamed61@gmail.com,22.0,Nyeri,Nyeri,Central,2023-08-18,Loyal,Yes
+C00159,George,Cherono,0700877226 ,george.cherono62@outlook.com,23.0,Kilifi,Kilifi,Coast,2025-02-25,Regular,No
+C00160,Kelvin,Kilonzo,0722923827,kelvin.kilonzo63@gmail.com,27.0,Nakuru,Nakuru,Rift Valley,2024-02-26,Loyal,YES
+C00161,Kevin,Muriithi,+254745972879,kevin.muriithi64@gmail.com,38.0,Murang'a,Murang'a,Central,2023-10-02,VIP,No
+C00162,Njeri,Kamau,0722 458 963,njeri.kamau65@outlook.com,38.0,Kakamega,Kakamega,Western,2022-08-08,New,yes
+C00163,David,Kamau,254110761081,david.kamau66@gmail.com,20.0,Thika,Kiambu,Nairobi Metro,2025-04-20,New,No
+C00164,Yusuf,Auma,0700363827 ,yusuf.auma67@gmail.com,28.0,Karen,Nairobi,Nairobi Metro,2022-02-13,Loyal,No
+C00165,Daniel,Maina,0745900491,daniel.maina68@outlook.com,32.0,Mombasa,Mombasa,Coast,2022-11-29,New,NO
+C00166,Wanjiru,Nyambura,+254701153693,wanjiru.nyambura69@gmail.com,35.0,Embu,Embu,Eastern,2023-12-10,Loyal,No
+C00167,Achieng,Kamau,0768 960 074,achieng.kamau70@gmail.com,43.0,Kericho,Kericho,Rift Valley,2024-07-19,Loyal,YES
+C00168,Kerubo,Hassan,254701754717,kerubo.hassan71@outlook.com,31.0,Eldoret,Uasin Gishu,Rift Valley,2023-04-23,New,No
+C00169,Paul,Achieng,0759812849 ,paul.achieng72@gmail.com,27.0,Ruiru,Kiambu,Nairobi Metro,2023-12-29,Regular,No
+C00170,Hassan,Chebet,0790920780,hassan.chebet73@gmail.com,23.0,Kilifi,Kilifi,Coast,2024-10-25,Regular,Yes
+C00171,Grace,Mutua,+254759784269,grace.mutua74@outlook.com,32.0,Westlands,Nairobi,Nairobi Metro,2025-04-05,New,Yes
+C00172,Omar,Onyango,0759 704 663,omar.onyango75@gmail.com,29.0,Machakos,Machakos,Eastern,2023-04-20,Loyal,YES
+C00173,Joseph,Nyambura,254759198871,joseph.nyambura76@gmail.com,32.0,Kakamega,Kakamega,Western,2023-10-12,New,No
+C00174,Mercy,Nyambura,0110654982 ,mercy.nyambura77@outlook.com,47.0,Migori,Migori,Nyanza,2024-12-14,New,No
+C00175,Michael,Maina,0759895381,michael.maina78@gmail.com,46.0,Murang'a,Murang'a,Central,2022-06-10,Regular,Yes
+C00176,Faith,Muriithi,+254722469019,faith.muriithi79@gmail.com,40.0,Meru,Meru,Eastern,2023-11-16,Regular,No
+C00177,Adhiambo,Kones,0722 368 659,adhiambo.kones80@outlook.com,47.0,Kericho,Kericho,Rift Valley,2024-08-15,Regular,No
+C00178,Brian,Adhiambo,254710115314,brian.adhiambo81@gmail.com,28.0,Kisii,Kisii,Nyanza,2023-07-03,Loyal,Yes
+C00179,Muthoni,Odhiambo,0701540390 ,muthoni.odhiambo82@gmail.com,48.0,Kericho,Kericho,Rift Valley,2023-11-11,Regular,Y 
+C00180,Adhiambo,Muriithi,0768743517,adhiambo.muriithi83@outlook.com,36.0,Kisii,Kisii,Nyanza,2024-04-13,Regular,Yes
+C00181,Habiba,Mutua,+254710936057,habiba.mutua84@gmail.com,22.0,Karen,Nairobi,Nairobi Metro,2023-10-04,Regular,y
+C00182,Brian,Wanjiru,0790 363 934,brian.wanjiru85@gmail.com,55.0,Thika,Kiambu,Nairobi Metro,2024-01-04,Loyal,Yes
+C00183,Njeri,Kones,254701268563,njeri.kones86@outlook.com,37.0,Machakos,Machakos,Eastern,2024-03-15,Loyal,Yes
+C00184,Felix,Muriithi,0790685238 ,felix.muriithi87@gmail.com,34.0,Bungoma,Bungoma,Western,2024-07-15,VIP,No
+C00185,James,Chebet,0745438880,james.chebet88@gmail.com,31.0,Murang'a,Murang'a,Central,2024-05-15,Loyal,Yes
+C00186,Joseph,Mutua,+254790737242,joseph.mutua89@outlook.com,31.0,Ol Kalou,Nyandarua,Central,2024-10-24,New,No
+C00187,James,Kiptoo,0701 181 530,james.kiptoo90@gmail.com,36.0,Kakamega,Kakamega,Western,2022-09-19,New,n
+C00188,Stephen,Abdullahi,254722389288,stephen.abdullahi91@gmail.com,48.0,Murang'a,Murang'a,Central,2022-11-03,Regular, No
+C00189,Nyokabi,Kariuki,0700531250 ,nyokabi.kariuki92@outlook.com,34.0,Murang'a,Murang'a,Central,2024-01-20,Regular,No
+C00190,Collins,Mwenda,0700517716,collins.mwenda93@gmail.com,23.0,Mombasa,Mombasa,Coast,2022-05-23,Loyal,Yes
+C00191,Anthony,Sang,+254701686040,anthony.sang94@gmail.com,44.0,Thika,Kiambu,Nairobi Metro,2023-12-07,Regular,YES
+C00192,Zainab,Mutua,0722 794 655,zainab.mutua95@outlook.com,27.0,Machakos,Machakos,Eastern,2022-03-19,New,Yes
+C00193,Wanjiku,Kones,254110682709,wanjiku.kones96@gmail.com,35.0,Nakuru,Nakuru,Rift Valley,2023-02-23,Regular,No
+C00194,John,Hassan,0710710429 ,john.hassan0@gmail.com,41.0,Kisii,Kisii,Nyanza,2023-02-17,Regular,yes
+C00195,Felix,Auma,0700664503,felix.auma1@outlook.com,39.0,Busia,Busia,Western,2024-02-29,Regular,yes
+C00196,Adhiambo,Ali,+254710297970,adhiambo.ali2@gmail.com,50.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-12-28,Regular,No
+C00197,Stephen,Kilonzo,0701 382 865,stephen.kilonzo3@gmail.com,48.0,Murang'a,Murang'a,Central,2025-03-07,Regular,Yes
+C00198,Njeri,Njuguna,254722902458,njeri.njuguna4@outlook.com,42.0,Busia,Busia,Western,2022-12-05,New,Yes
+C00199,Kevin,Kamau,0745418519 ,kevin.kamau5@gmail.com,38.0,Karen,Nairobi,Nairobi Metro,2022-06-03,Regular,No
+C00200,Faith,Sang,0110426553,faith.sang6@gmail.com,36.0,Migori,Migori,Nyanza,2023-09-26,Loyal,YES
+C00201,Cherono,Nyambura,+254759429032,cherono.nyambura7@outlook.com,24.0,Eldoret,Uasin Gishu,Rift Valley,2023-07-17,Regular,Yes
+C00202,Nyokabi,Njuguna,0759 363 166,nyokabi.njuguna8@gmail.com,19.0,Migori,Migori,Nyanza,2025-04-17,Loyal,No
+C00203,Stephen,Muriithi,254768949527,stephen.muriithi9@gmail.com,18.0,Mombasa,Mombasa,Coast,2025-02-07,VIP,y
+C00204,Victor,Rono,0710433381 ,victor.rono10@outlook.com,25.0,Kisumu,Kisumu,Nyanza,2024-05-02,Regular,Yes
+C00205,Faith,Mwangi,0110475395,faith.mwangi11@gmail.com,51.0,Kilifi,Kilifi,Coast,2023-05-29,New,No
+C00206,Naliaka,Nyaga,+254722310289,naliaka.nyaga12@gmail.com,36.0,Kericho,Kericho,Rift Valley,2022-05-25,Regular,Yes
+C00207,George,Nyaga,0710 796 497,george.nyaga13@outlook.com,39.0,Eldoret,Uasin Gishu,Rift Valley,2022-09-03,Regular,y
+C00208,Collins,Kones,254701516503,collins.kones14@gmail.com,,Ruiru,Kiambu,Nairobi Metro,2022-06-22,New,No
+C00209,Dennis,Kariuki,0745586921 ,dennis.kariuki15@gmail.com,29.0,Karen,Nairobi,Nairobi Metro,2025-05-13,Loyal,No
+C00210,Muthoni,Muriithi,0701755284,muthoni.muriithi16@outlook.com,20.0,Ruiru,Kiambu,Nairobi Metro,2024-12-13,Loyal,No
+C00211,George,Mohamed,+254790698674,george.mohamed17@gmail.com,34.0,Kakamega,Kakamega,Western,2023-01-23,Regular,Yes
+C00212,Hassan,Kamau,,hassan.kamau18@gmail.com,,Eldoret,Uasin Gishu,Rift Valley,2024-12-21,Regular,YES
+C00213,Abdi,Kariuki,254701637259,abdi.kariuki19@outlook.com,49.0,Narok,Narok,Rift Valley,2025-01-12,Regular,Yes
+C00214,Yusuf,Mwenda,0790557105 ,yusuf.mwenda20@gmail.com,31.0,Embu,Embu,Eastern,2022-07-01,New,No
+C00215,Grace,Wanjiru,0790736124,grace.wanjiru21@gmail.com,22.0,Nyeri,Nyeri,Central,2022-04-22,Loyal,No
+C00216,Stephen,Kariuki,+254700496940,stephen.kariuki22@outlook.com,32.0,Kakamega,Kakamega,Western,2024-01-29,Regular,Yes
+C00217,Dennis,Odhiambo,0722 448 777,dennis.odhiambo23@gmail.com,43.0,Kericho,Kericho,Rift Valley,2023-02-04,Regular,Yes
+C00218,Peter,Abdullahi,254733945789,peter.abdullahi24@gmail.com,50.0,Eldoret,Uasin Gishu,Rift Valley,2025-04-01,New,No
+C00219,James,Wekesa,0701500480 ,james.wekesa25@outlook.com,20.0,Busia,Busia,Western,2024-04-21,Regular,Yes
+C00220,Michael,Cherono,0710414227,michael.cherono26@gmail.com,25.0,Karen,Nairobi,Nairobi Metro,2023-10-16,Regular,Yes
+C00221,Daniel,Onyango,+254768915874,daniel.onyango27@gmail.com,29.0,Kisumu,Kisumu,Nyanza,2025-07-11,Loyal,Yes
+C00222,Njeri,Cherono,0790 135 282,njeri.cherono28@outlook.com,26.0,Bungoma,Bungoma,Western,2024-05-27,VIP,Yes
+C00223,Collins,Auma,254110527440,collins.auma29@gmail.com,18.0,Ol Kalou,Nyandarua,Central,2022-05-13,Regular, No
+C00224,David,Mohamed,0722331011 ,david.mohamed30@gmail.com,18.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-06-11,Loyal,yes
+C00225,Daniel,Muriithi,0700646778,daniel.muriithi31@outlook.com,51.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-08-18,Regular,y
+C00226,John,Wafula,+254759545321,john.wafula32@gmail.com,49.0,Murang'a,Murang'a,Central,2023-07-21,New,Yes
+C00227,James,Onyango,0745 713 590,james.onyango33@gmail.com,50.0,Kisumu,Kisumu,Nyanza,2022-11-19,VIP,n
+C00228,Stephen,Mutua,254733384088,stephen.mutua34@outlook.com,18.0,Ol Kalou,Nyandarua,Central,2022-11-06,Regular,Y 
+C00229,Faith,Ali,0700992188 ,faith.ali35@gmail.com,46.0,Thika,Kiambu,Nairobi Metro,2023-07-02,Loyal,Yes
+C00230,Abdi,Muriithi,0768708601,abdi.muriithi36@gmail.com,18.0,Kilifi,Kilifi,Coast,2023-11-27,Regular,Y 
+C00231,Kerubo,Ali,+254110898440,kerubo.ali37@outlook.com,38.0,Karen,nairobi,Nairobi Metro,2022-08-23,Regular,n
+C00232,Omar,Achieng,0733 714 802,omar.achieng38@gmail.com,27.0,Nyeri,Nyeri,Central,2022-04-03,New,No
+C00233,Emmanuel,Kones,254745878323,emmanuel.kones39@gmail.com,23.0,Thika,Kiambu,Nairobi Metro,2025-04-16,Regular,No
+C00234,David,Sang,0745877770 ,david.sang40@outlook.com,42.0,Eldoret,Uasin Gishu,Rift Valley,2023-04-13,Regular,Yes
+C00235,Felix,Chebet,0745604665,felix.chebet41@gmail.com,23.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-06-28,Loyal,No
+C00236,Chebet,Njoroge,+254768695085,chebet.njoroge42@gmail.com,28.0,Eldoret,Uasin Gishu,Rift Valley,2023-12-07,New,No
+C00237,Samuel,Wafula,0110 878 109,samuel.wafula43@outlook.com,38.0,Ukunda,Kwale,Coast,2024-06-13,Regular,Yes
+C00238,Amina,Wanjiru,254733745608,amina.wanjiru44@gmail.com,40.0,Embu,Embu,Eastern,2022-08-22,Regular,Yes
+C00239,Nafula,Cherono,0733545920 ,nafula.cherono45@gmail.com,51.0,Kisumu,Kisumu,Nyanza,2022-03-23,New,Yes
+C00240,Abdi,Mwenda,0700426297,abdi.mwenda46@outlook.com,37.0,Nakuru,Nakuru,Rift Valley,2023-03-16,Loyal,Yes
+C00241,Amina,Kamau,+254722896738,amina.kamau47@gmail.com,31.0,Kisumu,Kisumu,Nyanza,2024-11-16,Regular,Yes
+C00242,Njeri,Gitau,0110 299 406,njeri.gitau48@gmail.com,46.0,Kilifi,Kilifi,Coast,2025-02-12,Loyal,YES
+C00243,Abdi,Adhiambo,254759987159,abdi.adhiambo49@outlook.com,39.0,Ol Kalou,Nyandarua,Central,2022-02-01,Loyal,NO
+C00244,Victor,Muriithi,0700818524 ,victor.muriithi50@gmail.com,18.0,Kisumu,Kisumu,Nyanza,2025-07-13,Loyal,No
+C00245,Peter  ,Abdullahi,0722627810,peter.abdullahi51@gmail.com,48.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-08-23,New,No
+C00246,Wanjiku,Kamau,+254700848537,wanjiku.kamau52@outlook.com,28.0,Eldoret,Uasin Gishu,Rift Valley,2024-08-17,New,Yes
+C00247,Mercy,Mwangi,0110 318 517,mercy.mwangi53@gmail.com,22.0,Migori,Migori,Nyanza,2023-08-26,VIP,No
+C00248,Michael,Nyambura,254701709503,michael.nyambura54@gmail.com,18.0,Embu,Embu,Eastern,2022-03-01,New,Yes
+C00249,Nafula,Kilonzo,0790454908 ,nafula.kilonzo55@outlook.com,50.0,Kericho,Kericho,Rift Valley,2024-12-18,New,yes
+C00250,Samuel,Maina,,samuel.maina56@gmail.com,50.0,Ukunda,Kwale,Coast,2024-02-07,New,No
+C00251,Nyokabi,Kariuki,+254722569631,nyokabi.kariuki57@gmail.com,46.0,Karen,Nairobi,Nairobi Metro,2025-01-16,Regular,No
+C00252,Wairimu,Hassan,0710 784 648,wairimu.hassan58@outlook.com,26.0,Mombasa,Mombasa,Coast,2024-08-05,Regular,Yes
+C00253,Peter,Mwangi,254722794574,peter.mwangi59@gmail.com,20.0,Kisumu,Kisumu,Nyanza,2023-05-09,Regular,YES
+C00254,Zainab,Chebet,0768358371 ,zainab.chebet60@gmail.com,25.0,Nakuru,Nakuru,Rift Valley,2022-06-09,Regular,Yes
+C00255,Kelvin,Kiptoo,0710230365,kelvin.kiptoo61@outlook.com,42.0,Thika,Kiambu,Nairobi Metro,2024-03-15,Regular,y
+C00256,Hassan,Onyango,+254759512527,hassan.onyango62@gmail.com,33.0,Murang'a,Murang'a,Central,2023-09-24,Loyal,No
+C00257,David,Mwangi,0700 891 421,david.mwangi63@gmail.com,41.0,Ol Kalou,Nyandarua,Central,2024-11-20,Regular,No
+C00258,Fatuma,Kilonzo,254110329011,fatuma.kilonzo64@outlook.com,18.0,Thika,Kiambu,Nairobi Metro,2023-04-10,New,Yes
+C00259,Fatuma,Rono,0110882180 ,fatuma.rono65@gmail.com,18.0,Migori,Migori,Nyanza,2022-01-26,Regular,y
+C00260,Nafula,Abdullahi,0722676977,nafula.abdullahi66@gmail.com,40.0,Nyeri,Nyeri,Central,2022-04-24,Loyal,Yes
+C00261,James,Mwangi,,james.mwangi67@outlook.com,25.0,Embu,Embu,Eastern,2022-12-15,Regular,Yes
+C00262,Mercy,Hussein,0700 689 598,mercy.hussein68@gmail.com,35.0,Kakamega,Kakamega,Western,2023-01-26,Regular,Yes
+C00263,Adhiambo,Wafula,254722508902,adhiambo.wafula69@gmail.com,21.0,Bungoma,Bungoma,Western,2024-07-08,Loyal,No
+C00264,James,Wanjiru,0701619176 ,james.wanjiru70@outlook.com,22.0,Westlands,Nairobi,Nairobi Metro,2024-04-07,New,Yes
+C00265,Brian,Kimani,0710584899,brian.kimani71@gmail.com,5.0,Kilifi,Kilifi,Coast,2023-11-05,New,No
+C00266,Paul,Kimani,+254790493699,paul.kimani72@gmail.com,22.0,Eldoret,Uasin Gishu,Rift Valley,2024-06-22,New,Yes
+C00267,Anthony,Mohamed,0759 364 481,anthony.mohamed73@outlook.com,23.0,Migori,Migori,Nyanza,2022-01-17,VIP,Yes
+C00268,Wanjiku,Wafula,254790148066,wanjiku.wafula74@gmail.com,21.0,Kakamega,Kakamega,Western,2023-07-27,Loyal,Yes
+C00269,Nyokabi,Kiptoo,0733933545 ,nyokabi.kiptoo75@gmail.com,28.0,Thika,Kiambu,Nairobi Metro,2023-06-28,Regular,No
+C00270,Abdi,Wanjiru,0768783727,abdi.wanjiru76@outlook.com,35.0,Kisumu,Kisumu,Nyanza,2023-06-18,Regular,Yes
+C00271,Zainab,Hussein,+254700728272,zainab.hussein77@gmail.com,36.0,Westlands,Nairobi,Nairobi Metro,2023-10-31,Loyal,No
+C00272,Stephen,Adhiambo,0768 121 192,stephen.adhiambo78@gmail.com,30.0,Kericho,Kericho,Rift Valley,2022-03-15,New,No
+C00273,Grace,Rono,254710132536,grace.rono79@outlook.com,28.0,Meru,Meru,Eastern,2022-10-23,New,Yes
+C00274,Samuel,Achieng,0733855724 ,samuel.achieng80@gmail.com,22.0,Kisumu,Kisumu,Nyanza,2024-04-26,New,yes
+C00275,Samuel,Kamau,0701161255,samuel.kamau81@gmail.com,26.0,Narok,Narok,Rift Valley,2025-02-20,New,y
+C00276,Chebet,Cherono,+254700183543,chebet.cherono82@outlook.com,49.0,Ol Kalou,Nyandarua,Central,2022-10-03,Regular,Yes
+C00277,Akinyi,Adhiambo,0790 424 343,akinyi.adhiambo83@gmail.com,18.0,Mombasa,Mombasa,Coast,2024-10-12,Regular,Y 
+C00278,David,Gitau,254722465154,david.gitau84@gmail.com,27.0,Narok,narok,Rift Valley,2022-03-08,New,Yes
+C00279,Grace,Mohamed,0700580664 ,grace.mohamed85@outlook.com,18.0,Meru,Meru,Eastern,2022-11-19,Loyal,Yes
+C00280,James,Cherono,0722381287,james.cherono86@gmail.com,21.0,Ruiru,Kiambu,Nairobi Metro,2024-07-17,New,Y 
+C00281,Amina,Kimani,+254710842182,amina.kimani87@gmail.com,22.0,Murang'a,Murang'a,Central,2024-05-26,VIP,Yes
+C00282,Amina,Mwenda,0722 474 141,amina.mwenda88@outlook.com,46.0,Kericho,Kericho,Rift Valley,2024-05-16,New,Yes
+C00283,Stephen,Barasa,254110208335,stephen.barasa89@gmail.com,44.0,Kisii,Kisii,Nyanza,2022-09-24,Regular,No
+C00284,Wambui,Sang,0790468509 ,wambui.sang90@gmail.com,46.0,Kilifi,Kilifi,Coast,2025-01-23,Regular,n
+C00285,Collins,Hassan,0790581936,collins.hassan91@outlook.com,33.0,Migori,Migori,Nyanza,2022-05-14,Regular,No
+C00286,Omar,Mwangi,+254700844833,omar.mwangi92@gmail.com,40.0,Meru,meru,Eastern,2025-02-09,New,Yes
+C00287,Muthoni,Wekesa,0110 326 158,muthoni.wekesa93@gmail.com,31.0,Ukunda,Kwale,Coast,2022-03-24,VIP,Yes
+C00288,Nyokabi,Auma,254759112321,nyokabi.auma94@outlook.com,40.0,Ukunda,Kwale,Coast,2023-12-08,Regular,No
+C00289,Wanjiku,Kiptoo,0110459216 ,wanjiku.kiptoo95@gmail.com,40.0,Eldoret,Uasin Gishu,Rift Valley,2024-06-12,Regular,Yes
+C00290,James,Chebet,0700862504,james.chebet96@gmail.com,57.0,Murang'a,Murang'a,Central,2022-10-02,VIP,Yes
+C00291,Faith,Odhiambo,+254701878545,faith.odhiambo0@outlook.com,21.0,Nakuru,Nakuru,Rift Valley,2025-03-16,VIP,n
+C00292,Wanjiku,Mutua,0745 698 313,wanjiku.mutua1@gmail.com,45.0,Karen,Nairobi,Nairobi Metro,2022-03-13,New,Yes
+C00293,Njeri,Otieno,254700686599,njeri.otieno2@gmail.com,23.0,Karen,Nairobi,Nairobi Metro,2025-04-09,Regular,Yes
+C00294,Kevin,Kariuki,0700990501 ,kevin.kariuki3@outlook.com,25.0,Westlands,Nairobi,Nairobi Metro,2023-03-08,New,No
+C00295,Omar,Kiptoo,0700662122,omar.kiptoo4@gmail.com,41.0,Ruiru,Kiambu,Nairobi Metro,2022-01-09,Regular,No
+C00296,Dennis,Muriithi,+254722851100,dennis.muriithi5@gmail.com,48.0,Karen,Nairobi,Nairobi Metro,2022-01-12,New,Y 
+C00297,Emmanuel,Kiptoo,0759 157 918,emmanuel.kiptoo6@outlook.com,34.0,Ruiru,Kiambu,Nairobi Metro,2024-06-20,Regular,Yes
+C00298,Kelvin,Njuguna,254722258155,kelvin.njuguna7@gmail.com,34.0,Mombasa,Mombasa,Coast,2023-05-30,Loyal,Yes
+C00299,Achieng,Odhiambo,0700380200 ,achieng.odhiambo8@gmail.com,37.0,Narok,Narok,Rift Valley,2024-06-20,Regular,No
+C00300,Kevin,Njoroge,0733407314,kevin.njoroge9@outlook.com,22.0,Eldoret,Uasin Gishu,Rift Valley,2022-07-11,Regular,Yes
+C00301,Collins,Achieng,+254710867639,collins.achieng10@gmail.com,44.0,Mombasa,mombasa,Coast,2024-11-17,New,No
+C00302,Kelvin,Auma,0733 977 546,kelvin.auma11@gmail.com,20.0,Murang'a,Murang'a,Central,2022-01-07,Loyal,Yes
+C00303,Daniel,Barasa,254759556087,daniel.barasa12@outlook.com,41.0,Ol Kalou,Nyandarua,Central,2023-11-10,New,No
+C00304,David,Otieno,0745800601 ,david.otieno13@gmail.com,18.0,Kericho,Kericho,Rift Valley,2022-06-25,New,Yes
+C00305,David  ,Gitau,0700744926,david.gitau14@gmail.com,35.0,Bungoma,Bungoma,Western,2023-01-15,Loyal,Yes
+C00306,Zainab,Muriithi,+254745516557,zainab.muriithi15@outlook.com,45.0,Migori,Migori,Nyanza,2022-06-19,Loyal,NO
+C00307,Habiba,Mohamed,0768 139 517,habiba.mohamed16@gmail.com,36.0,Kericho,Kericho,Rift Valley,2024-10-13,Regular,No
+C00308,Joseph,Otieno,,joseph.otieno17@gmail.com,36.0,Nakuru,Nakuru,Rift Valley,2024-10-10,Regular,No
+C00309,Faith,Adhiambo,0790329452 ,faith.adhiambo18@outlook.com,45.0,Busia,Busia,Western,2023-11-29,New,Yes
+C00310,Habiba,Achieng,0745949850,habiba.achieng19@gmail.com,33.0,Embu,Embu,Eastern,2022-10-04,Regular,No
+C00311,Collins,Wanjiru,+254790573197,collins.wanjiru20@gmail.com,28.0,Westlands,Nairobi,Nairobi Metro,2023-07-17,Loyal,yes
+C00312,Felix,Auma,0701 840 222,,39.0,Kakamega,Kakamega,Western,2025-04-25,Regular,y
+C00313,Felix,Gitau,254710388876,felix.gitau22@gmail.com,19.0,Kericho,Kericho,Rift Valley,2024-10-17,Loyal,Yes
+C00314,Muthoni,Mwangi,0790105154 ,muthoni.mwangi23@gmail.com,44.0,Nakuru,Nakuru,Rift Valley,2023-09-27,New,Yes
+C00315,John,Gitau,0700652371,john.gitau24@outlook.com,44.0,Narok,Narok,Rift Valley,2024-09-22,Regular,Yes
+C00316,Brian,Kilonzo,+254768778044,brian.kilonzo25@gmail.com,42.0,Kilifi,Kilifi,Coast,2022-09-11,Regular,Yes
+C00317,Kelvin,Abdullahi,0710 309 201,kelvin.abdullahi26@gmail.com,35.0,Embu,Embu,Eastern,2023-12-26,Loyal,No
+C00318,Naliaka,Kilonzo,254790178110,naliaka.kilonzo27@outlook.com,31.0,Kakamega,Kakamega,Western,2024-05-31,VIP,No
+C00319,David,Mutua,0733852918 ,david.mutua28@gmail.com,55.0,Westlands,Nairobi,Nairobi Metro,2024-03-30,Loyal,No
+C00320,Achieng,Wekesa,0768925135,achieng.wekesa29@gmail.com,56.0,Kakamega,Kakamega,Western,2024-01-29,Regular,Yes
+C00321,James,Odhiambo,+254701991688,james.odhiambo30@outlook.com,36.0,Kericho,Kericho,Rift Valley,2024-01-14,Regular,NO
+C00322,Naliaka,Achieng,0745 931 405,naliaka.achieng31@gmail.com,36.0,Murang'a,Murang'a,Central,2025-06-30,New,Yes
+C00323,Michael,Achieng,254759625388,michael.achieng32@gmail.com,18.0,Narok,Narok,Rift Valley,2024-09-04,Regular,Yes
+C00324,Adhiambo,Njoroge,0759362013 ,adhiambo.njoroge33@outlook.com,49.0,Murang'a,murang'a,Central,2024-05-01,Regular,Yes
+C00325,Fatuma,Otieno,0745709349,fatuma.otieno34@gmail.com,27.0,Meru,Meru,Eastern,2024-12-05,New,No
+C00326,Achieng,Nyambura,+254733892062,achieng.nyambura35@gmail.com,32.0,Bungoma,Bungoma,Western,2024-02-13,Loyal,No
+C00327,Muthoni,Hussein,0790 327 955,muthoni.hussein36@outlook.com,29.0,Kisii,Kisii,Nyanza,2024-04-05,Regular,Yes
+C00328,James,Sang,254722924493,james.sang37@gmail.com,26.0,Machakos,Machakos,Eastern,2023-02-07,New,No
+C00329,Cherono,Kariuki,0790115069 ,cherono.kariuki38@gmail.com,47.0,Machakos,Machakos,Eastern,2023-02-02,Regular,n
+C00330,Anthony,Kamau,0745767288,anthony.kamau39@outlook.com,32.0,Thika,Kiambu,Nairobi Metro,2022-12-16,New,No
+C00331,Moraa,Mwenda,,moraa.mwenda40@gmail.com,32.0,Eldoret,Uasin Gishu,Rift Valley,2025-03-31,Loyal,Yes
+C00332,Njeri,Rono,0790 258 749,njeri.rono41@gmail.com,52.0,Eldoret,Uasin Gishu,Rift Valley,2025-01-21,Regular,Yes
+C00333,Amina,Mwenda,254710866194,amina.mwenda42@outlook.com,46.0,Nyeri,Nyeri,Central,2023-05-10,New,No
+C00334,Cherono,Rono,0733977731 ,cherono.rono43@gmail.com,31.0,Kisii,Kisii,Nyanza,2022-05-23,Loyal,No
+C00335,Moraa,Wekesa,0710226693,moraa.wekesa44@gmail.com,24.0,Nyeri,Nyeri,Central,2023-08-01,Loyal,No
+C00336,Chebet,Nyaga,+254722638919,chebet.nyaga45@outlook.com,28.0,Kakamega,Kakamega,Western,2025-03-07,Regular,yes
+C00337,Victor,Kimani,0733 899 022,victor.kimani46@gmail.com,21.0,Thika,Kiambu,Nairobi Metro,2024-12-16,New,YES
+C00338,Nyokabi,Chebet,254710950977,nyokabi.chebet47@gmail.com,30.0,Ruiru,Kiambu,Nairobi Metro,2025-04-29,New,Y 
+C00339,Wambui,Mwenda,0110312136 ,wambui.mwenda48@outlook.com,31.0,Machakos,Machakos,Eastern,2024-07-03,Loyal,No
+C00340,Nafula,Kilonzo,0710209882,nafula.kilonzo49@gmail.com,50.0,Mombasa,Mombasa,Coast,2023-08-02,New,Yes
+C00341,Wambui,Mwenda,+254722547726,wambui.mwenda50@gmail.com,25.0,Nakuru,Nakuru,Rift Valley,2025-05-09,Loyal,No
+C00342,David,Achieng,0710 663 819,david.achieng51@outlook.com,19.0,Kakamega,Kakamega,Western,2023-09-10,Regular,Yes
+C00343,Hassan,Achieng,254722634743,hassan.achieng52@gmail.com,39.0,Eldoret,Uasin Gishu,Rift Valley,2024-10-14,Regular,No
+C00344,Stephen,Chebet,0710444026 ,stephen.chebet53@gmail.com,52.0,Westlands,Nairobi,Nairobi Metro,2023-09-07,VIP,Y 
+C00345,Nyokabi,Nyambura,0759184715,nyokabi.nyambura54@outlook.com,40.0,Karen,Nairobi,Nairobi Metro,2024-11-29,Regular,No
+C00346,Akinyi,Kimani,+254701420849,akinyi.kimani55@gmail.com,32.0,Thika,Kiambu,Nairobi Metro,2024-11-22,New,Yes
+C00347,Abdi,Achieng,0733 477 075,abdi.achieng56@gmail.com,,Kisumu,Kisumu,Nyanza,2022-12-08,Loyal,No
+C00348,Achieng,Sang,254768381674,achieng.sang57@outlook.com,19.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-06-06,Regular,Y 
+C00349,Kevin,Mwangi,0759989394 ,kevin.mwangi58@gmail.com,31.0,Meru,Meru,Eastern,2023-06-07,Loyal,No
+C00350,Muthoni,Wekesa,0790603245,muthoni.wekesa59@gmail.com,18.0,Ol Kalou,Nyandarua,Central,2025-03-04,Regular,Yes
+C00351,Abdi,Gitau,+254768326525,abdi.gitau60@outlook.com,32.0,Embu,Embu,Eastern,2023-02-25,Loyal,No
+C00352,Faith,Chebet,0733 117 114,faith.chebet61@gmail.com,47.0,Nyeri,Nyeri,Central,2024-01-25,New,No
+C00353,Anthony,Kones,254700119047,anthony.kones62@gmail.com,21.0,Thika,Kiambu,Nairobi Metro,2023-02-12,Loyal,Yes
+C00354,Amina,Njuguna,0759681124 ,amina.njuguna63@outlook.com,26.0,Kericho,Kericho,Rift Valley,2024-05-12,New,No
+C00355,Omar,Maina,0722117586,omar.maina64@gmail.com,18.0,Mombasa,Mombasa,Coast,2023-10-13,Regular,y
+C00356,Hassan,Wekesa,+254710728644,hassan.wekesa65@gmail.com,36.0,Busia,Busia,Western,2022-08-20,New,Yes
+C00357,Fatuma,Odhiambo,0768 892 898,fatuma.odhiambo66@outlook.com,34.0,Kisii,Kisii,Nyanza,2022-05-29,New,Y 
+C00358,Muthoni,Mwenda,254733450868,muthoni.mwenda67@gmail.com,34.0,Migori,Migori,Nyanza,2025-01-02,New,Yes
+C00359,Abdi,Achieng,0759290036 ,abdi.achieng68@gmail.com,26.0,Ruiru,Kiambu,Nairobi Metro,2025-04-28,New,Yes
+C00360,Wambui,Kones,0710753226,wambui.kones69@outlook.com,38.0,Embu,Embu,Eastern,2022-05-18,Loyal,Yes
+C00361,David,Adhiambo,+254768657455,david.adhiambo70@gmail.com,53.0,Nyeri,Nyeri,Central,2024-03-20,Loyal,YES
+C00362,Cherono,Otieno,0110 860 463,cherono.otieno71@gmail.com,38.0,Narok,Narok,Rift Valley,2022-09-22,Loyal,No
+C00363,Paul,Ali,254710386167,paul.ali72@outlook.com,29.0,Migori,Migori,Nyanza,2024-06-18,New,Yes
+C00364,Fatuma,Mwenda,0700553507 ,fatuma.mwenda73@gmail.com,34.0,KISII,Kisii,Nyanza,2022-05-12,VIP,Yes
+C00365,Stephen,Abdullahi,0701521130,stephen.abdullahi74@gmail.com,18.0,Machakos,Machakos,Eastern,2022-03-27,New,No
+C00366,Kevin,Cherono,+254790620276,kevin.cherono75@outlook.com,28.0,Migori,Migori,Nyanza,2022-11-04,Regular,NO
+C00367,Achieng,Mutua,0722 872 109,achieng.mutua76@gmail.com,22.0,Mombasa,Mombasa,Coast,2023-03-06,Regular,Yes
+C00368,Nafula,Kilonzo,254701122566,nafula.kilonzo77@gmail.com,26.0,Kisumu,Kisumu,Nyanza,2025-02-06,New,n
+C00369,Felix,Nyaga,0790858857 ,felix.nyaga78@outlook.com,41.0,Bungoma,Bungoma,Western,2024-07-20,Loyal,Yes
+C00370,Achieng,Hassan,0790876687,achieng.hassan79@gmail.com,31.0,Karen,Nairobi,Nairobi Metro,2022-07-22,Regular,Yes
+C00371,Faith,Muriithi,+254790250903,faith.muriithi80@gmail.com,39.0,Thika,Kiambu,Nairobi Metro,2022-07-15,Regular,Yes
+C00372,Chebet,Maina,0768 726 391,chebet.maina81@outlook.com,29.0,Eldoret,Uasin Gishu,Rift Valley,2025-06-05,Regular,Yes
+C00373,Achieng,Wafula,254759897260,achieng.wafula82@gmail.com,21.0,Ruiru,Kiambu,Nairobi Metro,2024-09-06,Regular,No
+C00374,Victor,Odhiambo,,victor.odhiambo83@gmail.com,,Meru,Meru,Eastern,2023-10-17,Regular,Yes
+C00375,Michael  ,Wanjiru,0733570070,michael.wanjiru84@outlook.com,38.0,Kakamega,Kakamega,Western,2025-07-08,Loyal,Yes
+C00376,Akinyi,Sang,+254759759776,akinyi.sang85@gmail.com,24.0,Murang'a,Murang'a,Central,2023-09-17,New,No
+C00377,Mercy,Mwangi,0701 108 679,mercy.mwangi86@gmail.com,41.0,Karen,Nairobi,Nairobi Metro,2022-07-05,New,Yes
+C00378,Paul,Maina,254745964572,paul.maina87@outlook.com,18.0,Nyeri,Nyeri,Central,2023-12-17,Regular,No
+C00379,Moraa,Cherono,0701214777 ,moraa.cherono88@gmail.com,60.0,Kilifi,Kilifi,Coast,2023-09-24,Regular,No
+C00380,Samuel,Nyambura,0759796168,samuel.nyambura89@gmail.com,40.0,Karen,Nairobi,Nairobi Metro,2023-05-02,Loyal,No
+C00381,Nafula,Wekesa,+254759384213,nafula.wekesa90@outlook.com,22.0,Ol Kalou,Nyandarua,Central,2023-01-21,VIP,NO
+C00382,Cherono,Auma,0710 733 321,,25.0,Thika,Kiambu,Nairobi Metro,2022-05-17,Loyal,YES
+C00383,Peter,Kiptoo,254722581238,peter.kiptoo92@gmail.com,18.0,Thika,Kiambu,Nairobi Metro,2023-10-21,Regular,Yes
+C00384,Collins,Wekesa,0710794951 ,collins.wekesa93@outlook.com,49.0,Machakos,Machakos,Eastern,2024-05-29,New,Yes
+C00385,Michael,Maina,0768256508,michael.maina94@gmail.com,52.0,Machakos,Machakos,Eastern,2024-01-16,New,Yes
+C00386,Joseph,Kariuki,+254768796683,joseph.kariuki95@gmail.com,22.0,Karen,Nairobi,Nairobi Metro,2022-05-16,New,No
+C00387,Michael,Wekesa,0733 110 385,michael.wekesa96@outlook.com,38.0,Murang'a,Murang'a,Central,2022-03-06,Regular,No
+C00388,Zainab,Sang,254733252728,zainab.sang0@gmail.com,25.0,Embu,Embu,Eastern,2025-05-23,Loyal,YES
+C00389,Muthoni,Wafula,0768737000 ,muthoni.wafula1@gmail.com,33.0,Ol Kalou,Nyandarua,Central,2023-09-18,VIP,Yes
+C00390,Brian,Onyango,0745910497,brian.onyango2@outlook.com,34.0,Nakuru,Nakuru,Rift Valley,2023-05-28,VIP,Yes
+C00391,Wambui,Nyambura,+254745910204,wambui.nyambura3@gmail.com,18.0,Machakos,Machakos,Eastern,2023-12-08,Regular,Yes
+C00392,Collins,Abdullahi,0759 367 173,collins.abdullahi4@gmail.com,33.0,Eldoret,Uasin Gishu,Rift Valley,2023-06-17,New,No
+C00393,Wanjiku,Njoroge,254745205426,wanjiku.njoroge5@outlook.com,25.0,Ukunda,Kwale,Coast,2022-01-11,Loyal,yes
+C00394,Njeri,Nyambura,0759298794 ,njeri.nyambura6@gmail.com,20.0,Nakuru,Nakuru,Rift Valley,2022-03-30,Regular,No
+C00395,Mercy,Njoroge,0110327329,mercy.njoroge7@gmail.com,61.0,Bungoma,Bungoma,Western,2023-10-02,VIP,No
+C00396,Daniel,Kariuki,+254790347307,daniel.kariuki8@outlook.com,29.0,Bungoma,Bungoma,Western,2023-07-25,VIP,No
+C00397,Michael,Mwangi,0700 153 469,michael.mwangi9@gmail.com,18.0,Nakuru,Nakuru,Rift Valley,2023-01-11,VIP,Yes
+C00398,Achieng,Kiptoo,254733270808,achieng.kiptoo10@gmail.com,42.0,Kakamega,Kakamega,Western,2025-02-25,Loyal,Yes
+C00399,David,Achieng,0110532349 ,david.achieng11@outlook.com,,Migori,Migori,Nyanza,2022-09-07,Loyal,no
+C00400,Njeri,Wekesa,0710718221,njeri.wekesa12@gmail.com,18.0,Eldoret,Uasin Gishu,Rift Valley,2025-04-18,Loyal,Yes
+C00401,Habiba,Rono,+254745463463,habiba.rono13@gmail.com,48.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-05-14,Loyal,YES
+C00402,Njeri,Auma,0759 175 544,njeri.auma14@outlook.com,18.0,Migori,migori,Nyanza,2022-03-01,Loyal,Yes
+C00403,Emmanuel,Mutua,254110849486,emmanuel.mutua15@gmail.com,25.0,Mombasa,Mombasa,Coast,2022-01-13,Regular,Yes
+C00404,Omar,Njoroge,0790826729 ,omar.njoroge16@gmail.com,46.0,Migori,Migori,Nyanza,2024-04-08,New,Y 
+C00405,Abdi,Nyambura,0722690220,abdi.nyambura17@outlook.com,28.0,Kericho,Kericho,Rift Valley,2024-10-11,Regular,No
+C00406,Naliaka,Auma,+254790402707,naliaka.auma18@gmail.com,33.0,Embu,Embu,Eastern,2023-06-25,Loyal,no
+C00407,Grace,Rono,0701 857 157,grace.rono19@gmail.com,21.0,Karen,Nairobi,Nairobi Metro,2023-01-22,VIP,Y 
+C00408,Kerubo,Odhiambo,254733481511,kerubo.odhiambo20@outlook.com,30.0,Migori,Migori,Nyanza,2022-01-03,Regular,Yes
+C00409,Paul,Wekesa,0710188986 ,paul.wekesa21@gmail.com,,Embu,Embu,Eastern,2022-05-16,Loyal,Yes
+C00410,Collins,Abdullahi,0790312504,collins.abdullahi22@gmail.com,32.0,Narok,Narok,Rift Valley,2024-10-13,VIP,No
+C00411,Mercy,Hassan,+254768381677,mercy.hassan23@outlook.com,34.0,Bungoma,Bungoma,Western,2024-07-04,Loyal,Yes
+C00412,Njeri,Abdullahi,0722 253 005,njeri.abdullahi24@gmail.com,44.0,Westlands,Nairobi,Nairobi Metro,2024-07-24,New,No
+C00413,Naliaka,Mutua,254790152628,naliaka.mutua25@gmail.com,31.0,Embu,Embu,Eastern,2023-06-23,New,Y 
+C00414,Anthony,Mwangi,0710984043 ,anthony.mwangi26@outlook.com,47.0,Kakamega,Kakamega,Western,2023-10-24,VIP, No
+C00415,Daniel,Nyaga,0110850294,daniel.nyaga27@gmail.com,,Kericho,Kericho,Rift Valley,2023-11-23,Regular,n
+C00416,Naliaka,Gitau,+254768159460,naliaka.gitau28@gmail.com,20.0,Thika,Kiambu,Nairobi Metro,2024-03-06,New,Yes
+C00417,Wairimu,Adhiambo,0759 966 313,wairimu.adhiambo29@outlook.com,42.0,Kilifi,Kilifi,Coast,2024-06-25,Loyal,No
+C00418,Halima,Kiptoo,254710692982,halima.kiptoo30@gmail.com,28.0,Busia,Busia,Western,2024-09-10,VIP,Yes
+C00419,Abdi,Muriithi,0700859207 ,abdi.muriithi31@gmail.com,33.0,Kakamega,Kakamega,Western,2022-12-14,Regular,No
+C00420,Faith,Kamau,0745122501,faith.kamau32@outlook.com,34.0,Ruiru,Kiambu,Nairobi Metro,2024-08-13,New,yes
+C00421,Kelvin,Mohamed,+254768240124,kelvin.mohamed33@gmail.com,36.0,Migori,Migori,Nyanza,2022-12-02,VIP,Yes
+C00422,Naliaka,Chebet,0700 342 141,naliaka.chebet34@gmail.com,26.0,Kericho,Kericho,Rift Valley,2024-03-31,VIP,Yes
+C00423,Achieng,Maina,254710506927,achieng.maina35@outlook.com,43.0,Ruiru,Kiambu,Nairobi Metro,2024-07-07,Regular,Yes
+C00424,Chebet,Achieng,0745117729 ,chebet.achieng36@gmail.com,42.0,Ukunda,Kwale,Coast,2025-01-03,Regular,No
+C00425,Chebet,Hassan,0790858862,chebet.hassan37@gmail.com,51.0,Kisii,Kisii,Nyanza,2024-06-07,Loyal,No
+C00426,Kerubo,Auma,+254733987651,kerubo.auma38@outlook.com,38.0,Eldoret,Uasin Gishu,Rift Valley,2024-12-02,Regular,No
+C00427,Muthoni,Barasa,0759 522 474,muthoni.barasa39@gmail.com,39.0,Thika,Kiambu,Nairobi Metro,2025-07-20,Regular,Yes
+C00428,David,Wanjiru,254733515726,david.wanjiru40@gmail.com,37.0,Nakuru,Nakuru,Rift Valley,2022-10-10,New, No
+C00429,Joseph,Kilonzo,0768690563 ,joseph.kilonzo41@outlook.com,29.0,Embu,Embu,Eastern,2024-06-23,Loyal,Yes
+C00430,Adhiambo,Barasa,0790942963,adhiambo.barasa42@gmail.com,42.0,Mombasa,Mombasa,Coast,2025-06-30,Regular,Yes
+C00431,Akinyi,Mohamed,+254745225895,akinyi.mohamed43@gmail.com,28.0,Busia,Busia,Western,2025-05-29,Loyal,Yes
+C00432,Achieng  ,Abdullahi,0701 883 524,achieng.abdullahi44@outlook.com,39.0,Nakuru,Nakuru,Rift Valley,2023-04-24,Loyal,Yes
+C00433,Chebet,Kimani,254745341648,chebet.kimani45@gmail.com,21.0,Karen,Nairobi,Nairobi Metro,2023-01-08,New,y
+C00434,Zainab,Nyambura,0710887086 ,zainab.nyambura46@gmail.com,,Meru,Meru,Eastern,2024-03-30,Regular,Y 
+C00435,Moraa,Njoroge,0700712595,moraa.njoroge47@outlook.com,30.0,Busia,Busia,Western,2022-10-15,New,Yes
+C00436,Adhiambo,Kones,+254790190451,adhiambo.kones48@gmail.com,42.0,Kilifi,Kilifi,Coast,2022-01-13,Loyal,Yes
+C00437,Felix,Wanjiru,0759 851 549,felix.wanjiru49@gmail.com,28.0,Karen,nairobi,Nairobi Metro,2024-04-14,New,Yes
+C00438,Nyokabi,Achieng,254700903270,nyokabi.achieng50@outlook.com,18.0,Bungoma,Bungoma,Western,2023-02-18,Loyal,No
+C00439,Kevin  ,Kimani,0768351056 ,kevin.kimani51@gmail.com,200.0,Kisumu,Kisumu,Nyanza,2023-12-16,Regular,No
+C00440,Anthony,Wanjiru,0790817706,anthony.wanjiru52@gmail.com,19.0,Narok,Narok,Rift Valley,2024-03-03,Loyal,NO
+C00441,Emmanuel,Sang,+254110636543,emmanuel.sang53@outlook.com,28.0,Karen,Nairobi,Nairobi Metro,2024-01-09,Regular,No
+C00442,Njeri,Njoroge,0722 893 128,njeri.njoroge54@gmail.com,33.0,Nakuru,Nakuru,Rift Valley,2025-04-17,Loyal,Yes
+C00443,Kevin,Nyaga,254710776535,kevin.nyaga55@gmail.com,36.0,Machakos,Machakos,Eastern,2022-08-14,Loyal,No
+C00444,Kelvin,Wafula,0700724752 ,kelvin.wafula56@outlook.com,38.0,Thika,Kiambu,Nairobi Metro,2023-05-06,New,Yes
+C00445,Paul,Achieng,,paul.achieng57@gmail.com,37.0,Narok,Narok,Rift Valley,2022-12-16,New,Yes
+C00446,Wairimu,Kariuki,+254733275265,wairimu.kariuki58@gmail.com,30.0,Eldoret,Uasin Gishu,Rift Valley,2023-08-03,Regular,No
+C00447,Kerubo,Cherono,0733 494 124,kerubo.cherono59@outlook.com,33.0,Karen,Nairobi,Nairobi Metro,2024-05-16,Loyal,No
+C00448,Wanjiru,Maina,254700942084,wanjiru.maina60@gmail.com,41.0,Westlands,Nairobi,Nairobi Metro,2024-12-21,Regular,No
+C00449,Daniel,Otieno,0759303413 ,daniel.otieno61@gmail.com,46.0,Mombasa,Mombasa,Coast,2024-02-27,Regular,Yes
+C00450,Felix,Wanjiru,0768484909,felix.wanjiru62@outlook.com,35.0,Narok,Narok,Rift Valley,2023-11-10,Regular,Yes
+C00451,Felix,Ali,+254700720045,felix.ali63@gmail.com,24.0,Westlands,Nairobi,Nairobi Metro,2023-01-05,Regular,No
+C00452,Faith,Maina,0110 652 511,faith.maina64@gmail.com,33.0,Busia,Busia,Western,2022-05-08,New,no
+C00453,Omar,Kones,254768254327,omar.kones65@outlook.com,34.0,Mombasa,Mombasa,Coast,2025-05-14,New,No
+C00454,Dennis,Mwangi,0759646833 ,dennis.mwangi66@gmail.com,37.0,Embu,Embu,Eastern,2024-05-06,Loyal,No
+C00455,Anthony,Chebet,0768997404,anthony.chebet67@gmail.com,26.0,Eldoret,Uasin Gishu,Rift Valley,2022-11-13,Regular,NO
+C00456,Habiba,Maina,+254790336136,habiba.maina68@outlook.com,21.0,Mombasa,Mombasa,Coast,2022-05-01,Loyal,Yes
+C00457,Kelvin,Njoroge,0768 659 417,kelvin.njoroge69@gmail.com,32.0,Ukunda,Kwale,Coast,2025-07-11,Regular,yes
+C00458,Achieng,Chebet,254700740337,achieng.chebet70@gmail.com,33.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-07-11,VIP,No
+C00459,Muthoni,Mwangi,0700126938 ,muthoni.mwangi71@outlook.com,33.0,Narok,Narok,Rift Valley,2022-03-18,Loyal,yes
+C00460,Halima,Odhiambo,0701734452,halima.odhiambo72@gmail.com,37.0,Kisumu,Kisumu,Nyanza,2023-12-01,New,No
+C00461,Achieng,Odhiambo,+254710251455,achieng.odhiambo73@gmail.com,33.0,Meru,Meru,Eastern,2023-12-03,New,No
+C00462,Collins,Otieno,0733 291 046,collins.otieno74@outlook.com,42.0,Ruiru,Kiambu,Nairobi Metro,2022-06-09,New,y
+C00463,Yusuf,Njuguna,254768877441,yusuf.njuguna75@gmail.com,18.0,Thika,Kiambu,Nairobi Metro,2024-02-02,Loyal,n
+C00464,Yusuf,Wafula,0700505231 ,yusuf.wafula76@gmail.com,23.0,Embu,Embu,Eastern,2023-02-25,New,Yes
+C00465,Wairimu,Chebet,0701447292,wairimu.chebet77@outlook.com,18.0,Eldoret,Uasin Gishu,Rift Valley,2024-03-19,New,Yes
+C00466,Joseph,Abdullahi,+254768297729,joseph.abdullahi78@gmail.com,18.0,Ruiru,kiambu,Nairobi Metro,2024-06-15,Loyal,No
+C00467,Hassan,Cherono,0700 484 165,hassan.cherono79@gmail.com,18.0,Kilifi,Kilifi,Coast,2023-02-13,New,No
+C00468,Zainab,Kamau,254700997423,zainab.kamau80@outlook.com,26.0,NYERI,Nyeri,Central,2024-09-19,Regular,no
+C00469,Mercy,Mwangi,0110833462 ,mercy.mwangi81@gmail.com,45.0,Karen,Nairobi,Nairobi Metro,2023-01-09,Regular,No
+C00470,Grace,Sang,0733829179,grace.sang82@gmail.com,18.0,Bungoma,Bungoma,Western,2024-01-08,Regular,No
+C00471,Nyokabi,Mutua,+254768856868,nyokabi.mutua83@outlook.com,36.0,Thika,Kiambu,Nairobi Metro,2024-10-03,Regular,Yes
+C00472,Anthony,Wanjiru,0745 344 912,anthony.wanjiru84@gmail.com,33.0,Narok,Narok,Rift Valley,2022-05-09,Regular,Yes
+C00473,Wairimu,Rono,254768711342,wairimu.rono85@gmail.com,,Busia,Busia,Western,2023-06-07,New,No
+C00474,Halima,Mutua,0710391698 ,halima.mutua86@outlook.com,38.0,Westlands,Nairobi,Nairobi Metro,2024-10-29,Regular,No
+C00475,Faith,Muriithi,0710428815,faith.muriithi87@gmail.com,24.0,Migori,Migori,Nyanza,2024-11-19,Loyal,Yes
+C00476,Abdi,Maina,+254768954649,abdi.maina88@gmail.com,40.0,Westlands,Nairobi,Nairobi Metro,2022-02-23,Regular,Yes
+C00477,Stephen,Rono,0733 964 705,stephen.rono89@outlook.com,29.0,Karen,Nairobi,Nairobi Metro,2022-03-20,Loyal,No
+C00478,Ibrahim,Barasa,254733297486,ibrahim.barasa90@gmail.com,30.0,Kakamega,Kakamega,Western,2024-07-29,VIP,Yes
+C00479,Akinyi,Wanjiru,0110720644 ,akinyi.wanjiru91@gmail.com,50.0,Meru,Meru,Eastern,2022-10-31,Regular,Yes
+C00480,Fatuma,Barasa,0110139578,fatuma.barasa92@outlook.com,59.0,Machakos,Machakos,Eastern,2024-08-11,New,NO
+C00481,Yusuf,Mwangi,+254710645797,yusuf.mwangi93@gmail.com,28.0,Mombasa,Mombasa,Coast,2023-09-16,Regular,yes
+C00482,Anthony,Nyambura,0110 997 981,anthony.nyambura94@gmail.com,41.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-05-11,Regular,Yes
+C00483,Muthoni,Njuguna,254759559648,muthoni.njuguna95@outlook.com,43.0,Thika,Kiambu,Nairobi Metro,2022-10-17,New,Yes
+C00484,Stephen,Sang,0110502454 ,stephen.sang96@gmail.com,18.0,Ukunda,Kwale,Coast,2024-06-06,Regular,Yes
+C00485,Habiba,Wekesa,0768680239,habiba.wekesa0@gmail.com,37.0,Ruiru,Kiambu,Nairobi Metro,2022-12-14,VIP,Yes
+C00486,Joseph,Mwangi,+254745736229,joseph.mwangi1@outlook.com,18.0,Migori,Migori,Nyanza,2024-10-03,Regular,YES
+C00487,David,Onyango,0759 822 218,david.onyango2@gmail.com,19.0,Kisumu,Kisumu,Nyanza,2025-03-28,Regular,No
+C00488,James,Kamau,254733382361,james.kamau3@gmail.com,20.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-04-21,New,n
+C00489,Njeri,Chebet,0733429606 ,njeri.chebet4@outlook.com,26.0,Kericho,Kericho,Rift Valley,2024-02-19,New,Yes
+C00490,Kerubo,Abdullahi,0745969115,kerubo.abdullahi5@gmail.com,34.0,Kilifi,Kilifi,Coast,2024-03-04,Regular,No
+C00491,Emmanuel,Njoroge,+254790785131,emmanuel.njoroge6@gmail.com,33.0,Machakos,Machakos,Eastern,2025-07-04,Loyal,Yes
+C00492,Kerubo,Abdullahi,0759 625 146,kerubo.abdullahi7@outlook.com,37.0,Ruiru,Kiambu,Nairobi Metro,2023-12-23,Loyal,No
+C00493,John,Wekesa,254733633171,john.wekesa8@gmail.com,18.0,Ukunda,Kwale,Coast,2023-03-21,Regular,Yes
+C00494,Anthony,Wanjiru,0759200167 ,anthony.wanjiru9@gmail.com,23.0,Kakamega,Kakamega,Western,2023-07-15,New,yes
+C00495,Cherono,Auma,0733986633,cherono.auma10@outlook.com,61.0,Eldoret,Uasin Gishu,Rift Valley,2024-07-05,New,No
+C00496,Moraa,Mwangi,+254759739392,moraa.mwangi11@gmail.com,36.0,Kisumu,Kisumu,Nyanza,2024-06-17,Loyal,Yes
+C00497,Cherono,Hussein,0701 784 116,cherono.hussein12@gmail.com,48.0,Thika,Kiambu,Nairobi Metro,2024-08-21,New,Yes
+C00498,Emmanuel,Kilonzo,254701577676,,25.0,Migori,Migori,Nyanza,2023-03-26,New,n
+C00499,Samuel,Kones,0110169355 ,samuel.kones14@gmail.com,37.0,Ukunda,Kwale,Coast,2024-05-08,Regular,No
+C00500,Nafula,Cherono,0790495953,nafula.cherono15@gmail.com,38.0,Murang'a,Murang'a,Central,2024-02-18,Loyal,No
+C00501,Daniel,Hassan,+254790382306,daniel.hassan16@outlook.com,42.0,Murang'a,Murang'a,Central,2024-05-13,Loyal,No
+C00502,Moraa,Kimani,0722 181 411,moraa.kimani17@gmail.com,19.0,Migori,Migori,Nyanza,2025-06-13,Regular,Yes
+C00503,Achieng,Kimani,254701589194,achieng.kimani18@gmail.com,41.0,Busia,Busia,Western,2024-10-22,Loyal,Y 
+C00504,Wanjiru,Gitau,0745920704 ,wanjiru.gitau19@outlook.com,23.0,Eldoret,Uasin Gishu,Rift Valley,2023-02-22,Regular,yes
+C00505,Felix,Kilonzo,0759258865,felix.kilonzo20@gmail.com,20.0,Westlands,Nairobi,Nairobi Metro,2023-03-16,New,Yes
+C00506,Habiba,Ali,+254710845186,habiba.ali21@gmail.com,18.0,Kericho,Kericho,Rift Valley,2022-12-01,VIP,Yes
+C00507,Wambui,Kamau,0768 388 240,wambui.kamau22@outlook.com,44.0,Ruiru,Kiambu,Nairobi Metro,2022-01-05,VIP,Yes
+C00508,Wairimu  ,Achieng,254745278398,wairimu.achieng23@gmail.com,46.0,Kisii,Kisii,Nyanza,2023-09-28,New,Yes
+C00509,Abdi,Nyaga,0701249850 ,abdi.nyaga24@gmail.com,18.0,Narok,Narok,Rift Valley,2025-01-29,Regular,No
+C00510,Njeri,Mwenda,0110666397,njeri.mwenda25@outlook.com,43.0,Mombasa,Mombasa,Coast,2023-02-21,Regular,Yes
+C00511,Faith,Kilonzo,+254733402119,faith.kilonzo26@gmail.com,23.0,Ol Kalou,Nyandarua,Central,2025-03-29,Regular,Yes
+C00512,Nafula,Otieno,0701 540 693,nafula.otieno27@gmail.com,54.0,Kisumu,Kisumu,Nyanza,2025-03-28,Regular, No
+C00513,Kevin,Auma,254110717888,kevin.auma28@outlook.com,18.0,Bungoma,Bungoma,Western,2022-08-25,Regular,NO
+C00514,Naliaka,Auma,0733944159 ,naliaka.auma29@gmail.com,24.0,Nakuru,Nakuru,Rift Valley,2022-12-28,Regular,No
+C00515,Habiba,Onyango,0759209448,habiba.onyango30@gmail.com,18.0,Busia,Busia,Western,2024-05-15,Regular,Yes
+C00516,Kelvin,Rono,+254110161178,kelvin.rono31@outlook.com,18.0,Narok,Narok,Rift Valley,2024-07-18,New,no
+C00517,Anthony,Kariuki,,anthony.kariuki32@gmail.com,20.0,Westlands,Nairobi,Nairobi Metro,2022-05-09,New,Yes
+C00518,Kevin,Barasa,254722838632,kevin.barasa33@gmail.com,47.0,Nakuru,Nakuru,Rift Valley,2023-12-30,Loyal,No
+C00519,Wanjiru,Sang,0701248173 ,wanjiru.sang34@outlook.com,18.0,Narok,Narok,Rift Valley,2022-01-05,New,Yes
+C00520,Faith,Wanjiru,0700563441,faith.wanjiru35@gmail.com,39.0,Meru,Meru,Eastern,2023-12-31,Regular,Yes
+C00521,Kerubo,Muriithi,+254768359074,kerubo.muriithi36@gmail.com,18.0,Nakuru,Nakuru,Rift Valley,2022-12-18,New,YES
+C00522,Naliaka,Kiptoo,0110 741 640,naliaka.kiptoo37@outlook.com,19.0,Bungoma,Bungoma,Western,2024-05-09,Regular,Yes
+C00523,Abdi,Kones,254701117783,abdi.kones38@gmail.com,25.0,Westlands,Nairobi,Nairobi Metro,2025-02-21,Regular,Yes
+C00524,Zainab,Njoroge,0733501541 ,zainab.njoroge39@gmail.com,53.0,Murang'a,Murang'a,Central,2022-01-01,Regular,Yes
+C00525,Daniel,Wekesa,0701249220,daniel.wekesa40@outlook.com,49.0,Mombasa,Mombasa,Coast,2022-05-04,New,No
+C00526,Hassan,Mohamed,+254759334617,hassan.mohamed41@gmail.com,30.0,Embu,Embu,Eastern,2023-04-19,New,Yes
+C00527,Wanjiru  ,Rono,0710 444 295,wanjiru.rono42@gmail.com,47.0,Mombasa,Mombasa,Coast,2023-05-09,Loyal,No
+C00528,Wairimu,Njuguna,254722623668,wairimu.njuguna43@outlook.com,45.0,Bungoma,Bungoma,Western,2024-09-13,Regular,NO
+C00529,Wanjiru,Kamau,0733214977 ,wanjiru.kamau44@gmail.com,52.0,Mombasa,Mombasa,Coast,2025-06-27,Loyal,No
+C00530,Michael,Wanjiru,0790364899,michael.wanjiru45@gmail.com,25.0,Kericho,Kericho,Rift Valley,2025-03-06,Regular,Yes
+C00531,Faith,Wanjiru,+254733912178,faith.wanjiru46@outlook.com,42.0,Narok,Narok,Rift Valley,2023-06-05,New,No
+C00532,Victor,Hassan,0700 386 930,victor.hassan47@gmail.com,44.0,Mombasa,Mombasa,Coast,2024-10-04,Regular,yes
+C00533,Kelvin,Chebet,,kelvin.chebet48@gmail.com,50.0,Meru,Meru,Eastern,2022-03-07,New,Yes
+C00534,Ibrahim,Mwangi,0722660640 ,ibrahim.mwangi49@outlook.com,31.0,Ruiru,Kiambu,Nairobi Metro,2025-02-20,Regular,Yes
+C00535,Halima,Nyambura,0110202685,halima.nyambura50@gmail.com,34.0,Narok,Narok,Rift Valley,2024-04-03,New,No
+C00536,Moraa,Rono,+254701146191,moraa.rono51@gmail.com,41.0,Ukunda,Kwale,Coast,2024-09-11,Regular,No
+C00537,Collins,Mwenda,0745 676 637,collins.mwenda52@outlook.com,,Busia,Busia,Western,2024-11-20,New,YES
+C00538,David,Sang,254701924248,david.sang53@gmail.com,24.0,Kisii,Kisii,Nyanza,2024-08-18,Regular,yes
+C00539,Wairimu,Hassan,0759495261 ,wairimu.hassan54@gmail.com,30.0,Busia,Busia,Western,2023-08-16,Regular,Yes
+C00540,James,Rono,0722146382,james.rono55@outlook.com,32.0,Ol Kalou,Nyandarua,Central,2022-12-20,Regular,No
+C00541,Njeri,Mwangi,+254768465151,njeri.mwangi56@gmail.com,48.0,Karen,Nairobi,Nairobi Metro,2024-06-03,Regular,Yes
+C00542,Zainab,Kimani,0700 835 315,zainab.kimani57@gmail.com,25.0,Nyeri,Nyeri,Central,2022-06-28,Regular,No
+C00543,James,Wekesa,254701477702,james.wekesa58@outlook.com,29.0,Bungoma,Bungoma,Western,2023-06-02,New,Yes
+C00544,Wanjiku,Muriithi,0710495115 ,wanjiku.muriithi59@gmail.com,35.0,Westlands,Nairobi,Nairobi Metro,2023-02-07,Loyal,Yes
+C00545,Habiba,Rono,0701911774,habiba.rono60@gmail.com,32.0,Thika,Kiambu,Nairobi Metro,2025-06-26,Loyal,YES
+C00546,Stephen,Otieno,+254701623659,stephen.otieno61@outlook.com,46.0,Kisii,Kisii,Nyanza,2022-08-24,Regular,Yes
+C00547,George,Barasa,0745 710 061,george.barasa62@gmail.com,22.0,Kakamega,Kakamega,Western,2022-11-07,New,Yes
+C00548,Samuel,Hassan,254701247588,samuel.hassan63@gmail.com,36.0,Nyeri,Nyeri,Central,2024-11-10,Loyal,n
+C00549,Abdi,Muriithi,0710815960 ,abdi.muriithi64@outlook.com,34.0,Kericho,Kericho,Rift Valley,2024-04-27,Regular,Yes
+C00550,Chebet,Wekesa,0700114322,chebet.wekesa65@gmail.com,37.0,Murang'a,Murang'a,Central,2025-05-27,Regular,Yes
+C00551,Wanjiru,Rono,+254790147369,wanjiru.rono66@gmail.com,18.0,Embu,Embu,Eastern,2023-11-29,New,YES
+C00552,Njeri,Rono,0710 764 748,,40.0,Kisii,Kisii,Nyanza,2023-04-19,Regular,No
+C00553,Akinyi,Maina,254759941652,akinyi.maina68@gmail.com,48.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-07-12,New,Yes
+C00554,Wambui,Chebet,0700436247 ,wambui.chebet69@gmail.com,30.0,Narok,Narok,Rift Valley,2025-04-27,Regular,Yes
+C00555,Akinyi,Gitau,0745259845,akinyi.gitau70@outlook.com,20.0,Embu,Embu,Eastern,2022-03-28,Loyal,Yes
+C00556,James,Cherono,+254768878502,james.cherono71@gmail.com,34.0,Murang'a,Murang'a,Central,2022-08-13,Loyal,Yes
+C00557,Kelvin,Mwenda,0768 618 727,kelvin.mwenda72@gmail.com,18.0,Karen,Nairobi,Nairobi Metro,2022-06-08,Regular,YES
+C00558,Collins,Odhiambo,254710701375,,25.0,Machakos,Machakos,Eastern,2022-12-15,Regular,Yes
+C00559,Victor,Wanjiru,0722942926 ,victor.wanjiru74@gmail.com,32.0,Kisumu,Kisumu,Nyanza,2025-04-04,New,Yes
+C00560,Kerubo,Hassan,0733432271,kerubo.hassan75@gmail.com,39.0,Ukunda,Kwale,Coast,2023-08-04,New,No
+C00561,Faith,Cherono,+254722273538,faith.cherono76@outlook.com,35.0,Kilifi,Kilifi,Coast,2024-07-05,Regular,Yes
+C00562,Wairimu,Adhiambo,0733 665 687,wairimu.adhiambo77@gmail.com,43.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-06-02,Regular,Yes
+C00563,Wambui,Njuguna,254701468385,wambui.njuguna78@gmail.com,36.0,Ukunda,Kwale,Coast,2024-11-24,Loyal,y
+C00564,Stephen,Gitau,0759929627 ,stephen.gitau79@outlook.com,27.0,Meru,Meru,Eastern,2023-07-25,Regular,NO
+C00565,James,Wanjiru,0733433949,james.wanjiru80@gmail.com,26.0,Murang'a,Murang'a,Central,2024-02-13,Regular,Y 
+C00566,Njeri,Otieno,+254768449430,njeri.otieno81@gmail.com,18.0,Busia,Busia,Western,2023-01-03,Regular,No
+C00567,Victor,Barasa,0790 177 370,victor.barasa82@outlook.com,37.0,Nakuru,Nakuru,Rift Valley,2024-07-31,New,Yes
+C00568,Peter,Rono,254700957804,peter.rono83@gmail.com,34.0,Machakos,Machakos,Eastern,2023-01-14,Regular,Yes
+C00569,Nafula,Gitau,0710876641 ,,18.0,Kisumu,Kisumu,Nyanza,2023-07-31,Regular,Yes
+C00570,Wairimu,Adhiambo,0700249844,wairimu.adhiambo85@outlook.com,19.0,Kisii,Kisii,Nyanza,2023-09-13,Regular,Yes
+C00571,Paul,Auma,+254733226801,paul.auma86@gmail.com,18.0,Machakos,Machakos,Eastern,2023-10-05,Loyal,No
+C00572,Felix,Wafula,0710 404 429,felix.wafula87@gmail.com,18.0,Nakuru,Nakuru,Rift Valley,2022-02-09,Loyal,Yes
+C00573,Wanjiru,Ali,254722207615,wanjiru.ali88@outlook.com,36.0,Nakuru,Nakuru,Rift Valley,2023-05-16,Loyal,No
+C00574,Zainab,Wafula,0722707728 ,zainab.wafula89@gmail.com,19.0,Kisii,kisii,Nyanza,2022-04-06,Regular,Yes
+C00575,Anthony,Njoroge,0701983474,anthony.njoroge90@gmail.com,18.0,Eldoret,Uasin Gishu,Rift Valley,2022-01-14,New,No
+C00576,Anthony,Abdullahi,+254733355335,anthony.abdullahi91@outlook.com,36.0,Meru,Meru,Eastern,2023-01-19,VIP,Yes
+C00577,Wanjiru,Auma,0710 652 552,wanjiru.auma92@gmail.com,43.0,Karen,Nairobi,Nairobi Metro,2023-12-20,Regular,n
+C00578,Wanjiku,Kimani,254110974966,wanjiku.kimani93@gmail.com,40.0,Migori,Migori,Nyanza,2022-05-06,New,No
+C00579,Nyokabi,Kimani,0700628575 ,nyokabi.kimani94@outlook.com,33.0,Narok,Narok,Rift Valley,2022-11-26,Regular,Yes
+C00580,Dennis,Ali,0759853372,dennis.ali95@gmail.com,18.0,Ukunda,Kwale,Coast,2024-02-27,New,Yes
+C00581,Yusuf,Wanjiru,+254790214962,yusuf.wanjiru96@gmail.com,28.0,Kilifi,Kilifi,Coast,2025-03-19,Regular,Yes
+C00582,Michael,Barasa,0733 753 839,michael.barasa0@outlook.com,33.0,Embu,Embu,Eastern,2023-03-26,New, No
+C00583,Abdi,Abdullahi,254701345940,abdi.abdullahi1@gmail.com,19.0,Eldoret,Uasin Gishu,Rift Valley,2024-12-12,Regular,No
+C00584,Brian,Maina,0768378837 ,brian.maina2@gmail.com,40.0,Kisumu,Kisumu,Nyanza,2024-09-18,New,No
+C00585,Peter,Onyango,0722289810,peter.onyango3@outlook.com,25.0,Mombasa,Mombasa,Coast,2022-01-08,New,Yes
+C00586,Wanjiru,Muriithi,+254700722449,wanjiru.muriithi4@gmail.com,31.0,Machakos,Machakos,Eastern,2022-06-29,Loyal,No
+C00587,James,Muriithi,0110 386 975,james.muriithi5@gmail.com,38.0,Ol Kalou,Nyandarua,Central,2023-08-23,Regular,Yes
+C00588,Anthony,Mwangi,254745339067,anthony.mwangi6@outlook.com,33.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-06-09,New,Yes
+C00589,Nafula  ,Rono,0790575645 ,nafula.rono7@gmail.com,37.0,Narok,Narok,Rift Valley,2022-05-14,Regular,YES
+C00590,Dennis,Odhiambo,0745650086,dennis.odhiambo8@gmail.com,55.0,Westlands,Nairobi,Nairobi Metro,2022-06-20,New,No
+C00591,Zainab,Njuguna,+254745139670,zainab.njuguna9@outlook.com,39.0,Eldoret,Uasin Gishu,Rift Valley,2023-10-18,Loyal,No
+C00592,Habiba,Sang,0110 557 845,habiba.sang10@gmail.com,47.0,Mombasa,Mombasa,Coast,2023-12-08,New,n
+C00593,Ibrahim,Wanjiru,254733226600,ibrahim.wanjiru11@gmail.com,36.0,Kilifi,Kilifi,Coast,2024-02-24,New,Yes
+C00594,Kelvin,Abdullahi,0768175671 ,kelvin.abdullahi12@outlook.com,37.0,Nakuru,Nakuru,Rift Valley,2022-04-16,Regular,Yes
+C00595,Victor,Otieno,0790952827,victor.otieno13@gmail.com,32.0,Kilifi,Kilifi,Coast,2025-02-13,Regular,no
+C00596,Emmanuel,Kariuki,+254700481627,emmanuel.kariuki14@gmail.com,18.0,Busia,Busia,Western,2023-11-03,Regular,y
+C00597,Wambui,Njoroge,0722 530 759,wambui.njoroge15@outlook.com,34.0,Narok,Narok,Rift Valley,2025-02-11,New,Yes
+C00598,Wanjiku  ,Wafula,254710429381,wanjiku.wafula16@gmail.com,40.0,Migori,Migori,Nyanza,2023-10-09,Loyal,Yes
+C00599,Kelvin,Nyambura,,kelvin.nyambura17@gmail.com,40.0,Thika,Kiambu,Nairobi Metro,2025-02-26,New,Yes
+C00600,Kerubo,Otieno,0700997279,kerubo.otieno18@outlook.com,39.0,Machakos,Machakos,Eastern,2022-03-08,Loyal,yes
+C00601,Kelvin,Kimani,+254733659579,kelvin.kimani19@gmail.com,18.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-10-10,Loyal,Yes
+C00602,Faith,Nyaga,0790 319 201,faith.nyaga20@gmail.com,28.0,Mombasa,mombasa,Coast,2025-03-09,New,y
+C00603,Wambui,Rono,254701306382,wambui.rono21@outlook.com,25.0,Murang'a,Murang'a,Central,2024-03-27,New,Y 
+C00604,Michael,Achieng,0710267206 ,michael.achieng22@gmail.com,25.0,KAREN,Nairobi,Nairobi Metro,2024-06-05,VIP,n
+C00605,Kevin,Onyango,0701284880,kevin.onyango23@gmail.com,33.0,Kilifi,Kilifi,Coast,2024-10-29,Regular,y
+C00606,Cherono,Abdullahi,+254110825598,cherono.abdullahi24@outlook.com,60.0,Nakuru,Nakuru,Rift Valley,2022-10-25,Loyal,No
+C00607,Victor,Onyango,0701 429 333,victor.onyango25@gmail.com,30.0,Thika,Kiambu,Nairobi Metro,2024-04-27,Regular,y
+C00608,Faith,Odhiambo,254759921258,faith.odhiambo26@gmail.com,31.0,Mombasa,Mombasa,Coast,2025-02-13,Loyal,no
+C00609,Peter,Hussein,0110249553 ,peter.hussein27@outlook.com,33.0,Machakos,Machakos,Eastern,2024-11-12,Regular,y
+C00610,Samuel,Wekesa,0710969196,samuel.wekesa28@gmail.com,37.0,Kisumu,Kisumu,Nyanza,2023-06-08,Loyal,No
+C00611,Hassan,Nyaga,+254759230577,hassan.nyaga29@gmail.com,41.0,Narok,Narok,Rift Valley,2024-12-06,New,No
+C00612,James,Otieno,0759 897 729,james.otieno30@outlook.com,47.0,Kericho,Kericho,Rift Valley,2024-05-14,Loyal,Y 
+C00613,Omar,Maina,254110849567,omar.maina31@gmail.com,34.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-01-01,New,Yes
+C00614,Anthony,Ali,0700313536 ,,54.0,Eldoret,Uasin Gishu,Rift Valley,2023-12-29,Regular,Yes
+C00615,Adhiambo,Wanjiru,0745935229,adhiambo.wanjiru33@outlook.com,25.0,Kisii,Kisii,Nyanza,2024-04-19,Loyal,Yes
+C00616,Chebet,Kones,+254722882924,chebet.kones34@gmail.com,38.0,Kisumu,Kisumu,Nyanza,2023-01-07,New,Yes
+C00617,Chebet,Adhiambo,0110 941 072,chebet.adhiambo35@gmail.com,23.0,Kilifi,Kilifi,Coast,2024-02-02,Loyal, No
+C00618,Daniel,Kones,254790859726,daniel.kones36@outlook.com,42.0,Meru,Meru,Eastern,2023-06-27,Regular,Y 
+C00619,Mercy,Mwenda,0790920140 ,mercy.mwenda37@gmail.com,43.0,Embu,Embu,Eastern,2024-04-12,Regular,Yes
+C00620,Njeri,Kilonzo,0722526309,njeri.kilonzo38@gmail.com,30.0,Ukunda,Kwale,Coast,2024-07-15,New,Y 
+C00621,Muthoni,Mwangi,+254745355693,muthoni.mwangi39@outlook.com,33.0,Bungoma,Bungoma,Western,2025-06-11,Loyal,Yes
+C00622,Kelvin,Ali,0710 519 338,kelvin.ali40@gmail.com,44.0,Nyeri,Nyeri,Central,2022-03-03,Loyal,Yes
+C00623,Dennis,Mwenda,254759178829,dennis.mwenda41@gmail.com,32.0,Migori,Migori,Nyanza,2025-03-23,New,Yes
+C00624,John,Mohamed,0700480402 ,john.mohamed42@outlook.com,42.0,Narok,Narok,Rift Valley,2025-05-01,Regular,No
+C00625,Samuel,Kariuki,0759617693,samuel.kariuki43@gmail.com,38.0,Migori,Migori,Nyanza,2025-04-08,Regular,Yes
+C00626,Adhiambo,Nyaga,+254700460430,adhiambo.nyaga44@gmail.com,34.0,Kisumu,Kisumu,Nyanza,2022-01-01,Loyal,n
+C00627,Kevin,Kamau,0110 104 816,kevin.kamau45@outlook.com,18.0,Embu,Embu,Eastern,2024-08-11,Regular,Yes
+C00628,Akinyi,Onyango,254790838976,akinyi.onyango46@gmail.com,25.0,Kakamega,Kakamega,Western,2023-04-23,Regular,No
+C00629,Kevin,Achieng,0733340479 ,kevin.achieng47@gmail.com,35.0,Busia,Busia,Western,2024-02-29,New,No
+C00630,Faith,Ali,0700388598,faith.ali48@outlook.com,25.0,Narok,Narok,Rift Valley,2025-06-13,Regular,Yes
+C00631,Muthoni,Njuguna,+254700174883,muthoni.njuguna49@gmail.com,34.0,Narok,Narok,Rift Valley,2024-12-11,New,No
+C00632,Joseph,Odhiambo,0733 597 354,joseph.odhiambo50@gmail.com,18.0,Ruiru,Kiambu,Nairobi Metro,2023-06-12,New,Yes
+C00633,Michael,Mutua,254701476189,michael.mutua51@outlook.com,27.0,Bungoma,Bungoma,Western,2022-05-06,Regular,yes
+C00634,Mercy,Mohamed,0733425372 ,mercy.mohamed52@gmail.com,28.0,Ukunda,Kwale,Coast,2023-10-15,New,Yes
+C00635,Grace,Nyaga,0110492607,grace.nyaga53@gmail.com,18.0,Thika,Kiambu,Nairobi Metro,2024-08-21,Regular,y
+C00636,Emmanuel,Chebet,+254768780855,emmanuel.chebet54@outlook.com,48.0,Nyeri,Nyeri,Central,2023-09-02,VIP,No
+C00637,Faith,Mohamed,0710 751 229,faith.mohamed55@gmail.com,48.0,Ruiru,Kiambu,Nairobi Metro,2023-02-24,New,Yes
+C00638,Joseph,Maina,254110202096,joseph.maina56@gmail.com,33.0,Murang'a,Murang'a,Central,2022-09-15,Regular,y
+C00639,Joseph,Onyango,0722639290 ,joseph.onyango57@outlook.com,26.0,Karen,Nairobi,Nairobi Metro,2025-06-07,Loyal,No
+C00640,Amina,Njoroge,0790955887,amina.njoroge58@gmail.com,18.0,Busia,Busia,Western,2024-05-18,New,Yes
+C00641,Joseph,Nyaga,+254110664395,joseph.nyaga59@gmail.com,46.0,Karen,Nairobi,Nairobi Metro,2024-10-30,New,No
+C00642,Omar,Wekesa,0759 711 063,omar.wekesa60@outlook.com,25.0,Ukunda,Kwale,Coast,2022-04-22,Loyal,Yes
+C00643,John,Muriithi,254768297316,john.muriithi61@gmail.com,28.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-06-14,New,No
+C00644,Kerubo,Nyambura,0110771983 ,kerubo.nyambura62@gmail.com,34.0,Migori,Migori,Nyanza,2025-02-12,Regular,No
+C00645,Collins,Hassan,0733171438,collins.hassan63@outlook.com,22.0,Kisii,Kisii,Nyanza,2024-01-11,Regular,No
+C00646,Faith,Njuguna,+254745819462,faith.njuguna64@gmail.com,38.0,Eldoret,Uasin Gishu,Rift Valley,2025-07-01,Loyal,No
+C00647,Samuel,Kimani,0790 136 687,samuel.kimani65@gmail.com,33.0,Ol Kalou,Nyandarua,Central,2025-07-10,Regular,No
+C00648,Emmanuel,Sang,254110667074,emmanuel.sang66@outlook.com,29.0,Migori,Migori,Nyanza,2025-06-14,New,y
+C00649,Adhiambo,Mwangi,0745224033 ,adhiambo.mwangi67@gmail.com,32.0,Murang'a,Murang'a,Central,2024-10-21,Loyal,Yes
+C00650,James,Njuguna,0745185122,james.njuguna68@gmail.com,34.0,Kakamega,Kakamega,Western,2025-06-18,New,Y 
+C00651,Kerubo,Mwenda,+254768609206,kerubo.mwenda69@outlook.com,21.0,Kisumu,Kisumu,Nyanza,2025-01-27,New,YES
+C00652,Akinyi,Gitau,0722 736 313,akinyi.gitau70@gmail.com,38.0,Kilifi,Kilifi,Coast,2024-06-11,New,n
+C00653,Joseph,Wanjiru,254700946915,joseph.wanjiru71@gmail.com,31.0,Kisumu,Kisumu,Nyanza,2025-06-14,New,No
+C00654,James,Kiptoo,0110281329 ,james.kiptoo72@outlook.com,,Kisii,Kisii,Nyanza,2023-01-26,New,Yes
+C00655,Michael,Rono,0700595558,michael.rono73@gmail.com,31.0,Machakos,Machakos,Eastern,2022-03-27,New,no
+C00656,Nafula,Sang,+254768826407,nafula.sang74@gmail.com,40.0,Kakamega,Kakamega,Western,2022-07-15,New, No
+C00657,Michael,Achieng,0790 744 098,michael.achieng75@outlook.com,34.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-04-27,Loyal,No
+C00658,Samuel,Chebet,254759478192,samuel.chebet76@gmail.com,44.0,Mombasa,Mombasa,Coast,2023-04-05,Regular,No
+C00659,Chebet,Kilonzo,0710578812 ,chebet.kilonzo77@gmail.com,31.0,Kakamega,Kakamega,Western,2024-06-20,Regular,Yes
+C00660,Halima,Kimani,0110336125,halima.kimani78@outlook.com,49.0,Nyeri,Nyeri,Central,2024-03-13,Loyal,No
+C00661,Wanjiku,Onyango,+254790777107,wanjiku.onyango79@gmail.com,30.0,Kericho,Kericho,Rift Valley,2022-08-07,New,yes
+C00662,Kelvin,Hassan,0733 666 514,kelvin.hassan80@gmail.com,,Meru,Meru,Eastern,2025-01-29,New,n
+C00663,Abdi,Kariuki,254759791763,abdi.kariuki81@outlook.com,,Embu,Embu,Eastern,2023-04-15,Loyal,NO
+C00664,Kelvin,Mwangi,0759438404 ,kelvin.mwangi82@gmail.com,22.0,Thika,Kiambu,Nairobi Metro,2022-01-23,New,Yes
+C00665,Habiba,Odhiambo,0768887583,habiba.odhiambo83@gmail.com,33.0,Ol Kalou,Nyandarua,Central,2025-03-10,Loyal,No
+C00666,Adhiambo,Chebet,+254759600961,adhiambo.chebet84@outlook.com,46.0,Westlands,Nairobi,Nairobi Metro,2022-07-28,Regular,NO
+C00667,Akinyi,Odhiambo,0759 230 394,akinyi.odhiambo85@gmail.com,51.0,Embu,Embu,Eastern,2023-12-26,Regular,Yes
+C00668,George,Nyaga,254733637640,george.nyaga86@gmail.com,29.0,Mombasa,Mombasa,Coast,2023-07-17,Loyal,Yes
+C00669,Yusuf,Kilonzo,0733680013 ,yusuf.kilonzo87@outlook.com,29.0,Nyeri,Nyeri,Central,2022-07-14,Regular,Yes
+C00670,Michael,Kones,0790585750,michael.kones88@gmail.com,36.0,Thika,kiambu,Nairobi Metro,2025-05-03,New,Yes
+C00671,Kerubo,Sang,+254745726393,kerubo.sang89@gmail.com,49.0,Kericho,Kericho,Rift Valley,2022-09-16,VIP,No
+C00672,Brian,Abdullahi,,brian.abdullahi90@outlook.com,54.0,Eldoret,Uasin Gishu,Rift Valley,2024-02-13,New,Yes
+C00673,George,Nyambura,,george.nyambura91@gmail.com,20.0,Karen,Nairobi,Nairobi Metro,2023-06-20,Loyal,Yes
+C00674,Emmanuel  ,Nyambura,0710769710 ,emmanuel.nyambura92@gmail.com,18.0,Machakos,Machakos,Eastern,2022-02-06,Loyal,No
+C00675,Muthoni,Sang,0110543851,muthoni.sang93@outlook.com,18.0,Kisii,Kisii,Nyanza,2022-05-12,Regular,y
+C00676,Samuel,Njoroge,+254745947898,samuel.njoroge94@gmail.com,28.0,Mombasa,Mombasa,Coast,2023-01-17,New,Yes
+C00677,Daniel,Njuguna,0745 963 504,daniel.njuguna95@gmail.com,18.0,Meru,Meru,Eastern,2023-03-05,New,No
+C00678,Achieng,Adhiambo,254700370407,achieng.adhiambo96@outlook.com,33.0,Karen,Nairobi,Nairobi Metro,2025-05-18,VIP,Yes
+C00679,Faith,Wanjiru,0733552952 ,faith.wanjiru0@gmail.com,29.0,Machakos,Machakos,Eastern,2023-10-25,New,n
+C00680,Felix,Abdullahi,0733633988,felix.abdullahi1@gmail.com,31.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-01-20,New,No
+C00681,Emmanuel,Nyambura,+254790344261,emmanuel.nyambura2@outlook.com,37.0,Kakamega,Kakamega,Western,2022-06-12,Regular,Yes
+C00682,Wanjiku,Adhiambo,0790 580 155,wanjiku.adhiambo3@gmail.com,38.0,Nakuru,Nakuru,Rift Valley,2024-07-20,Regular,Yes
+C00683,Nafula,Adhiambo,254759619911,nafula.adhiambo4@gmail.com,26.0,Kisumu,Kisumu,Nyanza,2023-10-01,New,y
+C00684,Cherono,Kilonzo,0700478785 ,cherono.kilonzo5@outlook.com,18.0,Karen,Nairobi,Nairobi Metro,2024-07-02,New,Yes
+C00685,Anthony,Kilonzo,0768605880,anthony.kilonzo6@gmail.com,41.0,Mombasa,Mombasa,Coast,2023-07-01,Regular,no
+C00686,Brian,Kiptoo,+254790953535,brian.kiptoo7@gmail.com,37.0,Mombasa,Mombasa,Coast,2024-08-07,New,No
+C00687,Samuel,Achieng,0759 251 923,samuel.achieng8@outlook.com,22.0,Kisii,Kisii,Nyanza,2023-02-11,New,n
+C00688,Wairimu,Mohamed,254759893139,wairimu.mohamed9@gmail.com,36.0,Busia,Busia,Western,2022-06-22,Regular,No
+C00689,Fatuma,Chebet,0722567453 ,fatuma.chebet10@gmail.com,39.0,Kilifi,Kilifi,Coast,2024-05-08,VIP,No
+C00690,Paul,Abdullahi,0759213105,paul.abdullahi11@outlook.com,29.0,Kisii,Kisii,Nyanza,2025-02-26,New,No
+C00691,George,Barasa,+254790875311,george.barasa12@gmail.com,29.0,Ruiru,Kiambu,Nairobi Metro,2025-07-16,Regular,Yes
+C00692,Amina,Njoroge,0710 451 728,amina.njoroge13@gmail.com,18.0,Karen,Nairobi,Nairobi Metro,2023-04-15,New,No
+C00693,Wairimu,Mwenda,254745382675,wairimu.mwenda14@outlook.com,28.0,Kericho,Kericho,Rift Valley,2024-10-26,New,Yes
+C00694,Dennis,Nyambura,0790644071 ,dennis.nyambura15@gmail.com,54.0,Ukunda,Kwale,Coast,2022-10-14,Regular,Yes
+C00695,Wanjiru,Odhiambo,0733680187,wanjiru.odhiambo16@gmail.com,20.0,Ukunda,Kwale,Coast,2023-01-30,Loyal,Yes
+C00696,Omar,Barasa,+254790277261,omar.barasa17@outlook.com,46.0,Machakos,Machakos,Eastern,2023-02-14,Regular,No
+C00697,Paul,Mutua,0790 560 994,,18.0,Busia,Busia,Western,2024-03-21,Regular,Yes
+C00698,Joseph,Mohamed,254722707407,joseph.mohamed19@gmail.com,20.0,Ruiru,Kiambu,Nairobi Metro,2022-07-23,Loyal,Yes
+C00699,Victor,Kimani,0759667616 ,victor.kimani20@outlook.com,34.0,Busia,Busia,Western,2022-12-19,VIP,Yes
+C00700,Wanjiru,Wanjiru,0110822867,wanjiru.wanjiru21@gmail.com,30.0,KILIFI,Kilifi,Coast,2022-05-21,Loyal,y
+C00701,Anthony,Achieng,+254745604139,anthony.achieng22@gmail.com,,Kakamega,Kakamega,Western,2024-05-07,VIP,no
+C00702,Felix,Kamau,0759 781 167,felix.kamau23@outlook.com,26.0,Nyeri,Nyeri,Central,2025-07-17,Regular,No
+C00703,Brian,Mwangi,254733834219,brian.mwangi24@gmail.com,29.0,Eldoret,Uasin Gishu,Rift Valley,2024-12-16,VIP,No
+C00704,Zainab,Mwangi,0733844394 ,zainab.mwangi25@gmail.com,43.0,Karen,Nairobi,Nairobi Metro,2023-07-10,New,Yes
+C00705,Adhiambo,Achieng,0110866512,adhiambo.achieng26@outlook.com,48.0,Ruiru,Kiambu,Nairobi Metro,2025-07-22,Regular,Yes
+C00706,Brian,Otieno,+254722477198,brian.otieno27@gmail.com,20.0,Nyeri,Nyeri,Central,2025-03-13,New,Yes
+C00707,Wanjiru,Abdullahi,0790 113 314,wanjiru.abdullahi28@gmail.com,38.0,NYERI,Nyeri,Central,2022-12-01,Regular,No
+C00708,Felix,Onyango,254790618769,felix.onyango29@outlook.com,22.0,Kisii,Kisii,Nyanza,2022-09-21,New,Yes
+C00709,Victor,Chebet,0110427635 ,victor.chebet30@gmail.com,59.0,Machakos,Machakos,Eastern,2023-03-26,Regular,Yes
+C00710,John,Maina,0110664138,john.maina31@gmail.com,31.0,Eldoret,Uasin Gishu,Rift Valley,2025-06-22,Regular,Yes
+C00711,Faith,Chebet,+254710359447,faith.chebet32@outlook.com,67.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-05-16,Regular,y
+C00712,Nafula,Mohamed,0701 738 484,nafula.mohamed33@gmail.com,37.0,Kakamega,Kakamega,Western,2023-10-27,Loyal,YES
+C00713,Faith,Achieng,254701772723,faith.achieng34@gmail.com,38.0,Migori,Migori,Nyanza,2025-05-02,New,YES
+C00714,James,Ali,0768858869 ,james.ali35@outlook.com,25.0,Kericho,Kericho,Rift Valley,2022-06-29,Regular,No
+C00715,Cherono,Adhiambo,0700476818,cherono.adhiambo36@gmail.com,34.0,Ukunda,Kwale,Coast,2022-06-01,Regular,Yes
+C00716,Fatuma,Mwangi,+254110993516,fatuma.mwangi37@gmail.com,18.0,Westlands,Nairobi,Nairobi Metro,2023-08-31,New,Yes
+C00717,Daniel,Chebet,0722 233 022,daniel.chebet38@outlook.com,42.0,Mombasa,Mombasa,Coast,2023-03-24,Regular,Yes
+C00718,Michael,Onyango,,michael.onyango39@gmail.com,43.0,Ol Kalou,Nyandarua,Central,2022-01-05,New,No
+C00719,Kevin,Onyango,0701238103 ,kevin.onyango40@gmail.com,44.0,Kisii,Kisii,Nyanza,2023-03-28,VIP,NO
+C00720,Moraa,Kiptoo,0745180991,moraa.kiptoo41@outlook.com,41.0,Kisumu,Kisumu,Nyanza,2025-04-05,New,YES
+C00721,John,Rono,+254110758168,john.rono42@gmail.com,38.0,Nairobi CBD,nairobi,Nairobi Metro,2023-01-20,New,Yes
+C00722,Stephen,Otieno,0700 401 896,stephen.otieno43@gmail.com,38.0,Kericho,Kericho,Rift Valley,2023-01-19,Regular,Yes
+C00723,Samuel,Kones,254110429954,samuel.kones44@outlook.com,29.0,Kakamega,Kakamega,Western,2025-07-20,Regular,Yes
+C00724,Ibrahim,Kamau,0768189227 ,ibrahim.kamau45@gmail.com,40.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-09-13,Loyal,No
+C00725,Mercy,Njuguna,0722794748,mercy.njuguna46@gmail.com,48.0,Narok,Narok,Rift Valley,2024-06-22,New,Yes
+C00726,Samuel,Kamau,+254710778432,samuel.kamau47@outlook.com,43.0,Ukunda,Kwale,Coast,2022-05-24,New,Yes
+C00727,Moraa,Wafula,0745 818 230,moraa.wafula48@gmail.com,29.0,Narok,Narok,Rift Valley,2023-04-21,Regular,y
+C00728,Brian,Nyaga,254733530340,brian.nyaga49@gmail.com,43.0,Migori,Migori,Nyanza,2025-05-20,New, No
+C00729,Paul,Cherono,0768294836 ,paul.cherono50@outlook.com,,Migori,Migori,Nyanza,2024-01-20,Regular,Yes
+C00730,Dennis,Njuguna,0759998198,dennis.njuguna51@gmail.com,18.0,Machakos,Machakos,Eastern,2024-01-08,New,Yes
+C00731,Halima,Wekesa,+254759770811,halima.wekesa52@gmail.com,41.0,Ruiru,Kiambu,Nairobi Metro,2022-11-24,Regular,No
+C00732,Nyokabi,Kones,0768 955 259,nyokabi.kones53@outlook.com,18.0,Kericho,Kericho,Rift Valley,2024-07-19,New,No
+C00733,Faith,Njuguna,254701577980,faith.njuguna54@gmail.com,32.0,Ruiru,Kiambu,Nairobi Metro,2023-06-18,Regular,No
+C00734,Wanjiru,Mutua,0745946781 ,wanjiru.mutua55@gmail.com,25.0,Kisii,Kisii,Nyanza,2022-01-13,Loyal,No
+C00735,Stephen,Wafula,0700860708,stephen.wafula56@outlook.com,20.0,Eldoret,Uasin Gishu,Rift Valley,2024-07-11,New,No
+C00736,Joseph,Kones,+254790725075,joseph.kones57@gmail.com,42.0,Mombasa,Mombasa,Coast,2023-10-06,Loyal,NO
+C00737,Wairimu,Odhiambo,0745 419 791,wairimu.odhiambo58@gmail.com,22.0,Ukunda,Kwale,Coast,2022-03-19,New,Yes
+C00738,Emmanuel,Sang,254745174260,emmanuel.sang59@outlook.com,58.0,Bungoma,Bungoma,Western,2025-02-19,New,YES
+C00739,Adhiambo,Kiptoo,0701515778 ,adhiambo.kiptoo60@gmail.com,33.0,Kakamega,Kakamega,Western,2024-09-19,Regular,YES
+C00740,Muthoni,Kilonzo,0790422187,muthoni.kilonzo61@gmail.com,38.0,Nyeri,Nyeri,Central,2023-10-07,New,y
+C00741,Wambui,Sang,+254722441681,wambui.sang62@outlook.com,42.0,Kisii,Kisii,Nyanza,2023-04-15,New,No
+C00742,Cherono,Gitau,0745 595 311,cherono.gitau63@gmail.com,24.0,Karen,Nairobi,Nairobi Metro,2023-08-02,New,Yes
+C00743,Wambui,Adhiambo,254700757516,wambui.adhiambo64@gmail.com,36.0,Karen,Nairobi,Nairobi Metro,2022-07-23,Regular,No
+C00744,Akinyi,Otieno,0745486620 ,akinyi.otieno65@outlook.com,21.0,Thika,Kiambu,Nairobi Metro,2024-05-15,Regular,Yes
+C00745,Njeri,Njuguna,0710417543,njeri.njuguna66@gmail.com,58.0,Westlands,Nairobi,Nairobi Metro,2023-02-08,Regular, No
+C00746,Grace,Kimani,+254733321648,grace.kimani67@gmail.com,18.0,Eldoret,Uasin Gishu,Rift Valley,2024-01-23,New,No
+C00747,Emmanuel,Kariuki,0790 446 987,emmanuel.kariuki68@outlook.com,45.0,Kisumu,Kisumu,Nyanza,2025-01-06,Regular,No
+C00748,George,Nyaga,254722318598,george.nyaga69@gmail.com,22.0,Kisumu,Kisumu,Nyanza,2025-06-07,Regular,Yes
+C00749,James,Muriithi,0745196529 ,james.muriithi70@gmail.com,51.0,Busia,Busia,Western,2022-07-08,Regular,Yes
+C00750,Achieng,Kones,0759966429,achieng.kones71@outlook.com,26.0,Eldoret,Uasin Gishu,Rift Valley,2024-01-24,New,Y 
+C00751,Abdi,Auma,+254733959339,abdi.auma72@gmail.com,35.0,Ol Kalou,Nyandarua,Central,2025-05-11,New,yes
+C00752,Collins,Mohamed,0722 207 247,collins.mohamed73@gmail.com,18.0,Nairobi CBD,nairobi,Nairobi Metro,2024-01-03,Regular,No
+C00753,Samuel,Rono,254710160671,samuel.rono74@outlook.com,29.0,Migori,Migori,Nyanza,2022-12-02,New,y
+C00754,Zainab,Cherono,0110278590 ,zainab.cherono75@gmail.com,26.0,Kilifi,Kilifi,Coast,2023-01-31,Regular,NO
+C00755,George,Muriithi,0790296881,george.muriithi76@gmail.com,27.0,Embu,Embu,Eastern,2023-10-09,Regular,Yes
+C00756,Wambui,Kones,+254110133139,wambui.kones77@outlook.com,37.0,Ol Kalou,Nyandarua,Central,2025-06-17,Regular,No
+C00757,Victor,Auma,0710 696 092,victor.auma78@gmail.com,31.0,Kisii,Kisii,Nyanza,2022-03-26,Regular,Yes
+C00758,Ibrahim,Odhiambo,254790693477,ibrahim.odhiambo79@gmail.com,29.0,Ol Kalou,Nyandarua,Central,2022-12-07,Loyal,Yes
+C00759,Grace,Hussein,0733865670 ,grace.hussein80@outlook.com,,Ol Kalou,Nyandarua,Central,2023-03-05,New,No
+C00760,Amina,Sang,0700164651,amina.sang81@gmail.com,44.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-11-09,New,NO
+C00761,Hassan,Chebet,+254733200738,hassan.chebet82@gmail.com,43.0,Busia,Busia,Western,2023-11-20,Regular,No
+C00762,Brian,Sang,0701 561 948,brian.sang83@outlook.com,,Murang'a,Murang'a,Central,2025-07-10,Regular,No
+C00763,Omar,Wafula,254722839124,omar.wafula84@gmail.com,35.0,Kisumu,Kisumu,Nyanza,2024-01-11,Regular,Yes
+C00764,Daniel,Kimani,0701810440 ,daniel.kimani85@gmail.com,39.0,Westlands,Nairobi,Nairobi Metro,2023-08-25,VIP,Y 
+C00765,Dennis,Muriithi,0790824891,dennis.muriithi86@outlook.com,35.0,Murang'a,Murang'a,Central,2022-01-13,Regular,No
+C00766,Ibrahim,Nyambura,+254722113992,ibrahim.nyambura87@gmail.com,32.0,Bungoma,Bungoma,Western,2023-11-15,Loyal,Yes
+C00767,Dennis,Nyambura,0701 606 632,dennis.nyambura88@gmail.com,40.0,Busia,Busia,Western,2023-04-05,Regular,Y 
+C00768,Samuel,Gitau,254710338514,samuel.gitau89@outlook.com,24.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-09-06,Regular,Yes
+C00769,Zainab,Kones,0733146189 ,zainab.kones90@gmail.com,21.0,Karen,Nairobi,Nairobi Metro,2024-06-28,VIP,No
+C00770,Michael,Kones,0768190903,michael.kones91@gmail.com,35.0,Ol Kalou,Nyandarua,Central,2024-03-07,New,Yes
+C00771,Habiba,Kariuki,+254733353230,habiba.kariuki92@outlook.com,47.0,Embu,Embu,Eastern,2022-05-19,Regular,Y 
+C00772,Wanjiru,Otieno,0745 380 766,wanjiru.otieno93@gmail.com,24.0,Machakos,Machakos,Eastern,2024-08-29,Regular,No
+C00773,Halima,Kilonzo,254759110789,halima.kilonzo94@gmail.com,31.0,Kisii,Kisii,Nyanza,2025-05-09,New,Yes
+C00774,Faith,Nyaga,0722635338 ,faith.nyaga95@outlook.com,28.0,Eldoret,Uasin Gishu,Rift Valley,2025-04-24,VIP,No
+C00775,Adhiambo,Kilonzo,0701124013,adhiambo.kilonzo96@gmail.com,27.0,Bungoma,Bungoma,Western,2025-03-16,New,No
+C00776,Wanjiru,Gitau,,wanjiru.gitau0@gmail.com,53.0,Migori,Migori,Nyanza,2023-09-20,New,No
+C00777,Akinyi,Wekesa,0700 839 820,akinyi.wekesa1@outlook.com,27.0,Kisumu,Kisumu,Nyanza,2024-11-17,New,No
+C00778,Adhiambo,Kamau,254110615825,adhiambo.kamau2@gmail.com,53.0,Mombasa,Mombasa,Coast,2023-08-22,VIP,Yes
+C00779,James,Adhiambo,0722169975 ,james.adhiambo3@gmail.com,30.0,Eldoret,Uasin Gishu,Rift Valley,2023-04-30,Regular,Yes
+C00780,Ibrahim,Nyambura,0710354980,ibrahim.nyambura4@outlook.com,36.0,Eldoret,Uasin Gishu,Rift Valley,2022-06-03,New,Yes
+C00781,Stephen,Kamau,+254790766738,stephen.kamau5@gmail.com,35.0,Kericho,Kericho,Rift Valley,2022-11-20,Regular,yes
+C00782,Nyokabi  ,Wafula,0110 612 487,nyokabi.wafula6@gmail.com,30.0,Meru,Meru,Eastern,2024-11-28,Regular,Yes
+C00783,Samuel,Abdullahi,254790554127,samuel.abdullahi7@outlook.com,47.0,Kakamega,Kakamega,Western,2022-09-18,Regular,Yes
+C00784,David,Adhiambo,0110586088 ,david.adhiambo8@gmail.com,28.0,Murang'a,Murang'a,Central,2024-05-17,Regular, No
+C00785,Michael,Mwangi,0701139082,michael.mwangi9@gmail.com,25.0,Migori,Migori,Nyanza,2023-03-08,Regular, No
+C00786,Ibrahim,Gitau,+254700237589,ibrahim.gitau10@outlook.com,23.0,Narok,Narok,Rift Valley,2025-06-18,New,Yes
+C00787,Moraa,Wanjiru,0722 971 790,moraa.wanjiru11@gmail.com,43.0,Busia,Busia,Western,2025-01-19,New,YES
+C00788,Halima,Odhiambo,254700198824,halima.odhiambo12@gmail.com,33.0,Ol Kalou,Nyandarua,Central,2022-04-09,New,Yes
+C00789,Daniel,Auma,0745301950 ,daniel.auma13@outlook.com,18.0,MERU,Meru,Eastern,2023-12-24,Loyal,No
+C00790,Amina,Njoroge,0759369289,amina.njoroge14@gmail.com,40.0,Nyeri,Nyeri,Central,2025-01-20,Loyal,Yes
+C00791,Omar,Kones,+254110410210,omar.kones15@gmail.com,35.0,Ol Kalou,Nyandarua,Central,2022-06-21,Regular,Y 
+C00792,Samuel,Onyango,0790 139 810,samuel.onyango16@outlook.com,49.0,Nyeri,Nyeri,Central,2022-12-25,Loyal,Yes
+C00793,Grace,Kilonzo,254759582016,grace.kilonzo17@gmail.com,40.0,Kakamega,Kakamega,Western,2022-07-03,Regular,Yes
+C00794,George,Barasa,0790647285 ,george.barasa18@gmail.com,43.0,Busia,Busia,Western,2023-05-07,Regular,Yes
+C00795,Amina,Rono,0790450493,amina.rono19@outlook.com,46.0,NYERI,Nyeri,Central,2022-07-13,New,Yes
+C00796,Mercy,Auma,+254759626804,mercy.auma20@gmail.com,37.0,Nairobi CBD,nairobi,Nairobi Metro,2022-10-29,Regular,Yes
+C00797,Halima,Mohamed,0710 966 215,halima.mohamed21@gmail.com,18.0,Murang'a,Murang'a,Central,2022-05-29,New,Yes
+C00798,Naliaka,Kimani,254700719080,naliaka.kimani22@outlook.com,36.0,Kilifi,Kilifi,Coast,2023-02-12,Regular,Yes
+C00799,Omar,Cherono,0710105340 ,omar.cherono23@gmail.com,23.0,Kakamega,Kakamega,Western,2023-12-12,Loyal,No
+C00800,Emmanuel,Mutua,0722311855,emmanuel.mutua24@gmail.com,44.0,Bungoma,Bungoma,Western,2025-05-28,Regular,Yes
+C00801,Emmanuel,Cherono,+254722648667,emmanuel.cherono25@outlook.com,38.0,Karen,Nairobi,Nairobi Metro,2024-12-01,Regular,Yes
+C00802,Mercy,Mutua,0745 894 084,mercy.mutua26@gmail.com,21.0,Kisii,Kisii,Nyanza,2022-07-14,New,Y 
+C00803,Michael,Maina,254701455804,michael.maina27@gmail.com,31.0,Kisii,Kisii,Nyanza,2023-01-29,Regular,Yes
+C00804,John,Nyambura,,john.nyambura28@outlook.com,27.0,Westlands,Nairobi,Nairobi Metro,2025-06-11,New,Yes
+C00805,Peter,Abdullahi,0768522004,peter.abdullahi29@gmail.com,26.0,Westlands,Nairobi,Nairobi Metro,2022-01-23,Regular,YES
+C00806,Wambui,Njuguna,+254700681784,wambui.njuguna30@gmail.com,29.0,Machakos,Machakos,Eastern,2022-03-04,Loyal,Yes
+C00807,Victor,Rono,0710 292 340,victor.rono31@outlook.com,23.0,Nyeri,Nyeri,Central,2022-11-18,New,Y 
+C00808,Fatuma,Kilonzo,254733223398,fatuma.kilonzo32@gmail.com,18.0,Machakos,Machakos,Eastern,2024-01-29,Loyal,Yes
+C00809,Peter,Chebet,0110250762 ,peter.chebet33@gmail.com,42.0,Kakamega,Kakamega,Western,2023-01-18,New,Yes
+C00810,Felix,Njuguna,0745776674,felix.njuguna34@outlook.com,22.0,Karen,Nairobi,Nairobi Metro,2023-01-31,Regular,Yes
+C00811,Abdi,Odhiambo,+254790188013,abdi.odhiambo35@gmail.com,33.0,Narok,Narok,Rift Valley,2023-11-17,Regular,Yes
+C00812,Muthoni,Mutua,0710 591 310,muthoni.mutua36@gmail.com,36.0,Nyeri,Nyeri,Central,2023-01-11,Loyal,Yes
+C00813,Anthony  ,Nyaga,254759281398,anthony.nyaga37@outlook.com,37.0,Bungoma,Bungoma,Western,2023-07-27,Regular,No
+C00814,Achieng,Odhiambo,0733908421 ,achieng.odhiambo38@gmail.com,58.0,Busia,busia,Western,2024-06-19,Regular,No
+C00815,Brian,Muriithi,0768367926,brian.muriithi39@gmail.com,20.0,Kisii,Kisii,Nyanza,2022-12-16,New,Yes
+C00816,Achieng,Kamau,+254700715078,achieng.kamau40@outlook.com,39.0,Kilifi,Kilifi,Coast,2024-03-29,Regular,Yes
+C00817,Akinyi,Nyambura,0722 480 393,akinyi.nyambura41@gmail.com,28.0,Ukunda,kwale,Coast,2023-08-27,New,Yes
+C00818,Faith,Nyambura,254768615520,faith.nyambura42@gmail.com,18.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-05-08,New,Yes
+C00819,Faith,Mutua,0745512080 ,faith.mutua43@outlook.com,29.0,Kisumu,Kisumu,Nyanza,2023-04-27,New,Yes
+C00820,George,Nyaga,0110140632,george.nyaga44@gmail.com,27.0,Busia,Busia,Western,2023-10-09,Regular,No
+C00821,Wairimu,Gitau,+254710560292,wairimu.gitau45@gmail.com,36.0,Ruiru,Kiambu,Nairobi Metro,2024-06-18,Loyal,Yes
+C00822,Kerubo,Kiptoo,0700 612 103,kerubo.kiptoo46@outlook.com,44.0,Murang'a,Murang'a,Central,2022-01-08,New,yes
+C00823,Brian,Nyaga,254768287762,brian.nyaga47@gmail.com,39.0,Nyeri,Nyeri,Central,2022-05-25,New,Yes
+C00824,Grace,Barasa,0110141993 ,grace.barasa48@gmail.com,,Kisii,Kisii,Nyanza,2024-03-11,Regular,n
+C00825,David,Achieng,0768200643,david.achieng49@outlook.com,37.0,Eldoret,Uasin Gishu,Rift Valley,2022-10-16,Regular,No
+C00826,Muthoni,Abdullahi,+254722372958,muthoni.abdullahi50@gmail.com,25.0,Narok,Narok,Rift Valley,2024-05-09,Regular,Yes
+C00827,Emmanuel,Mwenda,0700 644 096,emmanuel.mwenda51@gmail.com,49.0,Karen,Nairobi,Nairobi Metro,2022-01-27,Loyal,Yes
+C00828,Michael,Njoroge,254733854478,michael.njoroge52@outlook.com,21.0,Kisii,Kisii,Nyanza,2024-07-11,New,Yes
+C00829,Abdi,Cherono,0722824604 ,abdi.cherono53@gmail.com,50.0,Westlands,Nairobi,Nairobi Metro,2024-10-28,New,Yes
+C00830,Grace,Kariuki,0700227318,grace.kariuki54@gmail.com,39.0,Narok,Narok,Rift Valley,2022-04-28,Regular,No
+C00831,Faith,Kones,+254710665787,faith.kones55@outlook.com,43.0,Kisumu,Kisumu,Nyanza,2022-10-19,Regular,Yes
+C00832,Joseph,Muriithi,0710 950 606,joseph.muriithi56@gmail.com,48.0,Nakuru,Nakuru,Rift Valley,2022-08-11,New,Yes
+C00833,Abdi,Ali,254710612491,abdi.ali57@gmail.com,36.0,Mombasa,Mombasa,Coast,2022-04-12,New,No
+C00834,Kelvin,Nyambura,0110941041 ,kelvin.nyambura58@outlook.com,31.0,Ol Kalou,Nyandarua,Central,2022-03-09,Regular, No
+C00835,Daniel,Sang,0710467020,daniel.sang59@gmail.com,18.0,Thika,Kiambu,Nairobi Metro,2025-03-14,New,No
+C00836,Fatuma,Kilonzo,+254745543956,fatuma.kilonzo60@gmail.com,38.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-06-12,Loyal,Yes
+C00837,Samuel,Muriithi,0710 421 941,samuel.muriithi61@outlook.com,28.0,Migori,Migori,Nyanza,2022-03-28,Regular,Yes
+C00838,Kerubo,Muriithi,254733905162,kerubo.muriithi62@gmail.com,26.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-09-22,New,y
+C00839,Wambui,Wanjiru,0700621829 ,wambui.wanjiru63@gmail.com,18.0,Westlands,Nairobi,Nairobi Metro,2022-10-01,VIP,YES
+C00840,Kelvin,Kones,0700893202,kelvin.kones64@outlook.com,40.0,Kericho,Kericho,Rift Valley,2024-09-04,New,Yes
+C00841,Achieng,Abdullahi,+254759339268,achieng.abdullahi65@gmail.com,56.0,Eldoret,Uasin Gishu,Rift Valley,2022-03-23,Loyal, No
+C00842,Naliaka,Mutua,0733 545 275,naliaka.mutua66@gmail.com,23.0,Busia,Busia,Western,2023-07-17,New,Yes
+C00843,Anthony,Njoroge,254710611437,anthony.njoroge67@outlook.com,23.0,Nakuru,Nakuru,Rift Valley,2023-01-24,New,Yes
+C00844,Omar,Wekesa,0710996470 ,omar.wekesa68@gmail.com,29.0,Migori,Migori,Nyanza,2024-05-03,New,Yes
+C00845,Peter,Rono,0759628369,peter.rono69@gmail.com,40.0,Nyeri,Nyeri,Central,2023-05-25,Regular,Yes
+C00846,Grace,Kamau,+254768828451,grace.kamau70@outlook.com,26.0,Machakos,Machakos,Eastern,2022-11-18,Regular,Y 
+C00847,Collins,Kimani,0722 480 796,collins.kimani71@gmail.com,22.0,Ruiru,Kiambu,Nairobi Metro,2025-03-06,Regular,No
+C00848,Yusuf,Muriithi,254700303681,yusuf.muriithi72@gmail.com,37.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-12-11,Regular,Yes
+C00849,Kevin,Mohamed,0759684725 ,kevin.mohamed73@outlook.com,31.0,Karen,Nairobi,Nairobi Metro,2023-11-17,Loyal,Yes
+C00850,Njeri,Gitau,0701228979,njeri.gitau74@gmail.com,43.0,Narok,Narok,Rift Valley,2024-11-27,Regular,No
+C00851,Hassan,Wanjiru,+254790756068,hassan.wanjiru75@gmail.com,18.0,Eldoret,Uasin Gishu,Rift Valley,2025-01-20,Loyal,No
+C00852,Zainab,Maina,0745 854 850,zainab.maina76@outlook.com,32.0,Narok,Narok,Rift Valley,2022-07-14,Regular,yes
+C00853,Dennis,Rono,254700609451,dennis.rono77@gmail.com,37.0,Ol Kalou,Nyandarua,Central,2025-02-02,Regular,Y 
+C00854,Hassan,Wafula,0710922444 ,hassan.wafula78@gmail.com,28.0,Machakos,Machakos,Eastern,2024-08-05,New,y
+C00855,Stephen,Gitau,0700115972,stephen.gitau79@outlook.com,45.0,Ol Kalou,Nyandarua,Central,2024-10-30,Regular,NO
+C00856,George,Kilonzo,+254110201478,george.kilonzo80@gmail.com,,Nakuru,Nakuru,Rift Valley,2025-03-22,Regular,No
+C00857,John,Hassan,0701 558 009,john.hassan81@gmail.com,18.0,Narok,Narok,Rift Valley,2023-09-03,Regular,no
+C00858,Emmanuel,Mwenda,254790171153,emmanuel.mwenda82@outlook.com,18.0,Migori,Migori,Nyanza,2023-10-27,Regular,No
+C00859,Cherono,Adhiambo,0790523864 ,cherono.adhiambo83@gmail.com,42.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-02-07,New,Yes
+C00860,Abdi,Chebet,0759618519,abdi.chebet84@gmail.com,29.0,Karen,Nairobi,Nairobi Metro,2022-12-17,New,YES
+C00861,Anthony,Njoroge,+254700122167,anthony.njoroge85@outlook.com,27.0,Kakamega,Kakamega,Western,2022-04-21,New,NO
+C00862,Yusuf,Barasa,0110 907 399,yusuf.barasa86@gmail.com,26.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-08-15,VIP,Yes
+C00863,Hassan,Nyambura,254110555646,hassan.nyambura87@gmail.com,23.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-05-31,Regular,No
+C00864,Felix,Maina,0745919214 ,felix.maina88@outlook.com,33.0,Westlands,Nairobi,Nairobi Metro,2025-03-12,Loyal,No
+C00865,Collins,Kariuki,0733527252,collins.kariuki89@gmail.com,32.0,Murang'a,Murang'a,Central,2024-11-30,Regular,YES
+C00866,Chebet,Ali,+254700848913,chebet.ali90@gmail.com,27.0,Thika,Kiambu,Nairobi Metro,2024-05-17,New,Yes
+C00867,John,Wekesa,0768 587 373,john.wekesa91@outlook.com,37.0,Nyeri,Nyeri,Central,2025-03-06,New, No
+C00868,Omar,Njoroge,254710840007,omar.njoroge92@gmail.com,40.0,Ukunda,Kwale,Coast,2023-10-03,Loyal,Yes
+C00869,Hassan,Muriithi,0790940049 ,hassan.muriithi93@gmail.com,33.0,Meru,Meru,Eastern,2022-12-25,New,NO
+C00870,Moraa,Maina,0745142586,moraa.maina94@outlook.com,34.0,Karen,Nairobi,Nairobi Metro,2022-01-29,New,n
+C00871,Nafula,Njuguna,+254110370988,nafula.njuguna95@gmail.com,38.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-06-19,Regular,Yes
+C00872,George,Kones,0733 795 847,george.kones96@gmail.com,27.0,Murang'a,Murang'a,Central,2024-05-08,New,yes
+C00873,Faith,Wekesa,254710112941,faith.wekesa0@outlook.com,28.0,Kilifi,Kilifi,Coast,2024-06-08,Regular,Yes
+C00874,John,Odhiambo,0722157262 ,john.odhiambo1@gmail.com,28.0,Busia,Busia,Western,2024-04-22,Regular,Yes
+C00875,David,Achieng,0722889183,david.achieng2@gmail.com,28.0,Meru,Meru,Eastern,2022-08-21,Regular,No
+C00876,Nafula,Cherono,+254768948658,nafula.cherono3@outlook.com,51.0,Kilifi,Kilifi,Coast,2024-03-25,New,Yes
+C00877,Samuel,Nyaga,0722 580 100,samuel.nyaga4@gmail.com,21.0,Ol Kalou,Nyandarua,Central,2023-03-13,New,Yes
+C00878,Emmanuel,Odhiambo,254790684337,emmanuel.odhiambo5@gmail.com,32.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-04-25,New,No
+C00879,Moraa,Njoroge,0759304794 ,moraa.njoroge6@outlook.com,36.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-12-17,Regular,Yes
+C00880,Halima,Kiptoo,0768519002,halima.kiptoo7@gmail.com,38.0,Karen,Nairobi,Nairobi Metro,2023-07-21,Regular,Yes
+C00881,Peter,Mohamed,+254790292929,peter.mohamed8@gmail.com,24.0,Nakuru,Nakuru,Rift Valley,2024-04-21,New,Yes
+C00882,Victor,Odhiambo,0790 384 559,victor.odhiambo9@outlook.com,18.0,Meru,Meru,Eastern,2025-02-12,VIP,Yes
+C00883,Kelvin,Nyaga,254759593564,kelvin.nyaga10@gmail.com,31.0,Mombasa,Mombasa,Coast,2022-10-17,Regular,Yes
+C00884,Emmanuel,Mutua,0722172952 ,emmanuel.mutua11@gmail.com,43.0,Bungoma,Bungoma,Western,2023-11-30,Loyal,NO
+C00885,Felix,Hassan,0701228777,felix.hassan12@outlook.com,31.0,Mombasa,Mombasa,Coast,2023-02-03,Regular,yes
+C00886,Peter,Muriithi,+254110265563,peter.muriithi13@gmail.com,22.0,Ukunda,Kwale,Coast,2024-04-22,New,No
+C00887,Mercy,Kones,0722 144 778,mercy.kones14@gmail.com,35.0,Busia,Busia,Western,2023-08-04,Loyal,NO
+C00888,Mercy,Muriithi,254700145276,mercy.muriithi15@outlook.com,30.0,Ruiru,Kiambu,Nairobi Metro,2022-03-04,New,yes
+C00889,Brian,Auma,,brian.auma16@gmail.com,45.0,Embu,Embu,Eastern,2022-09-10,Regular,Yes
+C00890,Nyokabi,Odhiambo,0710509321,nyokabi.odhiambo17@gmail.com,25.0,Ruiru,Kiambu,Nairobi Metro,2023-02-23,Loyal,y
+C00891,Muthoni,Njoroge,+254110807863,muthoni.njoroge18@outlook.com,40.0,KILIFI,Kilifi,Coast,2024-01-05,New,Yes
+C00892,John,Odhiambo,0745 797 292,john.odhiambo19@gmail.com,40.0,Embu,Embu,Eastern,2024-06-18,New,Yes
+C00893,James,Muriithi,254745311680,james.muriithi20@gmail.com,47.0,Kilifi,Kilifi,Coast,2022-01-08,New,No
+C00894,Ibrahim,Mwangi,0733668043 ,ibrahim.mwangi21@outlook.com,,Nairobi CBD,Nairobi,Nairobi Metro,2022-02-02,Regular,yes
+C00895,Faith,Njuguna,,faith.njuguna22@gmail.com,28.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-02-25,Loyal,Yes
+C00896,Victor,Ali,+254745383655,victor.ali23@gmail.com,38.0,KILIFI,Kilifi,Coast,2022-11-03,Regular,No
+C00897,Yusuf,Abdullahi,0700 555 416,yusuf.abdullahi24@outlook.com,39.0,Narok,Narok,Rift Valley,2022-12-02,Regular, No
+C00898,Anthony,Kilonzo,254701171770,anthony.kilonzo25@gmail.com,38.0,Bungoma,Bungoma,Western,2022-12-08,VIP,Yes
+C00899,Michael,Mwenda,0110146232 ,michael.mwenda26@gmail.com,32.0,Kakamega,Kakamega,Western,2024-08-15,Regular,Y 
+C00900,Faith,Kamau,0722723075,faith.kamau27@outlook.com,31.0,Mombasa,Mombasa,Coast,2024-10-10,Loyal,Yes
+C00901,David,Kilonzo,+254722764568,david.kilonzo28@gmail.com,29.0,Eldoret,Uasin Gishu,Rift Valley,2023-11-22,Regular,No
+C00902,Omar,Rono,0700 741 961,omar.rono29@gmail.com,21.0,Mombasa,Mombasa,Coast,2024-03-01,New,Yes
+C00903,Moraa,Rono,254701789697,moraa.rono30@outlook.com,53.0,Busia,Busia,Western,2025-04-24,Regular,YES
+C00904,Faith,Abdullahi,,faith.abdullahi31@gmail.com,35.0,Meru,Meru,Eastern,2023-02-25,Regular,Yes
+C00905,Dennis,Cherono,0710852597,dennis.cherono32@gmail.com,44.0,Nyeri,Nyeri,Central,2024-06-19,Regular,No
+C00906,Njeri,Gitau,+254759417307,njeri.gitau33@outlook.com,26.0,Kakamega,Kakamega,Western,2025-03-26,Regular,y
+C00907,Njeri,Cherono,0790 477 324,njeri.cherono34@gmail.com,43.0,Narok,Narok,Rift Valley,2023-10-01,Loyal,Yes
+C00908,Omar  ,Onyango,254768857941,omar.onyango35@gmail.com,20.0,Eldoret,Uasin Gishu,Rift Valley,2025-04-01,Regular,No
+C00909,Brian,Otieno,0745858832 ,brian.otieno36@outlook.com,40.0,Bungoma,Bungoma,Western,2023-04-24,Loyal,No
+C00910,Njeri,Abdullahi,0790622158,njeri.abdullahi37@gmail.com,29.0,Migori,Migori,Nyanza,2022-05-07,VIP,Yes
+C00911,Collins,Kamau,+254700541364,collins.kamau38@gmail.com,18.0,Ukunda,Kwale,Coast,2024-04-12,Regular,No
+C00912,Dennis,Wafula,0110 843 208,dennis.wafula39@outlook.com,24.0,Kakamega,kakamega,Western,2024-01-31,Regular,No
+C00913,Fatuma,Kones,254768741265,fatuma.kones40@gmail.com,34.0,Murang'a,Murang'a,Central,2025-01-19,New,Yes
+C00914,James,Rono,0759885657 ,james.rono41@gmail.com,22.0,Kisumu,kisumu,Nyanza,2022-08-09,Regular,Y 
+C00915,Samuel,Ali,0701644289,samuel.ali42@outlook.com,38.0,Kisumu,Kisumu,Nyanza,2024-03-29,Loyal,Yes
+C00916,Wairimu,Barasa,+254790581868,wairimu.barasa43@gmail.com,41.0,Eldoret,Uasin Gishu,Rift Valley,2023-08-17,Regular,No
+C00917,Achieng,Nyambura,0710 197 201,achieng.nyambura44@gmail.com,,Thika,Kiambu,Nairobi Metro,2025-02-17,Regular,Yes
+C00918,Moraa,Kamau,254722863640,moraa.kamau45@outlook.com,35.0,Meru,Meru,Eastern,2023-05-17,Loyal,Yes
+C00919,James,Muriithi,0768496687 ,james.muriithi46@gmail.com,56.0,Karen,Nairobi,Nairobi Metro,2025-04-14,VIP,Yes
+C00920,Chebet,Nyaga,0759642100,chebet.nyaga47@gmail.com,18.0,Kisumu,Kisumu,Nyanza,2024-01-09,Loyal,No
+C00921,Michael,Mwenda,+254700374708,michael.mwenda48@outlook.com,36.0,Embu,Embu,Eastern,2023-01-17,New,Yes
+C00922,Chebet,Hassan,0745 313 201,chebet.hassan49@gmail.com,30.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-10-12,Loyal,No
+C00923,Samuel,Otieno,254722364041,samuel.otieno50@gmail.com,,Kakamega,Kakamega,Western,2024-05-18,Loyal,Yes
+C00924,Cherono,Kamau,0710419912 ,cherono.kamau51@outlook.com,51.0,Machakos,Machakos,Eastern,2024-04-13,Regular,No
+C00925,Yusuf,Chebet,0733733324,yusuf.chebet52@gmail.com,18.0,Kisii,Kisii,Nyanza,2024-11-17,Regular,No
+C00926,Stephen,Onyango,+254701349208,stephen.onyango53@gmail.com,36.0,Migori,Migori,Nyanza,2024-03-30,New,Y 
+C00927,Victor,Cherono,0745 721 140,victor.cherono54@outlook.com,40.0,Embu,Embu,Eastern,2022-12-22,New,Yes
+C00928,Felix,Ali,254110183036,felix.ali55@gmail.com,40.0,Ruiru,Kiambu,Nairobi Metro,2022-03-28,New,No
+C00929,Peter,Kamau,0790496103 ,peter.kamau56@gmail.com,32.0,Machakos,Machakos,Eastern,2025-02-07,Regular,No
+C00930,Habiba,Achieng,0722466597,habiba.achieng57@outlook.com,51.0,Kilifi,Kilifi,Coast,2024-09-19,Regular, No
+C00931,Habiba,Adhiambo,,habiba.adhiambo58@gmail.com,39.0,Ol Kalou,Nyandarua,Central,2025-01-22,New,Yes
+C00932,Abdi,Achieng,0745 653 234,abdi.achieng59@gmail.com,38.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-07-09,New,Yes
+C00933,Joseph,Njuguna,254710253588,joseph.njuguna60@outlook.com,32.0,Kisii,kisii,Nyanza,2022-08-07,New,Yes
+C00934,Halima,Kiptoo,0733738317 ,halima.kiptoo61@gmail.com,,Meru,Meru,Eastern,2022-10-18,Regular,Yes
+C00935,Ibrahim,Barasa,0745758659,ibrahim.barasa62@gmail.com,39.0,Ukunda,Kwale,Coast,2022-08-28,Loyal,NO
+C00936,Victor,Njuguna,+254745890341,victor.njuguna63@outlook.com,,Kilifi,Kilifi,Coast,2022-12-22,New,Yes
+C00937,Kerubo,Kones,0745 569 997,kerubo.kones64@gmail.com,27.0,Migori,Migori,Nyanza,2022-08-04,Regular,Yes
+C00938,Mercy,Barasa,254745992281,,47.0,Murang'a,Murang'a,Central,2025-02-02,New,YES
+C00939,Collins,Mohamed,0745992157 ,collins.mohamed66@outlook.com,42.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-04-01,Loyal,Yes
+C00940,Wambui,Njuguna,,wambui.njuguna67@gmail.com,36.0,Kakamega,Kakamega,Western,2022-08-17,Regular,Yes
+C00941,Njeri,Kariuki,+254722266670,njeri.kariuki68@gmail.com,30.0,Westlands,Nairobi,Nairobi Metro,2024-12-02,New,Yes
+C00942,Brian,Nyaga,0759 569 820,brian.nyaga69@outlook.com,26.0,Kericho,Kericho,Rift Valley,2024-01-08,Regular,Yes
+C00943,George,Kones,254110370601,george.kones70@gmail.com,53.0,Ol Kalou,Nyandarua,Central,2025-06-16,New,no
+C00944,Habiba,Nyambura,0710985517 ,,18.0,Mombasa,Mombasa,Coast,2023-06-16,Regular,Yes
+C00945,Moraa,Kiptoo,0710637902,moraa.kiptoo72@outlook.com,41.0,Kisumu,Kisumu,Nyanza,2022-02-05,New,NO
+C00946,Nyokabi,Nyambura,+254733227124,nyokabi.nyambura73@gmail.com,20.0,Ukunda,Kwale,Coast,2024-07-15,Regular,Yes
+C00947,Yusuf,Barasa,0701 256 441,yusuf.barasa74@gmail.com,,Nyeri,nyeri,Central,2024-12-24,New,yes
+C00948,John,Njoroge,254110279019,john.njoroge75@outlook.com,,Murang'a,Murang'a,Central,2025-07-05,VIP,No
+C00949,Wanjiru,Nyambura,0110980122 ,wanjiru.nyambura76@gmail.com,42.0,Narok,Narok,Rift Valley,2023-02-03,Regular,No
+C00950,Michael,Nyaga,0745916971,michael.nyaga77@gmail.com,39.0,Eldoret,uasin gishu,Rift Valley,2023-07-07,New,Yes
+C00951,Habiba,Adhiambo,+254701170227,habiba.adhiambo78@outlook.com,31.0,Mombasa,Mombasa,Coast,2023-01-25,New,No
+C00952,Naliaka,Mwenda,0710 796 940,naliaka.mwenda79@gmail.com,40.0,Migori,Migori,Nyanza,2023-05-13,Regular,Yes
+C00953,Akinyi,Cherono,254790211856,akinyi.cherono80@gmail.com,18.0,Migori,Migori,Nyanza,2023-07-27,VIP, No
+C00954,Faith,Mutua,0733876272 ,faith.mutua81@outlook.com,44.0,Busia,Busia,Western,2023-08-11,Loyal,Yes
+C00955,Wambui,Otieno,0722584549,wambui.otieno82@gmail.com,26.0,Embu,Embu,Eastern,2024-08-31,Regular,No
+C00956,Mercy,Kones,+254768247643,mercy.kones83@gmail.com,36.0,Mombasa,Mombasa,Coast,2022-02-13,Loyal,Yes
+C00957,John,Gitau,0790 694 509,john.gitau84@outlook.com,18.0,Murang'a,Murang'a,Central,2025-01-29,Regular,Yes
+C00958,Fatuma,Achieng,254722311588,fatuma.achieng85@gmail.com,28.0,Kilifi,Kilifi,Coast,2024-01-17,Regular,No
+C00959,Wambui,Wanjiru,0710512455 ,wambui.wanjiru86@gmail.com,27.0,Thika,Kiambu,Nairobi Metro,2024-07-06,Regular,No
+C00960,Anthony,Wanjiru,0701299457,anthony.wanjiru87@outlook.com,29.0,Nyeri,Nyeri,Central,2022-08-26,Regular,No
+C00961,Dennis,Barasa,+254710477246,dennis.barasa88@gmail.com,28.0,Meru,Meru,Eastern,2022-01-22,Loyal,no
+C00962,Brian,Kimani,,brian.kimani89@gmail.com,18.0,Ukunda,Kwale,Coast,2022-03-25,Regular,No
+C00963,Emmanuel,Mwangi,254745965299,emmanuel.mwangi90@outlook.com,24.0,Kericho,Kericho,Rift Valley,2023-08-18,Loyal,No
+C00964,Faith,Auma,0745275846 ,faith.auma91@gmail.com,20.0,Eldoret,Uasin Gishu,Rift Valley,2024-05-29,Loyal,NO
+C00965,Daniel,Otieno,0768143029,daniel.otieno92@gmail.com,40.0,Mombasa,Mombasa,Coast,2024-03-04,Regular,No
+C00966,Adhiambo,Barasa,,adhiambo.barasa93@outlook.com,26.0,Kericho,Kericho,Rift Valley,2023-06-20,Loyal,no
+C00967,Mercy,Maina,0700 288 650,mercy.maina94@gmail.com,18.0,Kilifi,Kilifi,Coast,2022-04-30,New,YES
+C00968,Grace,Barasa,254768917527,grace.barasa95@gmail.com,20.0,Migori,Migori,Nyanza,2023-03-14,New,No
+C00969,Anthony,Kones,0733371726 ,anthony.kones96@outlook.com,30.0,Kakamega,Kakamega,Western,2023-06-28,New,No
+C00970,Cherono,Mwangi,0700347435,cherono.mwangi0@gmail.com,19.0,Mombasa,Mombasa,Coast,2024-12-09,Loyal,No
+C00971,Daniel,Mwenda,+254700894818,daniel.mwenda1@gmail.com,26.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-01-21,VIP,No
+C00972,Paul,Barasa,0710 599 049,paul.barasa2@outlook.com,26.0,Kericho,Kericho,Rift Valley,2022-01-13,Regular,Yes
+C00973,Grace,Otieno,254710438687,grace.otieno3@gmail.com,21.0,Meru,Meru,Eastern,2022-01-12,Loyal,Yes
+C00974,Achieng,Chebet,0790935578 ,achieng.chebet4@gmail.com,130.0,Bungoma,Bungoma,Western,2023-06-17,Regular,Yes
+C00975,Habiba,Njoroge,0745450260,habiba.njoroge5@outlook.com,28.0,Embu,Embu,Eastern,2024-06-21,VIP,Yes
+C00976,Wairimu,Adhiambo,+254745153128,wairimu.adhiambo6@gmail.com,22.0,Nyeri,Nyeri,Central,2023-11-07,Regular,Yes
+C00977,Emmanuel,Chebet,0110 199 599,emmanuel.chebet7@gmail.com,34.0,Narok,Narok,Rift Valley,2025-05-20,New,y
+C00978,Felix,Barasa,254722369713,felix.barasa8@outlook.com,24.0,Eldoret,Uasin Gishu,Rift Valley,2024-05-09,New,Yes
+C00979,Amina,Cherono,0768951656 ,amina.cherono9@gmail.com,43.0,Embu,Embu,Eastern,2024-05-24,Regular,Yes
+C00980,Ibrahim,Kamau,0733243078,ibrahim.kamau10@gmail.com,37.0,Kericho,Kericho,Rift Valley,2024-11-04,New,Yes
+C00981,Fatuma,Nyaga,+254790194070,fatuma.nyaga11@outlook.com,33.0,Kisumu,Kisumu,Nyanza,2023-02-12,New,n
+C00982,Akinyi,Muriithi,0790 824 146,akinyi.muriithi12@gmail.com,18.0,Kisii,Kisii,Nyanza,2024-06-16,New,Yes
+C00983,Nafula,Onyango,254710779448,nafula.onyango13@gmail.com,30.0,Ol Kalou,Nyandarua,Central,2024-05-14,Regular,Yes
+C00984,David,Mwangi,0790703211 ,david.mwangi14@outlook.com,45.0,Mombasa,Mombasa,Coast,2024-09-09,VIP,Yes
+C00985,Collins,Achieng,0745889365,collins.achieng15@gmail.com,36.0,Narok,Narok,Rift Valley,2022-06-11,Regular,Yes
+C00986,Njeri,Wekesa,+254759252047,njeri.wekesa16@gmail.com,34.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-07-27,VIP,Yes
+C00987,Ibrahim,Njoroge,0700 638 595,ibrahim.njoroge17@outlook.com,35.0,Embu,Embu,Eastern,2024-09-25,VIP,Yes
+C00988,Wanjiku,Kariuki,254701568023,wanjiku.kariuki18@gmail.com,33.0,Karen,Nairobi,Nairobi Metro,2024-08-31,Loyal,Yes
+C00989,Mercy,Hussein,0790905392 ,mercy.hussein19@gmail.com,40.0,Kisumu,kisumu,Nyanza,2023-08-12,Loyal,No
+C00990,Achieng,Wafula,0733980780,achieng.wafula20@outlook.com,23.0,Kisii,Kisii,Nyanza,2025-03-31,Loyal,Yes
+C00991,Anthony,Muriithi,+254710119378,anthony.muriithi21@gmail.com,31.0,Murang'a,Murang'a,Central,2022-07-27,New,No
+C00992,Wanjiru,Mutua,,wanjiru.mutua22@gmail.com,20.0,Nyeri,Nyeri,Central,2024-01-14,Regular,Yes
+C00993,Faith,Kilonzo,254722460341,faith.kilonzo23@outlook.com,32.0,Ol Kalou,Nyandarua,Central,2023-12-09,VIP,y
+C00994,George,Abdullahi,0722858516 ,george.abdullahi24@gmail.com,30.0,Kericho,Kericho,Rift Valley,2024-03-07,Loyal,Yes
+C00995,Abdi,Kilonzo,0759839138,abdi.kilonzo25@gmail.com,23.0,Mombasa,Mombasa,Coast,2023-05-23,Regular,Yes
+C00996,Cherono,Auma,+254745154153,cherono.auma26@outlook.com,43.0,Mombasa,Mombasa,Coast,2024-09-11,New,No
+C00997,Faith,Achieng,0700 292 296,faith.achieng27@gmail.com,30.0,Kilifi,Kilifi,Coast,2024-05-27,Regular,No
+C00998,Dennis,Kones,254745538952,dennis.kones28@gmail.com,33.0,Kilifi,kilifi,Coast,2024-07-08,New,NO
+C00999,Mercy,Wekesa,0110928354 ,mercy.wekesa29@outlook.com,47.0,Murang'a,Murang'a,Central,2022-04-05,VIP,No
+C01000,Stephen,Maina,0759974899,stephen.maina30@gmail.com,22.0,Ukunda,Kwale,Coast,2023-09-27,New,no
+C01001,Hassan,Wekesa,+254700420598,hassan.wekesa31@gmail.com,34.0,Eldoret,Uasin Gishu,Rift Valley,2023-06-02,Loyal,Yes
+C01002,David,Otieno,0733 738 558,david.otieno32@outlook.com,39.0,Mombasa,Mombasa,Coast,2025-02-21,Regular,No
+C01003,Zainab,Adhiambo,254722523484,zainab.adhiambo33@gmail.com,28.0,Busia,Busia,Western,2022-06-25,New,Y 
+C01004,Samuel,Kilonzo,0722852228 ,samuel.kilonzo34@gmail.com,41.0,Busia,Busia,Western,2023-02-11,VIP,Yes
+C01005,Daniel,Adhiambo,0733471574,daniel.adhiambo35@outlook.com,42.0,Eldoret,Uasin Gishu,Rift Valley,2023-06-30,Regular,Yes
+C01006,Nyokabi,Abdullahi,+254722696690,nyokabi.abdullahi36@gmail.com,41.0,Busia,Busia,Western,2024-04-09,Regular,y
+C01007,Felix,Mutua,0768 925 410,felix.mutua37@gmail.com,30.0,Kilifi,Kilifi,Coast,2024-01-04,Regular,Yes
+C01008,Habiba,Onyango,254710763535,habiba.onyango38@outlook.com,33.0,Bungoma,Bungoma,Western,2025-03-30,New,No
+C01009,Nyokabi,Gitau,0701239364 ,nyokabi.gitau39@gmail.com,50.0,Mombasa,Mombasa,Coast,2024-06-14,Regular,No
+C01010,Chebet,Mwangi,0768978474,chebet.mwangi40@gmail.com,31.0,Meru,Meru,Eastern,2024-03-05,Regular,n
+C01011,Wambui,Mutua,+254745702904,wambui.mutua41@outlook.com,42.0,Eldoret,Uasin Gishu,Rift Valley,2023-12-16,Loyal,Yes
+C01012,Halima,Rono,0722 466 648,halima.rono42@gmail.com,29.0,Karen,Nairobi,Nairobi Metro,2025-03-29,Regular,Yes
+C01013,Moraa,Wanjiru,254722991773,moraa.wanjiru43@gmail.com,19.0,Ukunda,Kwale,Coast,2025-02-12,Loyal, No
+C01014,Amina,Muriithi,0700779618 ,amina.muriithi44@outlook.com,33.0,Eldoret,Uasin Gishu,Rift Valley,2022-08-04,New,YES
+C01015,Habiba,Rono,0710619959,habiba.rono45@gmail.com,43.0,Narok,Narok,Rift Valley,2023-10-17,VIP,Yes
+C01016,Muthoni,Kariuki,+254733980911,muthoni.kariuki46@gmail.com,43.0,Murang'a,Murang'a,Central,2022-02-27,Loyal,No
+C01017,Halima,Otieno,0701 317 138,halima.otieno47@outlook.com,21.0,Kilifi,Kilifi,Coast,2025-01-23,New,Yes
+C01018,Njeri,Mwangi,254710398993,njeri.mwangi48@gmail.com,38.0,Kilifi,Kilifi,Coast,2023-06-03,Regular,Yes
+C01019,Nyokabi,Chebet,0790470836 ,nyokabi.chebet49@gmail.com,26.0,Meru,Meru,Eastern,2023-07-06,Regular,No
+C01020,Amina,Kilonzo,0701874549,amina.kilonzo50@outlook.com,25.0,Embu,Embu,Eastern,2024-03-14,New,Yes
+C01021,Ibrahim,Mutua,+254768329372,ibrahim.mutua51@gmail.com,32.0,Ol Kalou,Nyandarua,Central,2025-02-06,Regular,Yes
+C01022,Halima,Kones,0701 537 040,halima.kones52@gmail.com,28.0,Ol Kalou,Nyandarua,Central,2024-06-11,New,Yes
+C01023,Paul,Barasa,254759950557,paul.barasa53@outlook.com,45.0,Machakos,Machakos,Eastern,2025-01-28,New,Yes
+C01024,Chebet,Kamau,0110661877 ,chebet.kamau54@gmail.com,38.0,Nakuru,Nakuru,Rift Valley,2023-04-22,Loyal,YES
+C01025,Wambui,Kimani,0700386789,wambui.kimani55@gmail.com,33.0,Westlands,Nairobi,Nairobi Metro,2025-01-22,New,Yes
+C01026,Kevin,Kariuki,+254790794003,kevin.kariuki56@outlook.com,30.0,Ukunda,Kwale,Coast,2025-01-20,Regular,No
+C01027,Anthony,Wekesa,0110 463 967,anthony.wekesa57@gmail.com,37.0,Mombasa,Mombasa,Coast,2025-05-01,Regular,Yes
+C01028,Muthoni,Achieng,254700996289,muthoni.achieng58@gmail.com,,Ol Kalou,Nyandarua,Central,2025-05-12,New,No
+C01029,Mercy,Mwenda,0701654653 ,mercy.mwenda59@outlook.com,36.0,Nyeri,Nyeri,Central,2022-08-15,Regular,Yes
+C01030,Faith,Odhiambo,0768418481,faith.odhiambo60@gmail.com,45.0,Karen,Nairobi,Nairobi Metro,2023-08-14,New,Yes
+C01031,Peter,Ali,+254759435765,peter.ali61@gmail.com,27.0,Ruiru,Kiambu,Nairobi Metro,2022-07-27,Loyal,No
+C01032,Brian,Wafula,0722 468 263,brian.wafula62@outlook.com,29.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-08-15,New,Yes
+C01033,Halima,Hussein,254710181304,halima.hussein63@gmail.com,24.0,Thika,Kiambu,Nairobi Metro,2022-02-27,Regular, No
+C01034,Abdi,Hussein,0790242514 ,abdi.hussein64@gmail.com,23.0,Mombasa,Mombasa,Coast,2022-05-09,New,Yes
+C01035,Faith,Ali,0745250868,faith.ali65@outlook.com,33.0,Eldoret,Uasin Gishu,Rift Valley,2022-08-03,Regular,yes
+C01036,Naliaka,Kiptoo,+254745807005,naliaka.kiptoo66@gmail.com,34.0,Murang'a,Murang'a,Central,2025-02-02,Loyal,No
+C01037,Achieng,Wekesa,0701 479 515,achieng.wekesa67@gmail.com,35.0,Westlands,Nairobi,Nairobi Metro,2023-05-08,Loyal,No
+C01038,Akinyi,Wafula,,akinyi.wafula68@outlook.com,40.0,Migori,Migori,Nyanza,2025-06-26,Loyal,Yes
+C01039,David,Onyango,0701232589 ,david.onyango69@gmail.com,37.0,Kericho,Kericho,Rift Valley,2024-02-08,Loyal,yes
+C01040,Kevin,Kimani,0790136881,kevin.kimani70@gmail.com,35.0,Kisii,Kisii,Nyanza,2024-08-11,Regular,Yes
+C01041,Mercy,Maina,+254790748467,mercy.maina71@outlook.com,46.0,Busia,Busia,Western,2025-01-07,New,Yes
+C01042,Wairimu,Onyango,0700 932 945,wairimu.onyango72@gmail.com,34.0,Ukunda,Kwale,Coast,2022-07-01,VIP,Yes
+C01043,Daniel,Kamau,254768824833,daniel.kamau73@gmail.com,29.0,Busia,Busia,Western,2024-12-19,Regular,Yes
+C01044,Emmanuel,Gitau,0790104878 ,emmanuel.gitau74@outlook.com,18.0,Kisii,Kisii,Nyanza,2022-03-31,VIP, No
+C01045,Chebet,Maina,0733532763,chebet.maina75@gmail.com,22.0,Westlands,Nairobi,Nairobi Metro,2023-07-08,New,Yes
+C01046,Adhiambo,Adhiambo,+254745117061,adhiambo.adhiambo76@gmail.com,34.0,Ruiru,Kiambu,Nairobi Metro,2024-08-31,Regular,Yes
+C01047,Emmanuel,Maina,0759 912 908,emmanuel.maina77@outlook.com,26.0,Ol Kalou,Nyandarua,Central,2025-06-04,Loyal,No
+C01048,Njeri  ,Sang,254759728085,njeri.sang78@gmail.com,48.0,Mombasa,Mombasa,Coast,2024-08-15,Regular,Yes
+C01049,Paul,Chebet,0700118667 ,paul.chebet79@gmail.com,34.0,Kisumu,kisumu,Nyanza,2023-06-30,New,No
+C01050,Wambui,Mohamed,0733907391,wambui.mohamed80@outlook.com,,Narok,Narok,Rift Valley,2022-03-28,Regular,Yes
+C01051,Omar,Sang,+254722420126,omar.sang81@gmail.com,49.0,Migori,Migori,Nyanza,2025-04-14,New,No
+C01052,John,Odhiambo,0701 838 382,john.odhiambo82@gmail.com,,Busia,busia,Western,2025-07-01,Loyal,Yes
+C01053,Wanjiku,Kamau,254700630027,wanjiku.kamau83@outlook.com,21.0,Nyeri,Nyeri,Central,2022-03-21,Regular,Yes
+C01054,Adhiambo,Mwenda,0768122093 ,adhiambo.mwenda84@gmail.com,38.0,Murang'a,Murang'a,Central,2024-02-07,VIP,Yes
+C01055,Kerubo,Mwenda,0768151194,kerubo.mwenda85@gmail.com,36.0,Bungoma,Bungoma,Western,2022-03-22,VIP,no
+C01056,Felix,Mwangi,+254768366650,,37.0,Kisii,Kisii,Nyanza,2022-04-09,New,Yes
+C01057,Amina,Hassan,0790 225 082,amina.hassan87@gmail.com,29.0,Busia,Busia,Western,2024-09-07,Regular,Yes
+C01058,Chebet,Hussein,254759281640,chebet.hussein88@gmail.com,18.0,Kisumu,Kisumu,Nyanza,2023-10-17,New,No
+C01059,Wambui,Sang,0745261507 ,wambui.sang89@outlook.com,23.0,Ukunda,Kwale,Coast,2023-07-24,Loyal,Yes
+C01060,Zainab,Kiptoo,0759773908,zainab.kiptoo90@gmail.com,54.0,Kilifi,Kilifi,Coast,2024-01-23,VIP,Yes
+C01061,Nafula,Onyango,+254110164372,nafula.onyango91@gmail.com,39.0,Busia,Busia,Western,2022-03-27,Regular,yes
+C01062,Hassan,Mwenda,0701 862 780,hassan.mwenda92@outlook.com,18.0,Embu,Embu,Eastern,2023-06-27,New,Yes
+C01063,Abdi,Hussein,254722628453,abdi.hussein93@gmail.com,34.0,Machakos,Machakos,Eastern,2024-12-19,Regular,Yes
+C01064,Wanjiku,Cherono,0733421536 ,wanjiku.cherono94@gmail.com,30.0,Westlands,Nairobi,Nairobi Metro,2024-07-10,Loyal,n
+C01065,Collins,Kilonzo,0790388188,collins.kilonzo95@outlook.com,40.0,Murang'a,Murang'a,Central,2024-02-18,New,NO
+C01066,Moraa,Hassan,+254110857818,moraa.hassan96@gmail.com,31.0,Kisumu,Kisumu,Nyanza,2023-05-16,New,Yes
+C01067,Samuel,Chebet,0701 852 072,samuel.chebet0@gmail.com,33.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-08-04,Loyal,No
+C01068,Ibrahim,Ali,254745191901,ibrahim.ali1@outlook.com,18.0,Ruiru,Kiambu,Nairobi Metro,2024-02-08,New,YES
+C01069,Nafula,Auma,0790700091 ,nafula.auma2@gmail.com,36.0,Ol Kalou,Nyandarua,Central,2023-03-13,Loyal,Yes
+C01070,James,Muriithi,0722829512,james.muriithi3@gmail.com,23.0,Karen,Nairobi,Nairobi Metro,2023-06-17,Loyal,Yes
+C01071,Halima,Wafula,+254710624151,halima.wafula4@outlook.com,20.0,Machakos,Machakos,Eastern,2024-07-15,Regular,No
+C01072,Hassan,Nyaga,0710 757 244,hassan.nyaga5@gmail.com,49.0,Kericho,Kericho,Rift Valley,2022-12-21,New,No
+C01073,Abdi,Kamau,254745502559,abdi.kamau6@gmail.com,43.0,Ol Kalou,Nyandarua,Central,2023-01-13,New,Yes
+C01074,Stephen,Muriithi,0759356806 ,stephen.muriithi7@outlook.com,34.0,Nakuru,Nakuru,Rift Valley,2022-03-23,Loyal,Yes
+C01075,Faith,Maina,0710436439,faith.maina8@gmail.com,38.0,Thika,Kiambu,Nairobi Metro,2025-06-05,Regular,n
+C01076,Omar,Cherono,+254759724341,omar.cherono9@gmail.com,32.0,Murang'a,Murang'a,Central,2023-09-27,Loyal,n
+C01077,Kelvin,Muriithi,0745 139 510,kelvin.muriithi10@outlook.com,24.0,Meru,Meru,Eastern,2023-03-18,Regular,No
+C01078,Hassan,Ali,254790497833,hassan.ali11@gmail.com,32.0,Meru,Meru,Eastern,2025-04-23,Regular,No
+C01079,Nyokabi,Rono,0701823874 ,nyokabi.rono12@gmail.com,32.0,Machakos,Machakos,Eastern,2024-05-23,VIP,No
+C01080,Akinyi,Kones,0733898277,akinyi.kones13@outlook.com,46.0,Kakamega,Kakamega,Western,2024-10-19,Loyal,Yes
+C01081,George,Odhiambo,+254768823568,george.odhiambo14@gmail.com,23.0,Busia,Busia,Western,2025-05-13,Regular,No
+C01082,Abdi,Hassan,0710 161 443,abdi.hassan15@gmail.com,39.0,Kakamega,Kakamega,Western,2022-10-23,New,Yes
+C01083,Ibrahim,Ali,254710376018,ibrahim.ali16@outlook.com,18.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-04-23,VIP,No
+C01084,Brian,Kariuki,0745558251 ,brian.kariuki17@gmail.com,18.0,Thika,Kiambu,Nairobi Metro,2023-12-05,Loyal,NO
+C01085,Naliaka,Ali,0722739101,naliaka.ali18@gmail.com,40.0,Embu,Embu,Eastern,2022-01-06,Regular,Yes
+C01086,Wanjiku,Muriithi,+254790477215,wanjiku.muriithi19@outlook.com,28.0,Kilifi,Kilifi,Coast,2024-01-05,Regular,No
+C01087,Chebet,Sang,0733 548 568,chebet.sang20@gmail.com,28.0,Kericho,Kericho,Rift Valley,2024-12-10,VIP,Yes
+C01088,Faith,Kimani,254700494653,faith.kimani21@gmail.com,18.0,Kilifi,Kilifi,Coast,2024-06-02,New,Y 
+C01089,Felix,Cherono,0700308236 ,felix.cherono22@outlook.com,38.0,Kericho,Kericho,Rift Valley,2023-12-02,New,Yes
+C01090,Moraa,Wafula,0733348209,moraa.wafula23@gmail.com,26.0,Nakuru,Nakuru,Rift Valley,2025-07-16,VIP,Yes
+C01091,Zainab,Hussein,+254733980946,zainab.hussein24@gmail.com,35.0,Karen,Nairobi,Nairobi Metro,2024-01-21,Loyal,Yes
+C01092,Daniel,Cherono,0722 588 307,daniel.cherono25@outlook.com,45.0,Nakuru,Nakuru,Rift Valley,2025-05-30,Loyal,Yes
+C01093,David,Rono,254701572343,david.rono26@gmail.com,20.0,Meru,Meru,Eastern,2022-06-30,Regular,No
+C01094,Nafula,Abdullahi,0701789811 ,nafula.abdullahi27@gmail.com,34.0,Kakamega,Kakamega,Western,2022-06-19,Regular,YES
+C01095,John,Kariuki,0759868332,john.kariuki28@outlook.com,35.0,Kisumu,Kisumu,Nyanza,2022-11-13,Regular,No
+C01096,Joseph,Muriithi,+254700892547,joseph.muriithi29@gmail.com,41.0,Thika,Kiambu,Nairobi Metro,2025-01-11,New,Yes
+C01097,Zainab,Rono,0759 792 325,zainab.rono30@gmail.com,22.0,Ol Kalou,Nyandarua,Central,2023-03-17,VIP,No
+C01098,Wairimu,Kamau,254733444410,wairimu.kamau31@outlook.com,,Narok,Narok,Rift Valley,2023-06-01,Loyal,Y 
+C01099,Paul,Adhiambo,0110456783 ,paul.adhiambo32@gmail.com,23.0,Kisumu,Kisumu,Nyanza,2022-07-07,Regular,Yes
+C01100,David,Kilonzo,0722824082,david.kilonzo33@gmail.com,18.0,Machakos,Machakos,Eastern,2024-03-17,VIP,Yes
+C01101,Stephen,Kariuki,+254110223153,stephen.kariuki34@outlook.com,20.0,Bungoma,Bungoma,Western,2022-07-19,New,Yes
+C01102,John,Muriithi,0701 504 084,john.muriithi35@gmail.com,38.0,Nyeri,Nyeri,Central,2022-01-23,New,Yes
+C01103,Hassan,Auma,254745274389,hassan.auma36@gmail.com,47.0,Machakos,Machakos,Eastern,2024-10-27,Regular,Y 
+C01104,Dennis,Njoroge,0768571336 ,dennis.njoroge37@outlook.com,30.0,Kisii,Kisii,Nyanza,2022-11-11,Regular,Yes
+C01105,Stephen,Kones,0790325787,stephen.kones38@gmail.com,18.0,Migori,Migori,Nyanza,2024-10-19,Loyal,No
+C01106,Paul,Abdullahi,+254700226360,paul.abdullahi39@gmail.com,38.0,Bungoma,Bungoma,Western,2023-09-02,VIP,No
+C01107,Kelvin,Nyaga,0768 666 714,kelvin.nyaga40@outlook.com,37.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-10-26,Regular,Yes
+C01108,Omar,Adhiambo,254759684446,omar.adhiambo41@gmail.com,28.0,Meru,Meru,Eastern,2023-05-14,New,Y 
+C01109,Collins,Wafula,0701819970 ,collins.wafula42@gmail.com,30.0,Ol Kalou,Nyandarua,Central,2024-05-18,New,Yes
+C01110,George,Kones,0768972279,george.kones43@outlook.com,39.0,Ol Kalou,Nyandarua,Central,2022-05-27,Regular,No
+C01111,Peter,Mohamed,+254700305405,peter.mohamed44@gmail.com,46.0,Ukunda,Kwale,Coast,2022-07-22,Regular,Yes
+C01112,Hassan,Wekesa,0722 290 936,hassan.wekesa45@gmail.com,27.0,Meru,Meru,Eastern,2023-02-04,Regular,Y 
+C01113,Adhiambo,Hussein,254700580543,adhiambo.hussein46@outlook.com,30.0,Machakos,Machakos,Eastern,2023-02-17,New,Yes
+C01114,Halima,Gitau,0790615868 ,,29.0,Nyeri,Nyeri,Central,2025-04-17,Regular,Yes
+C01115,Chebet,Sang,0768119937,chebet.sang48@gmail.com,42.0,Kericho,Kericho,Rift Valley,2023-09-15,Loyal,Yes
+C01116,Faith,Njoroge,+254722888746,faith.njoroge49@outlook.com,36.0,Machakos,Machakos,Eastern,2024-06-15,Loyal,Yes
+C01117,Dennis,Mwangi,0701 754 999,dennis.mwangi50@gmail.com,18.0,Embu,Embu,Eastern,2023-09-25,New,No
+C01118,Naliaka,Njoroge,254722175965,naliaka.njoroge51@gmail.com,30.0,Kisumu,kisumu,Nyanza,2022-05-11,New,No
+C01119,Felix,Nyaga,0700281794 ,felix.nyaga52@outlook.com,26.0,Kakamega,Kakamega,Western,2022-04-06,New,yes
+C01120,Halima,Kimani,0745187809,halima.kimani53@gmail.com,34.0,Eldoret,Uasin Gishu,Rift Valley,2024-12-13,New,y
+C01121,Collins,Wanjiru,+254790928623,collins.wanjiru54@gmail.com,49.0,Meru,Meru,Eastern,2022-02-03,Regular,Yes
+C01122,Omar,Maina,0110 143 428,omar.maina55@outlook.com,19.0,Narok,Narok,Rift Valley,2024-03-31,New,No
+C01123,Peter,Maina,254700136792,peter.maina56@gmail.com,44.0,Migori,Migori,Nyanza,2024-01-11,Regular,No
+C01124,Abdi,Chebet,0745350202 ,abdi.chebet57@gmail.com,39.0,Murang'a,Murang'a,Central,2023-09-12,Regular,y
+C01125,Chebet,Kimani,0790612434,chebet.kimani58@outlook.com,23.0,Ruiru,Kiambu,Nairobi Metro,2025-06-13,Loyal,Yes
+C01126,Brian,Wafula,+254790247938,brian.wafula59@gmail.com,18.0,Karen,Nairobi,Nairobi Metro,2025-01-18,New,Yes
+C01127,Akinyi,Ali,0733 730 461,akinyi.ali60@gmail.com,18.0,Mombasa,Mombasa,Coast,2024-01-06,Regular,Yes
+C01128,Grace,Mwenda,254759799595,grace.mwenda61@outlook.com,19.0,Busia,Busia,Western,2024-09-20,Regular,Yes
+C01129,David,Nyambura,0790372223 ,,24.0,Murang'a,Murang'a,Central,2023-09-29,Regular,no
+C01130,Adhiambo,Mohamed,0759286646,adhiambo.mohamed63@gmail.com,,Thika,Kiambu,Nairobi Metro,2022-04-08,Regular,Yes
+C01131,Halima,Wanjiru,+254733411453,halima.wanjiru64@outlook.com,26.0,Kisii,Kisii,Nyanza,2022-10-25,Regular,Yes
+C01132,Nyokabi,Njuguna,0759 708 914,,200.0,Kakamega,Kakamega,Western,2024-05-04,Loyal,Yes
+C01133,Muthoni,Hussein,254733141127,muthoni.hussein66@gmail.com,39.0,Thika,Kiambu,Nairobi Metro,2024-03-24,Regular,Yes
+C01134,Nyokabi,Kimani,0710413770 ,nyokabi.kimani67@outlook.com,18.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-08-17,New,Yes
+C01135,Mercy,Auma,0790633072,mercy.auma68@gmail.com,41.0,Eldoret,Uasin Gishu,Rift Valley,2024-10-22,Loyal,YES
+C01136,Fatuma,Muriithi,+254768175616,fatuma.muriithi69@gmail.com,34.0,Karen,Nairobi,Nairobi Metro,2025-03-29,Regular,No
+C01137,Hassan,Abdullahi,0110 265 832,hassan.abdullahi70@outlook.com,33.0,Murang'a,Murang'a,Central,2022-07-21,New,Yes
+C01138,Njeri,Muriithi,254745364253,njeri.muriithi71@gmail.com,52.0,Busia,Busia,Western,2024-04-28,New,Y 
+C01139,John,Nyaga,0790178541 ,john.nyaga72@gmail.com,33.0,Thika,Kiambu,Nairobi Metro,2024-03-12,New,No
+C01140,Hassan,Wanjiru,0745916230,hassan.wanjiru73@outlook.com,18.0,Kisumu,Kisumu,Nyanza,2025-07-16,New,Yes
+C01141,Brian,Hussein,+254701782854,brian.hussein74@gmail.com,,Ol Kalou,Nyandarua,Central,2023-02-05,Loyal,y
+C01142,Paul,Mwenda,0700 607 529,paul.mwenda75@gmail.com,32.0,Eldoret,Uasin Gishu,Rift Valley,2022-10-10,Regular,No
+C01143,Akinyi,Wekesa,254768604832,akinyi.wekesa76@outlook.com,18.0,Thika,Kiambu,Nairobi Metro,2022-05-30,Loyal,Yes
+C01144,Joseph,Kimani,0722916658 ,joseph.kimani77@gmail.com,66.0,Kilifi,Kilifi,Coast,2025-01-06,Regular,Yes
+C01145,Moraa,Nyaga,0759631339,moraa.nyaga78@gmail.com,29.0,Eldoret,Uasin Gishu,Rift Valley,2022-05-26,Regular,Yes
+C01146,Yusuf,Rono,+254722928094,yusuf.rono79@outlook.com,19.0,Meru,Meru,Eastern,2024-10-17,New,Yes
+C01147,Achieng,Wanjiru,0710 976 598,achieng.wanjiru80@gmail.com,45.0,Bungoma,Bungoma,Western,2023-07-08,Regular,Yes
+C01148,Muthoni,Odhiambo,254700116266,muthoni.odhiambo81@gmail.com,50.0,Meru,Meru,Eastern,2025-05-05,New,YES
+C01149,Peter,Kiptoo,0110431590 ,peter.kiptoo82@outlook.com,18.0,Nairobi CBD,Nairobi,Nairobi Metro,2022-03-18,New,Yes
+C01150,Naliaka,Wafula,0700692632,naliaka.wafula83@gmail.com,36.0,Kericho,Kericho,Rift Valley,2024-07-02,Regular,No
+C01151,Yusuf,Mutua,+254768482177,yusuf.mutua84@gmail.com,42.0,Ukunda,Kwale,Coast,2024-06-27,Regular,Yes
+C01152,Samuel,Gitau,0722 865 548,samuel.gitau85@outlook.com,48.0,Kakamega,Kakamega,Western,2025-04-09,VIP,Yes
+C01153,Emmanuel,Mutua,254710700191,emmanuel.mutua86@gmail.com,19.0,Embu,Embu,Eastern,2023-06-08,New,Yes
+C01154,Habiba,Auma,0790870851 ,,38.0,Nyeri,Nyeri,Central,2024-05-11,Regular,n
+C01155,Kelvin,Nyaga,0701303650,kelvin.nyaga88@outlook.com,18.0,Bungoma,Bungoma,Western,2023-10-10,Regular,No
+C01156,John,Njoroge,+254700164029,john.njoroge89@gmail.com,45.0,Eldoret,Uasin Gishu,Rift Valley,2024-12-25,VIP,No
+C01157,Paul,Wekesa,0733 151 597,paul.wekesa90@gmail.com,36.0,Kericho,Kericho,Rift Valley,2023-08-31,Regular,Yes
+C01158,Zainab,Rono,254759819194,zainab.rono91@outlook.com,32.0,Narok,Narok,Rift Valley,2022-08-29,Loyal,No
+C01159,Njeri,Wanjiru,0710555814 ,njeri.wanjiru92@gmail.com,,Kisumu,Kisumu,Nyanza,2023-01-15,Loyal,No
+C01160,Kevin,Mutua,0768753461,kevin.mutua93@gmail.com,24.0,Kisii,Kisii,Nyanza,2022-10-05,Regular,Yes
+C01161,Joseph,Wekesa,+254110968901,joseph.wekesa94@outlook.com,42.0,Ruiru,Kiambu,Nairobi Metro,2022-06-12,Loyal,Yes
+C01162,Daniel,Chebet,0733 779 666,daniel.chebet95@gmail.com,40.0,Kisii,Kisii,Nyanza,2024-01-03,VIP,Yes
+C01163,David,Mwenda,254790870012,david.mwenda96@gmail.com,43.0,Karen,Nairobi,Nairobi Metro,2024-08-16,Regular,YES
+C01164,Achieng,Chebet,0722927290 ,achieng.chebet0@outlook.com,29.0,Thika,Kiambu,Nairobi Metro,2022-01-17,Loyal,yes
+C01165,Adhiambo,Kamau,0745441012,adhiambo.kamau1@gmail.com,29.0,Karen,Nairobi,Nairobi Metro,2024-05-26,VIP,Yes
+C01166,Stephen,Chebet,+254733102370,stephen.chebet2@gmail.com,30.0,Karen,Nairobi,Nairobi Metro,2022-06-01,New,Yes
+C01167,Samuel,Hussein,0701 309 745,samuel.hussein3@outlook.com,37.0,Kisii,Kisii,Nyanza,2024-03-12,Loyal,No
+C01168,John,Nyaga,254710925237,john.nyaga4@gmail.com,29.0,Thika,Kiambu,Nairobi Metro,2023-02-01,VIP,yes
+C01169,Yusuf,Wafula,0759637552 ,yusuf.wafula5@gmail.com,40.0,Mombasa,Mombasa,Coast,2024-03-30,Regular,Yes
+C01170,Chebet,Kones,0701133425,chebet.kones6@outlook.com,41.0,Meru,Meru,Eastern,2022-04-14,Regular,y
+C01171,Kevin,Kilonzo,+254701376616,kevin.kilonzo7@gmail.com,42.0,Eldoret,Uasin Gishu,Rift Valley,2024-10-06,New,YES
+C01172,Hassan,Auma,0790 895 466,hassan.auma8@gmail.com,33.0,Ukunda,Kwale,Coast,2022-02-11,Regular,No
+C01173,Nafula,Kiptoo,254733950354,nafula.kiptoo9@outlook.com,35.0,Murang'a,Murang'a,Central,2023-01-03,New,No
+C01174,Naliaka,Kilonzo,0700248303 ,naliaka.kilonzo10@gmail.com,35.0,Mombasa,Mombasa,Coast,2023-08-07,Loyal,y
+C01175,Ibrahim,Abdullahi,0701742531,ibrahim.abdullahi11@gmail.com,37.0,Busia,Busia,Western,2022-09-13,Loyal,Yes
+C01176,John,Abdullahi,+254733377760,john.abdullahi12@outlook.com,18.0,Kisumu,Kisumu,Nyanza,2023-03-17,Loyal,No
+C01177,Nyokabi,Hussein,0701 830 641,nyokabi.hussein13@gmail.com,29.0,Eldoret,Uasin Gishu,Rift Valley,2023-10-15,New,y
+C01178,John,Kariuki,254768684011,john.kariuki14@gmail.com,34.0,Kilifi,Kilifi,Coast,2022-01-20,New,No
+C01179,Akinyi,Wekesa,0110533427 ,akinyi.wekesa15@outlook.com,22.0,Migori,Migori,Nyanza,2023-05-14,Regular,Yes
+C01180,Nyokabi,Kamau,0110417157,nyokabi.kamau16@gmail.com,22.0,Westlands,Nairobi,Nairobi Metro,2023-03-21,New,Yes
+C01181,Anthony,Achieng,+254700629463,anthony.achieng17@gmail.com,37.0,Kericho,Kericho,Rift Valley,2024-03-26,Regular,No
+C01182,Michael,Kimani,0710 696 507,michael.kimani18@outlook.com,33.0,Nyeri,Nyeri,Central,2025-01-22,Regular,No
+C01183,Hassan,Nyambura,254700267550,hassan.nyambura19@gmail.com,27.0,Machakos,Machakos,Eastern,2024-01-31,New,Yes
+C01184,Wanjiru,Barasa,,wanjiru.barasa20@gmail.com,18.0,Kisumu,Kisumu,Nyanza,2023-02-15,Loyal,YES
+C01185,George,Hassan,0722277644,george.hassan21@outlook.com,18.0,Karen,Nairobi,Nairobi Metro,2022-03-29,New,No
+C01186,Chebet,Muriithi,+254710218437,chebet.muriithi22@gmail.com,56.0,Nakuru,Nakuru,Rift Valley,2024-09-19,Regular,No
+C01187,Faith,Nyambura,0701 485 672,faith.nyambura23@gmail.com,39.0,Bungoma,Bungoma,Western,2025-06-13,Regular,Yes
+C01188,Yusuf,Nyaga,254701499088,yusuf.nyaga24@outlook.com,35.0,Thika,Kiambu,Nairobi Metro,2024-03-24,VIP,No
+C01189,Amina,Odhiambo,0710216371 ,amina.odhiambo25@gmail.com,21.0,Kericho,Kericho,Rift Valley,2024-08-11,New,y
+C01190,Anthony,Kones,0768235594,anthony.kones26@gmail.com,40.0,Kakamega,Kakamega,Western,2024-02-14,Loyal,Yes
+C01191,Kevin,Kamau,+254700148623,kevin.kamau27@outlook.com,43.0,Karen,Nairobi,Nairobi Metro,2022-06-03,Loyal,no
+C01192,Victor,Achieng,0759 702 093,victor.achieng28@gmail.com,50.0,Ukunda,Kwale,Coast,2022-09-24,VIP,No
+C01193,Fatuma,Kariuki,254759967764,fatuma.kariuki29@gmail.com,41.0,Murang'a,Murang'a,Central,2023-08-22,New,Yes
+C01194,Felix,Kilonzo,0701723040 ,felix.kilonzo30@outlook.com,45.0,Karen,Nairobi,Nairobi Metro,2024-02-03,Loyal,Yes
+C01195,Wairimu,Mutua,0745817234,,47.0,Migori,Migori,Nyanza,2024-10-01,Regular,Yes
+C01196,James,Njoroge,+254745584373,james.njoroge32@gmail.com,25.0,Meru,Meru,Eastern,2022-07-06,Regular,YES
+C01197,Brian,Hassan,0733 794 423,brian.hassan33@outlook.com,36.0,Busia,Busia,Western,2024-10-22,Regular,Yes
+C01198,Njeri,Cherono,254701311256,njeri.cherono34@gmail.com,45.0,Ukunda,kwale,Coast,2022-06-19,New,YES
+C01199,Kelvin,Njuguna,0701581351 ,kelvin.njuguna35@gmail.com,36.0,Kisii,Kisii,Nyanza,2022-08-02,Regular,No
+C01200,Njeri,Abdullahi,0733586698,njeri.abdullahi36@outlook.com,19.0,Nyeri,Nyeri,Central,2025-05-12,Regular,Yes
+C01201,Emmanuel,Hussein,+254701568855,emmanuel.hussein37@gmail.com,36.0,Ol Kalou,Nyandarua,Central,2023-10-17,Regular,Yes
+C01202,Daniel,Nyaga,0722 676 045,daniel.nyaga38@gmail.com,18.0,Murang'a,Murang'a,Central,2024-01-13,New,No
+C01203,James,Hussein,254700492258,james.hussein39@outlook.com,38.0,Mombasa,Mombasa,Coast,2024-06-27,New,No
+C01204,Victor,Cherono,0745739511 ,victor.cherono40@gmail.com,43.0,Ruiru,Kiambu,Nairobi Metro,2023-05-20,Loyal,Yes
+C01205,John,Gitau,0759479205,john.gitau41@gmail.com,38.0,Nakuru,Nakuru,Rift Valley,2022-09-28,VIP,Yes
+C01206,Kerubo,Auma,+254710746211,kerubo.auma42@outlook.com,27.0,NAIROBI CBD,Nairobi,Nairobi Metro,2025-05-28,New,y
+C01207,Wambui,Hussein,0790 406 446,wambui.hussein43@gmail.com,30.0,Bungoma,Bungoma,Western,2024-07-07,New,Yes
+C01208,Wambui,Achieng,254700736058,wambui.achieng44@gmail.com,36.0,Murang'a,Murang'a,Central,2023-07-14,Regular,Yes
+C01209,Kelvin,Wanjiru,0768411029 ,kelvin.wanjiru45@outlook.com,38.0,Eldoret,Uasin Gishu,Rift Valley,2023-04-03,Loyal,Yes
+C01210,Omar,Auma,0722553848,omar.auma46@gmail.com,29.0,Nakuru,Nakuru,Rift Valley,2022-07-05,VIP,Yes
+C01211,Grace,Mutua,+254710771138,grace.mutua47@gmail.com,29.0,MACHAKOS,Machakos,Eastern,2023-04-08,Regular,Yes
+C01212,David,Otieno,0759 581 411,david.otieno48@outlook.com,54.0,Karen,Nairobi,Nairobi Metro,2023-11-02,Loyal,No
+C01213,Adhiambo,Ali,254701388588,adhiambo.ali49@gmail.com,29.0,Ol Kalou,Nyandarua,Central,2024-05-25,New,Yes
+C01214,Joseph,Odhiambo,0701449389 ,joseph.odhiambo50@gmail.com,20.0,Eldoret,Uasin Gishu,Rift Valley,2023-01-22,Regular,y
+C01215,Hassan,Auma,0722875797,hassan.auma51@outlook.com,22.0,Embu,Embu,Eastern,2025-01-29,VIP,Yes
+C01216,Wambui,Mohamed,+254700920957,wambui.mohamed52@gmail.com,18.0,Kilifi,Kilifi,Coast,2022-02-27,Regular,No
+C01217,Wambui,Kiptoo,0110 796 515,wambui.kiptoo53@gmail.com,56.0,Kisii,Kisii,Nyanza,2025-06-29,Regular,No
+C01218,Chebet,Achieng,254700216551,chebet.achieng54@outlook.com,38.0,Kakamega,Kakamega,Western,2024-12-05,New,Yes
+C01219,Achieng,Wafula,0733925455 ,achieng.wafula55@gmail.com,46.0,Thika,Kiambu,Nairobi Metro,2022-08-01,Loyal,Yes
+C01220,Chebet,Njoroge,0768418519,chebet.njoroge56@gmail.com,30.0,Migori,Migori,Nyanza,2024-04-24,Loyal,Yes
+C01221,Moraa,Wafula,+254700185131,moraa.wafula57@outlook.com,30.0,Migori,Migori,Nyanza,2023-06-24,Regular,No
+C01222,Daniel,Maina,0759 352 913,daniel.maina58@gmail.com,22.0,Bungoma,Bungoma,Western,2022-07-08,Regular,Yes
+C01223,Kevin,Njoroge,254722936686,kevin.njoroge59@gmail.com,31.0,Embu,Embu,Eastern,2024-09-04,Regular,Yes
+C01224,Njeri,Mohamed,0710293758 ,njeri.mohamed60@outlook.com,26.0,Busia,Busia,Western,2025-04-26,New,no
+C01225,Njeri,Kilonzo,0710852124,njeri.kilonzo61@gmail.com,51.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-07-08,New,No
+C01226,Achieng,Kimani,+254722478479,achieng.kimani62@gmail.com,48.0,Thika,Kiambu,Nairobi Metro,2022-02-09,New,n
+C01227,Halima,Barasa,0701 466 595,halima.barasa63@outlook.com,36.0,Kisii,Kisii,Nyanza,2023-09-19,VIP,No
+C01228,Brian,Hassan,254700920914,brian.hassan64@gmail.com,18.0,Mombasa,Mombasa,Coast,2022-01-30,New,Yes
+C01229,Naliaka,Ali,0745341904 ,naliaka.ali65@gmail.com,26.0,Karen,Nairobi,Nairobi Metro,2025-03-21,VIP,Yes
+C01230,Dennis,Kiptoo,0722499470,dennis.kiptoo66@outlook.com,61.0,Meru,Meru,Eastern,2023-10-27,Regular,Y 
+C01231,Abdi,Wanjiru,+254745513242,abdi.wanjiru67@gmail.com,47.0,Kilifi,Kilifi,Coast,2024-09-05,New,yes
+C01232,Paul,Njoroge,0745 677 869,paul.njoroge68@gmail.com,35.0,Kakamega,Kakamega,Western,2024-04-10,New,YES
+C01233,Moraa,Mutua,254768238552,moraa.mutua69@outlook.com,,Narok,Narok,Rift Valley,2024-08-31,VIP,y
+C01234,Halima,Abdullahi,0710318006 ,halima.abdullahi70@gmail.com,33.0,Kakamega,Kakamega,Western,2024-05-12,Loyal,No
+C01235,David,Nyambura,0700997795,david.nyambura71@gmail.com,34.0,Bungoma,Bungoma,Western,2024-12-19,Regular,n
+C01236,Amina,Nyaga,+254110853329,amina.nyaga72@outlook.com,36.0,Kisumu,Kisumu,Nyanza,2023-12-19,Regular,No
+C01237,James,Adhiambo,0759 477 120,james.adhiambo73@gmail.com,38.0,Kilifi,Kilifi,Coast,2023-05-30,Loyal,No
+C01238,Abdi,Mohamed,254733976215,abdi.mohamed74@gmail.com,33.0,Narok,Narok,Rift Valley,2024-02-01,VIP,No
+C01239,Amina,Hussein,0701406845 ,amina.hussein75@outlook.com,45.0,Kilifi,kilifi,Coast,2025-02-23,Regular,n
+C01240,Dennis,Cherono,0722784267,dennis.cherono76@gmail.com,42.0,Nairobi CBD,Nairobi,Nairobi Metro,2023-11-13,Loyal,No
+C01241,Wambui,Kimani,+254110338758,wambui.kimani77@gmail.com,34.0,Thika,Kiambu,Nairobi Metro,2024-07-22,Regular,y
+C01242,Cherono,Njuguna,0768 665 769,cherono.njuguna78@outlook.com,32.0,Mombasa,Mombasa,Coast,2022-07-29,Regular,Y 
+C01243,Felix,Wanjiru,254759262776,felix.wanjiru79@gmail.com,44.0,MURANG'A,Murang'a,Central,2024-04-30,New,No
+C01244,Hassan,Kones,0745420111 ,hassan.kones80@gmail.com,49.0,Ruiru,Kiambu,Nairobi Metro,2025-03-28,Loyal,Yes
+C01245,Stephen,Kones,0701329244,stephen.kones81@outlook.com,18.0,Embu,Embu,Eastern,2024-05-27,Loyal, No
+C01246,Samuel,Barasa,+254110365675,samuel.barasa82@gmail.com,27.0,Narok,Narok,Rift Valley,2023-08-28,Regular,YES
+C01247,Muthoni,Nyambura,0700 365 791,muthoni.nyambura83@gmail.com,28.0,Kilifi,Kilifi,Coast,2022-07-09,Loyal,No
+C01248,Nyokabi,Abdullahi,254110157858,nyokabi.abdullahi84@outlook.com,18.0,Kericho,Kericho,Rift Valley,2024-03-18,Regular,Yes
+C01249,Faith,Odhiambo,0768361679 ,faith.odhiambo85@gmail.com,18.0,Ruiru,kiambu,Nairobi Metro,2025-03-09,New,n
+C01250,Paul,Maina,0110357073,paul.maina86@gmail.com,29.0,Westlands,Nairobi,Nairobi Metro,2023-03-23,Regular,No
+C01251,Nyokabi,Nyaga,+254710664650,nyokabi.nyaga87@outlook.com,18.0,Mombasa,Mombasa,Coast,2022-05-09,Regular,Yes
+C01252,Chebet,Hussein,0722 877 535,chebet.hussein88@gmail.com,21.0,Migori,Migori,Nyanza,2024-07-10,Loyal,Yes
+C01253,Grace,Kilonzo,254759544605,grace.kilonzo89@gmail.com,35.0,Nyeri,Nyeri,Central,2022-10-05,Loyal,yes
+C01254,Cherono,Kamau,0733294933 ,cherono.kamau90@outlook.com,55.0,Mombasa,Mombasa,Coast,2023-08-05,Regular,Yes
+C01255,Chebet,Njoroge,0733369327,chebet.njoroge91@gmail.com,32.0,Busia,Busia,Western,2025-04-07,Regular,Yes
+C01256,Wanjiru,Rono,+254759423086,wanjiru.rono92@gmail.com,22.0,Nakuru,Nakuru,Rift Valley,2024-08-03,Loyal,Yes
+C01257,Hassan,Hussein,,hassan.hussein93@outlook.com,35.0,Machakos,Machakos,Eastern,2023-07-20,VIP,Yes
+C01258,Faith,Auma,254700519973,faith.auma94@gmail.com,44.0,Karen,Nairobi,Nairobi Metro,2023-11-20,New,no
+C01259,Stephen,Wafula,0759229379 ,stephen.wafula95@gmail.com,46.0,Ruiru,Kiambu,Nairobi Metro,2022-05-12,Regular,Yes
+C01260,Akinyi,Barasa,0710148187,akinyi.barasa96@outlook.com,18.0,Mombasa,Mombasa,Coast,2023-12-12,Regular, No
+C01261,Wairimu,Mutua,+254722387717,wairimu.mutua0@gmail.com,49.0,Ukunda,Kwale,Coast,2024-11-25,Regular,n
+C01262,Michael,Kones,0733 707 241,michael.kones1@gmail.com,30.0,Thika,Kiambu,Nairobi Metro,2024-02-21,Loyal,Yes
+C01263,Naliaka,Mwenda,254790467421,naliaka.mwenda2@outlook.com,46.0,Busia,Busia,Western,2025-02-16,Regular,Yes
+C01264,Anthony,Kimani,0710668895 ,anthony.kimani3@gmail.com,40.0,Migori,Migori,Nyanza,2022-03-29,Regular,Yes
+C01265,Adhiambo,Ali,0700572215,adhiambo.ali4@gmail.com,48.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-03-27,VIP,Yes
+C01266,Brian,Wafula,+254701980676,brian.wafula5@outlook.com,28.0,Nyeri,Nyeri,Central,2023-03-16,Regular,No
+C01267,Wambui,Nyaga,,wambui.nyaga6@gmail.com,29.0,Mombasa,Mombasa,Coast,2022-09-26,Loyal,Yes
+C01268,Hassan,Cherono,254745229192,hassan.cherono7@gmail.com,42.0,Mombasa,Mombasa,Coast,2024-12-19,Regular,Yes
+C01269,Halima,Achieng,0790303824 ,halima.achieng8@outlook.com,35.0,Murang'a,Murang'a,Central,2023-05-30,Loyal,No
+C01270,Amina,Mohamed,0759217301,amina.mohamed9@gmail.com,46.0,Karen,Nairobi,Nairobi Metro,2022-03-26,Regular,Yes
+C01271,Peter,Cherono,+254759627603,peter.cherono10@gmail.com,28.0,Ruiru,Kiambu,Nairobi Metro,2022-04-15,New,NO
+C01272,Dennis,Mohamed,0110 727 203,dennis.mohamed11@outlook.com,24.0,Meru,Meru,Eastern,2024-03-30,Regular,No
+C01273,Chebet,Rono,254733646781,chebet.rono12@gmail.com,28.0,Kericho,Kericho,Rift Valley,2022-01-13,Regular,no
+C01274,Joseph,Muriithi,0733748393 ,joseph.muriithi13@gmail.com,44.0,Ruiru,Kiambu,Nairobi Metro,2022-03-02,New,Yes
+C01275,Hassan,Sang,0790188412,hassan.sang14@outlook.com,18.0,Ol Kalou,Nyandarua,Central,2025-06-05,Regular,NO
+C01276,Halima,Wanjiru,+254768537163,halima.wanjiru15@gmail.com,23.0,Meru,Meru,Eastern,2025-03-06,New,Yes
+C01277,Naliaka,Muriithi,0700 725 295,naliaka.muriithi16@gmail.com,41.0,Kisumu,Kisumu,Nyanza,2022-03-25,Regular,Yes
+C01278,Mercy,Odhiambo,254790679512,mercy.odhiambo17@outlook.com,25.0,Kakamega,Kakamega,Western,2024-09-22,Regular,Yes
+C01279,Stephen,Rono,0733161481 ,stephen.rono18@gmail.com,40.0,Kisii,Kisii,Nyanza,2022-02-03,New,Yes
+C01280,Ibrahim,Mohamed,0710413951,ibrahim.mohamed19@gmail.com,24.0,Meru,Meru,Eastern,2023-12-11,VIP,No
+C01281,Yusuf,Nyaga,+254700489462,yusuf.nyaga20@outlook.com,29.0,Kakamega,Kakamega,Western,2025-05-17,Loyal,Yes
+C01282,Daniel,Hassan,0710 729 961,daniel.hassan21@gmail.com,23.0,Narok,Narok,Rift Valley,2023-09-04,New,YES
+C01283,Brian,Onyango,254710464488,brian.onyango22@gmail.com,35.0,KAKAMEGA,Kakamega,Western,2022-06-19,Loyal,Yes
+C01284,John,Mohamed,0700442181 ,john.mohamed23@outlook.com,42.0,Nakuru,Nakuru,Rift Valley,2022-12-07,Regular,No
+C01285,Adhiambo,Wafula,0110384623,adhiambo.wafula24@gmail.com,24.0,Bungoma,Bungoma,Western,2022-08-14,Regular,y
+C01286,Fatuma,Onyango,+254722910442,fatuma.onyango25@gmail.com,27.0,Karen,nairobi,Nairobi Metro,2023-07-18,New,No
+C01287,Joseph,Hussein,0700 291 962,joseph.hussein26@outlook.com,30.0,Karen,Nairobi,Nairobi Metro,2022-04-14,New,Yes
+C01288,Paul,Maina,254701951001,paul.maina27@gmail.com,23.0,Ol Kalou,Nyandarua,Central,2022-07-17,New,no
+C01289,Halima,Sang,0768360247 ,halima.sang28@gmail.com,19.0,Meru,Meru,Eastern,2023-12-28,Regular,No
+C01290,Zainab,Muriithi,0733463454,zainab.muriithi29@outlook.com,50.0,Kilifi,Kilifi,Coast,2022-02-01,Regular,No
+C01291,Daniel,Mutua,+254110874440,daniel.mutua30@gmail.com,35.0,Ol Kalou,Nyandarua,Central,2022-11-14,New,NO
+C01292,Naliaka,Wanjiru,0790 662 634,naliaka.wanjiru31@gmail.com,27.0,Kakamega,Kakamega,Western,2024-01-20,Loyal,No
+C01293,Michael,Kariuki,254722587705,michael.kariuki32@outlook.com,25.0,Mombasa,Mombasa,Coast,2022-01-07,Loyal,Yes
+C01294,Nafula,Wanjiru,0710796983 ,nafula.wanjiru33@gmail.com,26.0,Ol Kalou,Nyandarua,Central,2022-12-25,Regular,No
+C01295,Nyokabi,Ali,0710149519,nyokabi.ali34@gmail.com,32.0,Murang'a,Murang'a,Central,2024-01-24,New,y
+C01296,Halima,Nyambura,+254700950817,halima.nyambura35@outlook.com,20.0,Busia,Busia,Western,2023-04-20,New,No
+C01297,Moraa,Nyambura,0759 277 967,moraa.nyambura36@gmail.com,18.0,Busia,Busia,Western,2022-07-28,Loyal,yes
+C01298,Habiba,Muriithi,254710655630,habiba.muriithi37@gmail.com,36.0,Murang'a,murang'a,Central,2025-06-23,Regular,Yes
+C01299,Akinyi,Nyambura,0768235351 ,akinyi.nyambura38@outlook.com,29.0,Karen,Nairobi,Nairobi Metro,2024-04-24,New,Yes
+C01300,John,Mwenda,0768302720,john.mwenda39@gmail.com,38.0,Murang'a,Murang'a,Central,2023-12-01,Regular,Yes
+C01301,Adhiambo,Achieng,+254733376756,adhiambo.achieng40@gmail.com,28.0,Ruiru,Kiambu,Nairobi Metro,2023-02-14,Loyal,No
+C01302,Wairimu,Kones,0745 191 781,wairimu.kones41@outlook.com,40.0,Migori,Migori,Nyanza,2022-07-29,Regular,No
+C01303,Stephen,Hassan,254733253197,stephen.hassan42@gmail.com,37.0,Ukunda,Kwale,Coast,2023-01-24,Regular, No
+C01304,Faith,Auma,0110428988 ,faith.auma43@gmail.com,23.0,Thika,kiambu,Nairobi Metro,2022-02-19,Regular,Yes
+C01305,George,Mohamed,0759972959,george.mohamed44@outlook.com,27.0,Kisumu,Kisumu,Nyanza,2022-11-18,New,Yes
+C01306,Abdi,Mutua,+254745545572,abdi.mutua45@gmail.com,25.0,Kisumu,Kisumu,Nyanza,2024-02-14,Regular,Yes
+C01307,Kevin,Chebet,0733 173 813,kevin.chebet46@gmail.com,24.0,Kakamega,Kakamega,Western,2024-03-11,Loyal,Yes
+C01308,Ibrahim,Hussein,254768676250,ibrahim.hussein47@outlook.com,40.0,Meru,Meru,Eastern,2024-11-26,New,no
+C01309,Hassan,Maina,0701570569 ,hassan.maina48@gmail.com,18.0,Nakuru,Nakuru,Rift Valley,2024-02-09,Loyal,No
+C01310,Akinyi,Kones,0745611135,akinyi.kones49@gmail.com,24.0,Nairobi CBD,Nairobi,Nairobi Metro,2025-06-08,Regular,YES
+C01311,Zainab,Kones,+254790750938,zainab.kones50@outlook.com,36.0,Karen,Nairobi,Nairobi Metro,2023-01-09,New,No
+C01312,Joseph,Odhiambo,0733 832 226,joseph.odhiambo51@gmail.com,29.0,Ol Kalou,Nyandarua,Central,2023-05-12,Regular,Yes
+C01313,George  ,Mwangi,254700167654,george.mwangi52@gmail.com,20.0,Machakos,Machakos,Eastern,2022-08-08,Regular,No
+C01314,Emmanuel,Nyambura,0745637893 ,emmanuel.nyambura53@outlook.com,55.0,Ruiru,Kiambu,Nairobi Metro,2025-01-19,Loyal,Yes
+C01315,Anthony,Muriithi,0733970149,anthony.muriithi54@gmail.com,26.0,Narok,Narok,Rift Valley,2025-05-04,Loyal,Yes
+C01316,Wambui,Kiptoo,+254790125471,wambui.kiptoo55@gmail.com,39.0,Embu,Embu,Eastern,2022-01-22,New,No
+C01317,Kelvin,Maina,0701 585 228,kelvin.maina56@outlook.com,33.0,Mombasa,Mombasa,Coast,2024-01-07,Regular,Yes
+C01318,Nyokabi,Mutua,254710688899,nyokabi.mutua57@gmail.com,27.0,Mombasa,Mombasa,Coast,2022-08-19,Regular,Y 
+C01319,Yusuf,Odhiambo,0759977826 ,yusuf.odhiambo58@gmail.com,18.0,Mombasa,Mombasa,Coast,2024-09-16,Loyal,Yes
+C01320,Adhiambo,Barasa,0759310967,adhiambo.barasa59@outlook.com,42.0,Meru,Meru,Eastern,2023-12-29,Regular,Yes
+C01321,Adhiambo,Abdullahi,+254745160542,adhiambo.abdullahi60@gmail.com,-3.0,Meru,Meru,Eastern,2024-05-28,VIP,Yes
+C01322,Michael,Wafula,0710 220 998,michael.wafula61@gmail.com,35.0,Nakuru,Nakuru,Rift Valley,2024-09-10,New,No
+C01323,Emmanuel,Ali,254759124637,emmanuel.ali62@outlook.com,22.0,Thika,Kiambu,Nairobi Metro,2025-04-25,Regular,n
+C01324,Hassan,Gitau,0710420564 ,hassan.gitau63@gmail.com,49.0,Murang'a,Murang'a,Central,2025-01-18,VIP,Yes
+C01325,Achieng  ,Barasa,0701782110,achieng.barasa64@gmail.com,36.0,Mombasa,Mombasa,Coast,2023-08-09,New, No
+C01326,Paul,Kiptoo,+254790397596,paul.kiptoo65@outlook.com,40.0,Kakamega,Kakamega,Western,2022-03-18,Regular,Yes
+C01327,Brian,Njuguna,0110 212 525,brian.njuguna66@gmail.com,40.0,Ol Kalou,Nyandarua,Central,2024-03-08,Regular,No
+C01328,Muthoni,Kones,254722201682,muthoni.kones67@gmail.com,18.0,Narok,Narok,Rift Valley,2023-01-22,Loyal,yes
+C01329,Felix,Onyango,0710337831 ,felix.onyango68@outlook.com,33.0,Nakuru,Nakuru,Rift Valley,2024-07-23,Regular,No
+C01330,Njeri,Wekesa,0722537727,njeri.wekesa69@gmail.com,43.0,Kakamega,Kakamega,Western,2023-11-24,Regular,Yes
+C01331,Victor,Odhiambo,+254733956629,victor.odhiambo70@gmail.com,50.0,Kisumu,Kisumu,Nyanza,2024-05-18,VIP,y
+C01332,Kevin,Sang,0733 687 936,kevin.sang71@outlook.com,25.0,Machakos,Machakos,Eastern,2024-05-03,New,Yes
+C01333,Peter,Sang,254110512516,peter.sang72@gmail.com,,Nairobi CBD,Nairobi,Nairobi Metro,2024-10-30,New,Yes
+C01334,Akinyi,Kiptoo,,akinyi.kiptoo73@gmail.com,57.0,Kisumu,Kisumu,Nyanza,2022-02-09,Regular,Yes
+C01335,Anthony,Mohamed,0733547197,anthony.mohamed74@outlook.com,18.0,Kisumu,Kisumu,Nyanza,2024-07-10,New,Yes
+C01336,Anthony,Auma,+254722602289,anthony.auma75@gmail.com,,Kericho,Kericho,Rift Valley,2023-08-18,Regular,No
+C01337,Nyokabi,Achieng,0745 992 664,nyokabi.achieng76@gmail.com,36.0,Kisumu,Kisumu,Nyanza,2022-12-12,Regular,No
+C01338,Halima,Njoroge,254745929641,halima.njoroge77@outlook.com,21.0,Kisii,Kisii,Nyanza,2023-09-26,Loyal, No
+C01339,Faith,Ali,0701889369 ,faith.ali78@gmail.com,39.0,Narok,Narok,Rift Valley,2023-11-08,Regular,Yes
+C01340,Faith,Mwenda,0722130240,faith.mwenda79@gmail.com,18.0,Nakuru,Nakuru,Rift Valley,2025-02-10,Loyal,No
+C01341,Brian,Nyaga,+254710496115,brian.nyaga80@outlook.com,18.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-08-09,Regular,Yes
+C01342,George,Onyango,0790 743 175,george.onyango81@gmail.com,33.0,BUNGOMA,Bungoma,Western,2022-07-03,Loyal, No
+C01343,Mercy,Rono,254110604784,mercy.rono82@gmail.com,50.0,Eldoret,Uasin Gishu,Rift Valley,2022-07-06,Loyal,No
+C01344,Kerubo  ,Kamau,0700464624 ,kerubo.kamau83@outlook.com,37.0,Machakos,Machakos,Eastern,2022-10-31,VIP,yes
+C01345,Emmanuel,Nyaga,0701121266,emmanuel.nyaga84@gmail.com,24.0,Kericho,Kericho,Rift Valley,2023-12-07,Loyal,Yes
+C01346,Collins,Wekesa,+254733972891,collins.wekesa85@gmail.com,33.0,Murang'a,Murang'a,Central,2023-12-18,VIP, No
+C01347,Abdi,Barasa,0745 490 512,abdi.barasa86@outlook.com,22.0,Meru,Meru,Eastern,2022-08-25,Regular,No
+C01348,Nafula,Wekesa,254722938306,nafula.wekesa87@gmail.com,31.0,Kisii,Kisii,Nyanza,2024-09-18,New,Yes
+C01349,Kerubo,Auma,0733165128 ,kerubo.auma88@gmail.com,28.0,Machakos,Machakos,Eastern,2022-10-15,Loyal,Y 
+C01350,Felix,Hussein,0700714131,felix.hussein89@outlook.com,40.0,Westlands,Nairobi,Nairobi Metro,2022-03-24,Loyal,Y 
+C01351,Mercy,Hussein,0790905392 ,mercy.hussein19@gmail.com,40.0,Kisumu,kisumu,Nyanza,2023-08-12,Loyal,No
+C01352,Wambui,Mohamed,+254700920957,wambui.mohamed52@gmail.com,18.0,Kilifi,Kilifi,Coast,2022-02-27,Regular,No
+C01353,Moraa,Maina,0745142586,moraa.maina94@outlook.com,34.0,Karen,Nairobi,Nairobi Metro,2022-01-29,New,n
+C01354,Akinyi,Wekesa,0110533427 ,akinyi.wekesa15@outlook.com,22.0,Migori,Migori,Nyanza,2023-05-14,Regular,Yes
+C01355,Victor,Wanjiru,0722942926 ,victor.wanjiru74@gmail.com,32.0,Kisumu,Kisumu,Nyanza,2025-04-04,New,Yes
+C01356,Kerubo,Muriithi,254733905162,kerubo.muriithi62@gmail.com,26.0,Nairobi CBD,Nairobi,Nairobi Metro,2024-09-22,New,y
+C01357,John,Mohamed,0700480402 ,john.mohamed42@outlook.com,42.0,Narok,Narok,Rift Valley,2025-05-01,Regular,No
+C01358,Adhiambo,Hussein,254700580543,adhiambo.hussein46@outlook.com,30.0,Machakos,Machakos,Eastern,2023-02-17,New,Yes
+C01359,Samuel,Achieng,0733855724 ,samuel.achieng80@gmail.com,22.0,Kisumu,Kisumu,Nyanza,2024-04-26,New,yes
+C01360,Habiba,Odhiambo,254790441258,habiba.odhiambo3@outlook.com,37.0,Murang'a,Murang'a,Central,2024-05-14,Regular,y

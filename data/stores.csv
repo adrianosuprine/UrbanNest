@@ -1,0 +1,26 @@
+StoreID,StoreName,Town,County,Region,StoreType,OpeningDate,SquareFootage
+ST001,UrbanNest Nairobi CBD,Nairobi CBD,Nairobi,Nairobi Metro,Standard,2022-05-16,18000.0
+ST002,UrbanNest Westlands,Westlands,Nairobi,Nairobi Metro,Standard,2023-06-03,9000.0
+ST003,UrbanNest Karen,Karen,Nairobi,Nairobi Metro,Outlet,2023-07-01,18000.0
+ST004,UrbanNest Thika,Thika,Kiambu,Nairobi Metro,Standard,2019-01-10,9000.0
+ST005,UrbanNest Ruiru,Ruiru,Kiambu,Nairobi Metro,Standard,2020-09-06,9000.0
+ST006,UrbanNest Mombasa,Mombasa,Mombasa,coast,Standard,2020-05-16,12000.0
+ST007,UrbanNest Kilifi,Kilifi,Kilifi,Coast,Standard,2021-07-06,18000.0
+ST008,UrbanNest Ukunda,Ukunda,Kwale,Coast,Standard,2023-11-27,25000.0
+ST009,UrbanNest Eldoret,Eldoret,Uasin Gishu,Rift Valley,Standard,2023-03-02,
+ST010,UrbanNest Nakuru,Nakuru,Nakuru,Rift Valley,Flagship,2019-10-16,25000.0
+ST011,UrbanNest Kericho,Kericho,Kericho,Rift Valley,Standard,2019-03-06,9000.0
+ST012,UrbanNest Narok,Narok,Narok,Rift Valley,Outlet,2023-01-22,12000.0
+ST013,UrbanNest Kakamega,Kakamega,Kakamega,Western,Standard,2022-02-06,9000.0
+ST014,UrbanNest Bungoma,Bungoma,Bungoma,Western,Flagship,2019-06-24,20000.0
+ST015,UrbanNest Busia,Busia,Busia,western,Standard,2023-05-07,9000.0
+ST016,UrbanNest Kisumu,Kisumu,Kisumu,Nyanza,Flagship,2019-12-28,25000.0
+ST017,UrbanNest Kisii,Kisii,Kisii,Nyanza,Standard,2023-02-03,
+ST018,UrbanNest Migori,Migori,Migori,Nyanza,Outlet,2019-12-02,18000.0
+ST019,UrbanNest Nyeri,Nyeri,Nyeri,Central,Standard,2021-07-06,12000.0
+ST020,UrbanNest Murang'a,Murang'a,Murang'a,central,Flagship,2020-03-16,25000.0
+ST021,UrbanNest Ol Kalou,Ol Kalou,Nyandarua,Central,Standard,2022-01-08,9000.0
+ST022,UrbanNest Machakos,Machakos,Machakos,Eastern,Standard,2023-04-18,6000.0
+ST023,UrbanNest Meru,Meru,Meru,Eastern,Standard,2021-12-12,6000.0
+ST024,UrbanNest Embu,Embu,Embu,Eastern,Outlet,2020-08-04,9000.0
+ST099,UrbanNest Online DC,Ruiru,Kiambu,Nairobi Metro,Distribution Center,2018-06-01,150000.0
