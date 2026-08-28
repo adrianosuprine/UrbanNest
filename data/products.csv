@@ -1,0 +1,203 @@
+ProductID,ProductName,Category,SubCategory,Brand,ListPrice_KES,UnitCost_KES
+P0001,Rustic Loveseat,Furniture,Sofas,Boma & Co.,85060.0,54040.0
+P0002,Classic Sectional,Furniture,Sofas,Savannah Living,91490.0,57210.0
+P0003,Modern Sectional,Furniture,Sofas,TERRAFORM,26210.0,17260.0
+P0004,Classic Sectional,Furniture,Sofas,Craftline,38100.0,25290.0
+P0005,Modern Sofa,Furniture,Sofas,Boma & Co.,18960.0,11080.0
+P0006,Modern Loveseat,Furniture,Sofas,Craftline,34810.0,21790.0
+P0007,Urban Sofa,Furniture,Sofas,Boma & Co.,46260.0,27650.0
+P0008,Maridadi Sofa,Furniture,Sofas,Savannah Living,94740.0,66470.0
+P0009,Maridadi Armchair,Furniture,Chairs,UrbanNest Basics,119240.0,
+P0010,Maridadi Recliner,Furniture,Chairs,Boma & Co.,127120.0,81390.0
+P0011,Compact Armchair,Furniture,Chairs,UrbanNest Basics,25490.0,17670.0
+P0012,Rustic Recliner,Furniture,Chairs,Maridadi Decor,130340.0,83770.0
+P0013,Rustic Accent Chair,Furniture,Chairs,Savannah Living,30190.0,18000.0
+P0014,Deluxe Recliner,Furniture,Chairs,Nyati Home,91970.0,58880.0
+P0015,Maridadi Armchair,Furniture,Chairs,Craftline,56420.0,37380.0
+P0016,Modern Accent Chair,Furniture,Chairs,Savannah Living,38090.0,27220.0
+P0017,Classic Recliner,Furniture,Chairs,Craftline,123410.0,80770.0
+P0018,Urban Accent Chair,Furniture,Chairs,Boma & Co.,79380.0,
+P0019,Heritage Dining Table,Furniture,Tables,Bright House,9380.0,6260.0
+P0020,Deluxe Dining Table,Furniture,Tables,Craftline,10070.0,7080.0
+P0021,Compact Coffee Table,Furniture,Tables,Savannah Living,135600.0,85150.0
+P0022,Deluxe Side Table,Furniture,Tables,Bright House,63380.0,40990.0
+P0023,Heritage Dining Table,Furniture,Tables,Maridadi Decor,122960.0,82610.0
+P0024,Modern Side Table,Furniture,Tables,Savannah Living,85100.0,53130.0
+P0025,Coastal Side Table,Furniture,Tables,Nyati Home,53630.0,34720.0
+P0026,Rustic Dining Table,Furniture,Tables,Bright House,108540.0,64330.0
+P0027,Classic Nightstand,Furniture,Bedroom,SAVANNAH LIVING,26240.0,15460.0
+P0028,Maridadi Dresser,Furniture,Bedroom,TerraForm,6690.0,4110.0
+P0029,Essential Nightstand,Furniture,Bedroom,Bright House,114610.0,80320.0
+P0030,Heritage Dresser,Furniture,Bedroom,SAVANNAH LIVING,62130.0,37640.0
+P0031,Deluxe Bed Frame,Furniture,Bedroom,Bright House,7910.0,5000.0
+P0032,Modern Dresser,Furniture,Bedroom,UrbanNest Basics,112270.0,72770.0
+P0033,Deluxe Dresser,Furniture,Bedroom,Bright House,103260.0,71070.0
+P0034,Coastal Nightstand,Furniture,Bedroom,TerraForm,32600.0,21810.0
+P0035,Heritage Bed Frame,Furniture,Bedroom,TerraForm,30040.0,20170.0
+P0036,Maridadi Bookshelf,Furniture,Storage,Savannah Living,82830.0,55690.0
+P0037,Classic Cabinet,Furniture,Storage,Craftline,42380.0,24860.0
+P0038,Rustic Cabinet,Furniture,Storage,Craftline,65560.0,38200.0
+P0039,Coastal Cabinet,Furniture,Storage,Bright House,75080.0,48580.0
+P0040,Rustic Bookshelf,Furniture,Storage,Bright House,126140.0,77700.0
+P0041,Urban Cabinet,Furniture,Storage,Maridadi Decor,83810.0,55340.0
+P0042,Coastal Bookshelf,Furniture,Storage,Maridadi Decor,123680.0,81920.0
+P0043,Coastal Wall Hanging,Decor,Wall Art,TerraForm,20360.0,11530.0
+P0044,Coastal Wall Hanging,Decor,Wall Art,Craftline,9920.0,4720.0
+P0045,Modern Canvas Print,Decor,Wall Art,Nyati Home,20960.0,11100.0
+P0046,Compact Canvas Print,Decor,Wall Art,Craftline,17890.0,
+P0047,Heritage Canvas Print,Decor,Wall Art,NYATI HOME,16000.0,7270.0
+P0048,Deluxe Framed Art,Decor,Wall Art,UrbanNest Basics,21400.0,10990.0
+P0049,Coastal Canvas Print,Decor,Wall Art,TerraForm,9240.0,4980.0
+P0050,Maridadi Wall Hanging,Decor,Wall Art,TerraForm,1870.0,1000.0
+P0051,Urban Canvas Print,Decor,Wall Art,UrbanNest Basics,20210.0,8330.0
+P0052,Urban Framed Art,Decor,Wall Art,Boma & Co.,3180.0,1460.0
+P0053,Coastal Runner Rug,Decor,Rugs,Boma & Co.,13410.0,6010.0
+P0054,Heritage Area Rug,Decor,Rugs,Boma & Co.,7300.0,2830.0
+P0055,Compact Area Rug,Decor,Rugs,Savannah Living,10680.0,
+P0056,Heritage Area Rug,Decor,Rugs,Nyati Home,14270.0,
+P0057,Essential Area Rug,Decor,Rugs,UrbanNest Basics,2110.0,1050.0
+P0058,Classic Area Rug,Decor,Rugs,Nyati Home,17000.0,7090.0
+P0059,Modern Sisal Rug,Decor,Rugs,TerraForm,16280.0,9070.0
+P0060,Classic Sisal Rug,Decor,Rugs,Savannah Living,20160.0,8460.0
+P0061,Maridadi Area Rug,Decor,Rugs,Boma & Co.,19410.0,9230.0
+P0062,Deluxe Area Rug,Decor,Rugs,TerraForm,20210.0,11530.0
+P0063,Essential Pendant Light,Decor,Lighting,Bright House,1440.0,830.0
+P0064,Modern Table Lamp,Decor,Lighting,Bright House,6160.0,3270.0
+P0065,Heritage Floor Lamp,Decor,Lighting,Bright House,4780.0,2230.0
+P0066,Modern Floor Lamp,Decor,Lighting,Nyati Home,1630.0,750.0
+P0067,Essential Table Lamp,Decor,Lighting,Maridadi Decor,4320.0,1920.0
+P0068,Rustic Floor Lamp,Decor,Lighting,UrbanNest Basics,1250.0,650.0
+P0069,Urban Table Lamp,Decor,Lighting,TerraForm,20690.0,9770.0
+P0070,Urban Table Lamp,Decor,Lighting,UrbanNest Basics,18010.0,8080.0
+P0071,Modern Floor Mirror,Decor,Mirrors,Maridadi Decor,4850.0,2260.0
+P0072,Rustic Floor Mirror,Decor,Mirrors,TerraForm,1640.0,690.0
+P0073,Urban Wall Mirror,Decor,Mirrors,TerraForm,21150.0,8650.0
+P0074,Maridadi Wall Mirror,Decor,Mirrors,CRAFTLINE,1880.0,960.0
+P0075,Coastal Wall Mirror,Decor,Mirrors,Craftline,7540.0,4200.0
+P0076,Urban Wall Mirror,Decor,Mirrors,Bright House,14080.0,5920.0
+P0077,Classic Floor Mirror,Decor,Mirrors,UrbanNest Basics,7450.0,3040.0
+P0078,Heritage Glass Vase,Decor,Vases,Maridadi Decor,17700.0,9810.0
+P0079,Maridadi Ceramic Vase,Decor,Vases,TerraForm,17060.0,6880.0
+P0080,Essential Glass Vase,Decor,Vases,TerraForm,4980.0,2320.0
+P0081,Compact Ceramic Vase,Decor,Vases,Savannah Living,14340.0,6570.0
+P0082,Heritage Ceramic Vase,Decor,Vases,Craftline,2840.0,1270.0
+P0083,Compact Glass Vase,Decor,Vases,Bright House,14200.0,5900.0
+P0084,Heritage Ceramic Vase,Decor,Vases,TerraForm,17830.0,9170.0
+P0085,Modern Ceramic Vase,Decor,Vases,Boma & Co.,16110.0,6550.0
+P0086,Heritage Ceramic Vase,Decor,Vases,Nyati Home,19730.0,10810.0
+P0087,Essential Skillet Set,Kitchen & Dining,Cookware,Savannah Living,11890.0,7570.0
+P0088,Coastal Dutch Oven,Kitchen & Dining,Cookware,Bright House,10360.0,5090.0
+P0089,Modern Skillet Set,Kitchen & Dining,Cookware,Nyati Home,7140.0,4490.0
+P0090,Rustic Sufuria Set,Kitchen & Dining,Cookware,UrbanNest Basics,8490.0,4660.0
+P0091,Maridadi Sufuria Set,Kitchen & Dining,Cookware,Bright House,2270.0,1370.0
+P0092,Rustic Dutch Oven,Kitchen & Dining,Cookware,Bright House,2840.0,1550.0
+P0093,Essential Dutch Oven,Kitchen & Dining,Cookware,Nyati Home,15030.0,9090.0
+P0094,Urban Mug Set,Kitchen & Dining,Dinnerware,Nyati Home,7010.0,4010.0
+P0095,Classic Dinner Set,Kitchen & Dining,Dinnerware,Savannah Living,4260.0,2690.0
+P0096,Rustic Mug Set,Kitchen & Dining,Dinnerware,Boma & Co.,6270.0,3690.0
+P0097,Compact Dinner Set,Kitchen & Dining,Dinnerware,UrbanNest Basics,1930.0,1020.0
+P0098,Compact Serving Bowl,Kitchen & Dining,Dinnerware,Maridadi Decor,10630.0,6590.0
+P0099,Compact Mug Set,Kitchen & Dining,Dinnerware,TerraForm,1860.0,980.0
+P0100,Urban Blender,Kitchen & Dining,Small Appliances,Boma & Co.,2830.0,1850.0
+P0101,Classic Toaster,Kitchen & Dining,Small Appliances,TerraForm,1920.0,960.0
+P0102,Maridadi Blender,Kitchen & Dining,Small Appliances,Boma & Co.,5210.0,3220.0
+P0103,Rustic Electric Kettle,Kitchen & Dining,Small Appliances,Nyati Home,15070.0,8380.0
+P0104,Urban Electric Kettle,Kitchen & Dining,Small Appliances,UrbanNest Basics,3780.0,2240.0
+P0105,Rustic Blender,Kitchen & Dining,Small Appliances,UrbanNest Basics,15970.0,9660.0
+P0106,Rustic Toaster,Kitchen & Dining,Small Appliances,Nyati Home,12940.0,8550.0
+P0107,Maridadi Blender,Kitchen & Dining,Small Appliances,Savannah Living,13230.0,6940.0
+P0108,Classic Electric Kettle,Kitchen & Dining,Small Appliances,TerraForm,14950.0,8150.0
+P0109,Urban Electric Kettle,Kitchen & Dining,Small Appliances,Bright House,6990.0,4660.0
+P0110,Urban Pantry Organizer,Kitchen & Dining,Storage & Organization,UrbanNest Basics,9580.0,5060.0
+P0111,Compact Pantry Organizer,Kitchen & Dining,Storage & Organization,Maridadi Decor,3840.0,2410.0
+P0112,Modern Pantry Organizer,Kitchen & Dining,Storage & Organization,Bright House,9880.0,5240.0
+P0113,Modern Pantry Organizer,Kitchen & Dining,Storage & Organization,Bright House,16190.0,10600.0
+P0114,Maridadi Utensil Holder,Kitchen & Dining,Storage & Organization,Craftline,3720.0,1930.0
+P0115,Heritage Utensil Holder,Kitchen & Dining,Storage & Organization,Bright House,11780.0,6310.0
+P0116,Compact Comforter,Bed & Bath,Bedding,Maridadi Decor,13190.0,5950.0
+P0117,Compact Comforter,Bed & Bath,Bedding,Bright House,11010.0,5960.0
+P0118,Coastal Duvet Set,Bed & Bath,Bedding,Savannah Living,9190.0,5360.0
+P0119,Heritage Sheet Set,Bed & Bath,Bedding,TerraForm,10780.0,5050.0
+P0120,Compact Duvet Set,Bed & Bath,Bedding,Boma & Co.,10270.0,5450.0
+P0121,Compact Duvet Set,Bed & Bath,Bedding,Maridadi Decor,5670.0,3040.0
+P0122,Rustic Duvet Set,Bed & Bath,Bedding,TerraForm,1050.0,470.0
+P0123,Deluxe Duvet Set,Bed & Bath,Bedding,Nyati Home,7870.0,4270.0
+P0124,Compact Bath Sheet,Bed & Bath,Towels,Savannah Living,7940.0,3780.0
+P0125,Heritage Bath Sheet,Bed & Bath,Towels,Nyati Home,5710.0,2590.0
+P0126,Rustic Towel Set,Bed & Bath,Towels,Boma & Co.,12920.0,7010.0
+P0127,Essential Bath Sheet,Bed & Bath,Towels,Boma & Co.,2450.0,1150.0
+P0128,Essential Towel Set,Bed & Bath,Towels,TERRAFORM,13910.0,8210.0
+P0129,Essential Towel Set,Bed & Bath,Towels,UrbanNest Basics,10150.0,4620.0
+P0130,Urban Bath Sheet,Bed & Bath,Towels,Bright House,12940.0,7700.0
+P0131,Classic Bath Sheet,Bed & Bath,Towels,BOMA & CO.,1830.0,770.0
+P0132,Urban Bath Sheet,Bed & Bath,Towels,Maridadi Decor,2160.0,1260.0
+P0133,Modern Towel Set,Bed & Bath,Towels,Craftline,8300.0,4410.0
+P0134,Modern Shower Caddy,Bed & Bath,Bath Accessories,Maridadi Decor,3150.0,1380.0
+P0135,Classic Bath Mat,Bed & Bath,Bath Accessories,Nyati Home,3510.0,1640.0
+P0136,Rustic Bath Mat,Bed & Bath,Bath Accessories,Boma & Co.,1510.0,790.0
+P0137,Coastal Bath Mat,Bed & Bath,Bath Accessories,Nyati Home,1040.0,580.0
+P0138,Essential Bath Mat,Bed & Bath,Bath Accessories,Savannah Living,4780.0,2280.0
+P0139,Classic Bath Mat,Bed & Bath,Bath Accessories,Nyati Home,6700.0,4080.0
+P0140,Modern Bath Mat,Bed & Bath,Bath Accessories,Maridadi Decor,13940.0,6170.0
+P0141,Modern Shower Caddy,Bed & Bath,Bath Accessories,Maridadi Decor,12880.0,7350.0
+P0142,Maridadi Shower Caddy,Bed & Bath,Bath Accessories,Craftline,5880.0,3380.0
+P0143,Deluxe Shower Caddy,Bed & Bath,Bath Accessories,Savannah Living,2270.0,1390.0
+P0144,Classic Outdoor Sofa,Outdoor & Garden,Patio Furniture,TERRAFORM,30700.0,22460.0
+P0145,Coastal Hammock,Outdoor & Garden,Patio Furniture,Maridadi Decor,11400.0,7080.0
+P0146,Rustic Hammock,Outdoor & Garden,Patio Furniture,UrbanNest Basics,29570.0,
+P0147,Compact Hammock,Outdoor & Garden,Patio Furniture,Savannah Living,40520.0,28770.0
+P0148,Deluxe Patio Set,Outdoor & Garden,Patio Furniture,UrbanNest Basics,32090.0,
+P0149,Compact Patio Set,Outdoor & Garden,Patio Furniture,Maridadi Decor,31450.0,20620.0
+P0150,Deluxe Hammock,Outdoor & Garden,Patio Furniture,Craftline,32640.0,22540.0
+P0151,Heritage Outdoor Sofa,Outdoor & Garden,Patio Furniture,Nyati Home,47660.0,29500.0
+P0152,Essential Outdoor Sofa,Outdoor & Garden,Patio Furniture,UrbanNest Basics,11580.0,8450.0
+P0153,Classic Hanging Planter,Outdoor & Garden,Planters,UrbanNest Basics,58800.0,35800.0
+P0154,Urban Ceramic Planter,Outdoor & Garden,Planters,Craftline,14610.0,8830.0
+P0155,Compact Hanging Planter,Outdoor & Garden,Planters,Bright House,13260.0,8940.0
+P0156,Coastal Ceramic Planter,Outdoor & Garden,Planters,Bright House,30350.0,18600.0
+P0157,Urban Hanging Planter,Outdoor & Garden,Planters,Maridadi Decor,3390.0,2380.0
+P0158,Compact Ceramic Planter,Outdoor & Garden,Planters,TerraForm,36400.0,26940.0
+P0159,Rustic Ceramic Planter,Outdoor & Garden,Planters,Boma & Co.,14960.0,10180.0
+P0160,Classic Gas Grill,Outdoor & Garden,Grills,Nyati Home,52970.0,33680.0
+P0161,Modern Charcoal Jiko Grill,Outdoor & Garden,Grills,Maridadi Decor,49910.0,31730.0
+P0162,Rustic Gas Grill,Outdoor & Garden,Grills,UrbanNest Basics,42760.0,26620.0
+P0163,Coastal Charcoal Jiko Grill,Outdoor & Garden,Grills,Maridadi Decor,41210.0,26360.0
+P0164,Deluxe Charcoal Jiko Grill,Outdoor & Garden,Grills,UrbanNest Basics,18800.0,13630.0
+P0165,Rustic Gas Grill,Outdoor & Garden,Grills,Nyati Home,45630.0,33090.0
+P0166,Heritage Wind Chime,Outdoor & Garden,Outdoor Decor,UrbanNest Basics,36200.0,25360.0
+P0167,Essential Wind Chime,Outdoor & Garden,Outdoor Decor,TerraForm,56260.0,40890.0
+P0168,Compact Wind Chime,Outdoor & Garden,Outdoor Decor,UrbanNest Basics,31350.0,23080.0
+P0169,Compact Wind Chime,Outdoor & Garden,Outdoor Decor,TerraForm,57960.0,38470.0
+P0170,Classic Garden Lantern,Outdoor & Garden,Outdoor Decor,TerraForm,48420.0,34270.0
+P0171,Modern Wind Chime,Outdoor & Garden,Outdoor Decor,Bright House,48310.0,31140.0
+P0172,Urban Wind Chime,Outdoor & Garden,Outdoor Decor,Craftline,38980.0,23680.0
+P0173,Urban Writing Desk,Home Office,Desks,URBANNEST BASICS,19620.0,12740.0
+P0174,Deluxe Writing Desk,Home Office,Desks,Savannah Living,29840.0,
+P0175,Coastal Writing Desk,Home Office,Desks,UrbanNest Basics,15740.0,9540.0
+P0176,Classic Standing Desk,Home Office,Desks,Maridadi Decor,10760.0,6740.0
+P0177,Compact Standing Desk,Home Office,Desks,Savannah Living,32880.0,23310.0
+P0178,Maridadi Writing Desk,Home Office,Desks,Boma & Co.,31250.0,22420.0
+P0179,Heritage Standing Desk,Home Office,Desks,Nyati Home,40350.0,25840.0
+P0180,Maridadi Standing Desk,Home Office,Desks,Nyati Home,18660.0,11150.0
+P0181,Urban Writing Desk,Home Office,Desks,BOMA & CO.,23170.0,13800.0
+P0182,Urban Writing Desk,Home Office,Desks,UrbanNest Basics,5850.0,3650.0
+P0183,Modern Task Chair,Home Office,Office Chairs,UrbanNest Basics,39320.0,28050.0
+P0184,Rustic Task Chair,Home Office,Office Chairs,TerraForm,20390.0,12490.0
+P0185,Coastal Task Chair,Home Office,Office Chairs,Bright House,24250.0,17150.0
+P0186,Classic Task Chair,Home Office,Office Chairs,Craftline,25930.0,17690.0
+P0187,Deluxe Ergonomic Chair,Home Office,Office Chairs,UrbanNest Basics,10220.0,5830.0
+P0188,Modern Ergonomic Chair,Home Office,Office Chairs,Savannah Living,10310.0,6630.0
+P0189,Heritage Task Chair,Home Office,Office Chairs,Maridadi Decor,32140.0,19280.0
+P0190,Deluxe Task Chair,Home Office,Office Chairs,Craftline,24360.0,14200.0
+P0191,Compact Wall Shelf,Home Office,Shelving,Bright House,20900.0,12840.0
+P0192,Coastal Ladder Shelf,Home Office,Shelving,Savannah Living,34850.0,21070.0
+P0193,Deluxe Ladder Shelf,Home Office,Shelving,UrbanNest Basics,27850.0,18130.0
+P0194,Modern Wall Shelf,Home Office,Shelving,Nyati Home,24550.0,16020.0
+P0195,Deluxe Ladder Shelf,Home Office,Shelving,Maridadi Decor,31900.0,20900.0
+P0196,Classic Wall Shelf,Home Office,Shelving,Bright House,20930.0,12380.0
+P0197,Heritage Wall Shelf,Home Office,Shelving,Maridadi Decor,22390.0,14830.0
+P0198,Compact Wall Shelf,Home Office,Shelving,Bright House,35160.0,23040.0
+P0199,Modern Accent Chair,Furniture,Chairs,Savannah Living,39232.700000000004,27220.0
+P0200,Urban Table Lamp,Decor,Lighting,UrbanNest Basics,18550.3,8080.0
+P0201,Classic Standing Desk,Home Office,Desks,Maridadi Decor,11082.800000000001,6740.0
+P0202,Urban Wall Mirror,Decor,Mirrors,Bright House,14502.4,5920.0
