@@ -44,6 +44,38 @@ SELECT ProductID , COUNT(*)
 FROM clean_orders
 WHERE COALESCE(OrderID, CustomerID, ProductID ,StoreID ,PaymentMethod ) IS NULL;
 
+--Duplicates , the COUNT shows both/all occurrences of duplicates
+SELECT *
+FROM (
+    SELECT
+        *,
+        COUNT(*) OVER (
+            PARTITION BY OrderID, CustomerID, ProductID, OrderDate,
+                         Quantity, UnitPrice_KES, DiscountPct ,Channel, ShippingDays,
+                        OrderStatus
+        ) AS duplicate_count
+    FROM clean_orders
+) ranked
+WHERE duplicate_count > 1
+ORDER BY OrderID;
+
+--Duplicates using cte
+WITH duplicate_cte AS (
+SELECT *, ROW_NUMBER() OVER (PARTITION BY OrderID, CustomerID, ProductID, OrderDate,
+                         Quantity, UnitPrice_KES, DiscountPct ,Channel, ShippingDays,
+                        OrderStatus ) AS row_num
+FROM clean_orders )
+SELECT *
+FROM duplicate_cte
+WHERE row_num > 1;
+
+CREATE TABLE clean_orders_backup AS 
+SELECT * FROM clean_orders;
+
+SELECT * FROM clean_orders_backup;
+
+SELECT row
+
 --Standadizing the relevant columns 
 --Standadize OrderStatus column
 UPDATE clean_orders
