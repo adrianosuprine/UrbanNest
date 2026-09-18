@@ -50,8 +50,8 @@ FROM (
     SELECT
         *,
         COUNT(*) OVER (
-            PARTITION BY OrderID, CustomerID, ProductID, OrderDate,
-                         Quantity, UnitPrice_KES, DiscountPct ,Channel, ShippingDays,
+            PARTITION BY OrderID, OrderDate, CustomerID, ProductID, StoreID ,
+                         Channel, Quantity, UnitPrice_KES, DiscountPct ,PaymentMethod , ShippingDays,
                         OrderStatus
         ) AS duplicate_count
     FROM clean_orders
@@ -59,23 +59,51 @@ FROM (
 WHERE duplicate_count > 1
 ORDER BY OrderID;
 
---Duplicates using cte
+--Duplicates using cte..... shows occurences that should be deleted
 WITH duplicate_cte AS (
-SELECT *, ROW_NUMBER() OVER (PARTITION BY OrderID, CustomerID, ProductID, OrderDate,
-                         Quantity, UnitPrice_KES, DiscountPct ,Channel, ShippingDays,
+SELECT *, ROW_NUMBER() OVER (PARTITION BY OrderID, OrderDate, CustomerID, ProductID, StoreID ,
+                         Channel, Quantity, UnitPrice_KES, DiscountPct ,PaymentMethod , ShippingDays,
                         OrderStatus ) AS row_num
 FROM clean_orders )
 SELECT *
 FROM duplicate_cte
 WHERE row_num > 1;
 
-CREATE TABLE clean_orders_backup AS 
-SELECT * FROM clean_orders;
+WITH duplicate_cte AS (
+SELECT *, ROW_NUMBER() OVER (PARTITION BY OrderID, OrderDate, CustomerID, ProductID, StoreID ,
+                         Channel, Quantity, UnitPrice_KES, DiscountPct ,PaymentMethod , ShippingDays,
+                        OrderStatus ) AS row_num
+FROM clean_orders )
+DELETE
+FROM duplicate_cte
+WHERE row_num > 1;
 
-SELECT * FROM clean_orders_backup;
-
-SELECT row
-
+CREATE TABLE clean_orders_st2 (
+    OrderID TEXT,
+    OrderDate TEXT,
+    CustomerID TEXT,
+    ProductID TEXT,
+    StoreID TEXT,
+    Channel TEXT,
+    Quantity INTEGER,
+    UnitPrice_KES REAL,
+    DiscountPct REAL,
+    PaymentMethod TEXT,
+    OrderStatus TEXT,
+    ShippingDays INTEGER,
+    row_num INTEGER
+   
+);
+SELECT * FROM clean_orders_st2;
+INSERT INTO clean_orders_st2
+SELECT *, ROW_NUMBER() OVER (PARTITION BY OrderID, OrderDate, CustomerID, ProductID, StoreID ,
+                         Channel, Quantity, UnitPrice_KES, DiscountPct ,PaymentMethod , ShippingDays,
+                        OrderStatus ) AS row_num
+FROM clean_orders;
+SELECT * FROM clean_orders_st2
+WHERE row_num > 1;
+DELETE FROM clean_orders_st2
+WHERE row_num > 1;
 --Standadizing the relevant columns 
 --Standadize OrderStatus column
 UPDATE clean_orders
