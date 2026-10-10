@@ -32,17 +32,37 @@ WHERE COALESCE(OrderID, '')=''
 	AND COALESCE(OrderStatus, '')=''
 	AND COALESCE(ShippingDays , '')='' ;
 
---Checks for disctinct values on Channel column
-SELECT DISTINCT OrderID  
+--Standardizing the OrderDate Column
+SELECT OrderDate AS original,
+    CASE
+        WHEN OrderDate LIKE '__/__/____'
+            THEN substr(OrderDate,7,4) || '-' || substr(OrderDate,4,2) || '-' || substr(OrderDate,1,2)
+        WHEN OrderDate LIKE '____-__-__ __:__:__'
+            THEN substr(OrderDate,1,10)
+        WHEN OrderDate LIKE '____/__/__'
+        	THEN substr(OrderDate,1,4) || '-' || substr(OrderDate,6,2) || '-' || substr(OrderDate,9,2)
+        WHEN OrderDate LIKE '__-___-____'
+            THEN substr(OrderDate,8,4) || '-' ||
+                 printf('%02d', (instr('JanFebMarAprMayJunJulAugSepOctNovDec', substr(OrderDate,4,3)) - 1) / 3 + 1)
+                 || '-' || substr(OrderDate,1,2)
+        ELSE OrderDate
+    END AS standardized
 FROM clean_orders;
 
-SELECT PaymentMethod ,COUNT(*) 
-FROM clean_orders
-WHERE  PaymentMethod IS NULL;
-
-SELECT ProductID , COUNT(*)
-FROM clean_orders
-WHERE COALESCE(OrderID, CustomerID, ProductID ,StoreID ,PaymentMethod ) IS NULL;
+UPDATE clean_orders
+SET OrderDate = CASE
+        WHEN OrderDate LIKE '__/__/____'
+            THEN substr(OrderDate,7,4) || '-' || substr(OrderDate,4,2) || '-' || substr(OrderDate,1,2)
+        WHEN OrderDate LIKE '____-__-__ __:__:__'
+            THEN substr(OrderDate,1,10)
+        WHEN OrderDate LIKE '____/__/__'
+        	THEN substr(OrderDate,1,4) || '-' || substr(OrderDate,6,2) || '-' || substr(OrderDate,9,2)
+        WHEN OrderDate LIKE '__-___-____'
+            THEN substr(OrderDate,8,4) || '-' ||
+                 printf('%02d', (instr('JanFebMarAprMayJunJulAugSepOctNovDec', substr(OrderDate,4,3)) - 1) / 3 + 1)
+                 || '-' || substr(OrderDate,1,2)
+        ELSE OrderDate
+    END;
 
 --Duplicates , the COUNT shows both/all occurrences of duplicates
 SELECT *
@@ -69,14 +89,18 @@ SELECT *
 FROM duplicate_cte
 WHERE row_num > 1;
 
-WITH duplicate_cte AS (
-SELECT *, ROW_NUMBER() OVER (PARTITION BY OrderID, OrderDate, CustomerID, ProductID, StoreID ,
-                         Channel, Quantity, UnitPrice_KES, DiscountPct ,PaymentMethod , ShippingDays,
-                        OrderStatus ) AS row_num
-FROM clean_orders )
-DELETE
-FROM duplicate_cte
-WHERE row_num > 1;
+--WITH duplicate_cte AS (
+--SELECT *, ROW_NUMBER() OVER (PARTITION BY OrderID, OrderDate, CustomerID, ProductID, StoreID ,
+--                         Channel, Quantity, UnitPrice_KES, DiscountPct ,PaymentMethod , ShippingDays,
+--                        OrderStatus ) AS row_num
+--FROM clean_orders )
+--DELETE
+--FROM duplicate_cte
+--WHERE row_num > 1;
+
+SELECT *
+FROM clean_orders_st2 
+WHERE OrderID = "O001830";
 
 CREATE TABLE clean_orders_st2 (
     OrderID TEXT,
@@ -94,7 +118,9 @@ CREATE TABLE clean_orders_st2 (
     row_num INTEGER
    
 );
-SELECT * FROM clean_orders_st2;
+SELECT * 
+FROM clean_orders_st2;
+
 INSERT INTO clean_orders_st2
 SELECT *, ROW_NUMBER() OVER (PARTITION BY OrderID, OrderDate, CustomerID, ProductID, StoreID ,
                          Channel, Quantity, UnitPrice_KES, DiscountPct ,PaymentMethod , ShippingDays,
@@ -104,8 +130,33 @@ SELECT * FROM clean_orders_st2
 WHERE row_num > 1;
 DELETE FROM clean_orders_st2
 WHERE row_num > 1;
+
+
 --Standadizing the relevant columns 
+UPDATE clean_orders
+SET OrderID = TRIM(OrderID), 
+OrderDate = TRIM(OrderDate), 
+CustomerID = TRIM(CustomerID), 
+ProductID = TRIM(ProductID), 
+StoreID = TRIM(StoreID),                    
+Channel = TRIM(Channel), 
+Quantity = TRIM(Quantity), 
+UnitPrice_KES = TRIM(UnitPrice_KES ), 
+DiscountPct = TRIM(DiscountPct ),
+PaymentMethod = TRIM(PaymentMethod ), 
+ShippingDays = TRIM(ShippingDays ),                   
+OrderStatus = TRIM(OrderStatus);
+
+
+
+
+SELECT DISTINCT StoreID , COUNT()
+FROM clean_orders;
+
 --Standadize OrderStatus column
+SELECT DISTINCT OrderStatus 
+FROM clean_orders;
+
 UPDATE clean_orders
 SET OrderStatus = 
     CASE
@@ -115,17 +166,12 @@ SET OrderStatus =
         ELSE OrderStatus
     END;
 
-SELECT OrderStatus , COUNT(*)
-FROM clean_orders
-GROUP BY OrderStatus;
-
 --Standadize Paymentmethod column
+SELECT DISTINCT PaymentMethod  
+FROM clean_orders;
+
 UPDATE clean_orders
 SET PaymentMethod = PROPER(TRIM(PaymentMethod));
-
-SELECT PaymentMethod, COUNT(*)
-FROM clean_orders
-GROUP BY PaymentMethod;
 
 --Completely updates the table and standardize the column
 UPDATE clean_orders
@@ -148,7 +194,13 @@ SELECT PaymentMethod, COUNT(*)
 FROM clean_orders
 GROUP BY PaymentMethod;
 
+SELECT PaymentMethod ,COUNT(*) 
+FROM clean_orders
+WHERE  PaymentMethod IS NULL;
 
+SELECT ProductID , COUNT(*)
+FROM clean_orders
+WHERE COALESCE(OrderID, CustomerID, ProductID ,StoreID ,PaymentMethod ) IS NULL;
 
 --WHERE CLAUSE ... helps filter the rows data
 --Logical operators - AND, OR 
