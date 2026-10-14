@@ -64,6 +64,25 @@ SET OrderDate = CASE
         ELSE OrderDate
     END;
 
+--Checking Invalid Qunatity Entries
+SELECT *
+FROM clean_orders
+WHERE Quantity <= 0
+ORDER BY Quantity;
+
+--Updating the quantities below zero to their absolute values, as an assumption of invalid negative data entry errors.
+SELECT Quantity, ABS(Quantity) AS new_quantity, *
+FROM clean_orders
+WHERE Quantity < 0;
+
+UPDATE clean_orders 
+SET Quantity = ABS(Quantity)
+WHERE Quantity < 0;
+
+--Deleting those of zero quantity of ,1% of the data 
+DELETE FROM clean_orders WHERE Quantity = 0;
+
+
 --Duplicates , the COUNT shows both/all occurrences of duplicates
 SELECT *
 FROM (
