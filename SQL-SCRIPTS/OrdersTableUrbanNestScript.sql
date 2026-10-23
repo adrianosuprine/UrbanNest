@@ -81,6 +81,29 @@ WHERE Quantity < 0;
 
 --Deleting those of zero quantity of ,1% of the data 
 DELETE FROM clean_orders WHERE Quantity = 0;
+--Looking into non-distinct orderIds looking in to the details 
+SELECT OrderID, COUNT(*) as record_count,
+COUNT(DISTINCT StoreID) AS store_count
+FROM clean_orders
+GROUP BY OrderID
+HAVING COUNT(*) > 1;
+
+--Two records that appear with duplicates but with different store_id that dont seem to be in the main store data source
+Finding the records whose store_id do not exist in the stores table ,......
+SELECT o.* 
+FROM clean_orders AS o 
+LEFT JOIN stores AS s
+	ON o.StoreID = s.StoreID
+WHERE s.StoreID IS NULL;
+
+SELECT *
+FROM clean_orders
+WHERE OrderID = "O006193";
+
+SELECT *
+FROM clean_orders
+WHERE OrderID = "O007019";
+
 
 
 --Duplicates , the COUNT shows both/all occurrences of duplicates
@@ -118,8 +141,8 @@ WHERE row_num > 1;
 --WHERE row_num > 1;
 
 SELECT *
-FROM clean_orders_st2 
-WHERE OrderID = "O001830";
+FROM clean_orders
+WHERE OrderID = "O007019";
 
 CREATE TABLE clean_orders_st2 (
     OrderID TEXT,
